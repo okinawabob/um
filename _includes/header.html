@@ -1,0 +1,13 @@
+<header>
+    <div id="navBox">
+        <div id="navBtnUMUC"><a href='../index.html' title='Back to UMUC courses that I teach'></a></div>
+        <div id="courseID">{{page.title}} • {{page.subtitle}}</div>
+        <br>
+        <ul>
+          <li class='top'><a href='#Top' title='Scroll to TOP'>&#8679; Top</a></li>
+          {% for nI in (1..8) %}
+          <li><a href='#Week{{nI}}' title='Scroll to Week {{nI}}'>Week&nbsp;{{nI}}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+  </header>
