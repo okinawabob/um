@@ -2,7 +2,7 @@
 layout: default
 title: "UMUC"
 subtitle: "Courses that I teach frequently"
-image: "/assets/Bart-Chalk.jpg"
+image: ({{site.baseurl}}/assets"/assets/Bart-Chalk.jpg"
 ---
 
 ## Courses that I frequently teach:

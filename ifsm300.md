@@ -2,14 +2,14 @@
 layout: umuc
 title: "IFSM300"
 subtitle: "Info Systems in Organizations"
-image: "/assets/UMUC-Asia-600x69.png"
-permalink: "/ifsm300/"
+image: "{{site.baseurl}}/assets/assets/UMUC-Asia-600x69.png"
+permalink: "({{site.baseurl}}/assets/ifsm300/"
 ---
 
 ![UMUC Asia]({{page.image}}){: .logo}
 {: #Top .anchor}
 
-![Me](/assets/MyMug150_2014.gif)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
+![Me]({{site.baseurl}}/assets/MyMug150_2014.gif)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
 
 <script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMST385", "")</script>
 
@@ -44,7 +44,7 @@ Robert Laurie
 ## Week 8: Final Exam Time
 {: #Week8 .week}
 
-![Success](/assets/Wk8.png)
+![Success]({{site.baseurl}}/assets/Wk8.png)
 
 
 I hope you feel are more comfortable with mathematics after taking this course and you will find it a useful skill when you apply it in life situations. It is your best critical thinking skill to help you make financial decisions. Mathematics is the basis of technology development and understanding physical sciences. If you would like to progress in mathematics, please take the placement test and request MATH107 College Algebra. MATH107 is transferable to all universities and colleges.
