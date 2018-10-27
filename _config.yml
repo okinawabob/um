@@ -18,8 +18,8 @@ email: r.m.l.128+github@gmail.com
 author: "Robert M. Laurie"
 description: >- # this means to ignore newlines until "baseurl:"
   This web site section contains webpages for the courses that I teach at UMUC Asia.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/um" # the subpath of your site, e.g. /blog
+url: "http://islandman.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
