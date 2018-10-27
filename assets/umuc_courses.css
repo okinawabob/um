@@ -47,7 +47,7 @@ main a:hover {text-decoration:underline; color:#C33;}
 main a:active {text-decoration:underline; color:#E00;}
 
 header {
-  position:fixed;
+  position: fixed;
   height: 70px;
   top: 0;
   left: 0;
@@ -71,7 +71,7 @@ footer {
 }
 
 .navBox {
-  display: inline-block;
+  display: block;
   width: 640px;
   margin-left: auto;
   margin-right: auto;
