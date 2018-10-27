@@ -14,7 +14,7 @@ permalink: "/math103/"
 <script>AntiSpam("moc", "htam+82.1lmr", "liamg", "MATH103", "")</script>
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the hosting URL  
-[http://islandman.org/umuc/math103/](http://islandman.org/umuc/math103/).
+[http://islandman.org/um/math103/](http://islandman.org/um/math103/).
 
 ### So lets get started...
 

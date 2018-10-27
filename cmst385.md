@@ -14,7 +14,7 @@ permalink: "/cmst385/"
 <script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMST385", "")</script>
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the hosting URL  
-[http://islandman.org/umuc/cmst385/](http://islandman.org/umuc/cmst385/).
+[http://islandman.org/um/cmst385/](http://islandman.org/um/cmst385/)
 
 ### So lets get started...
 

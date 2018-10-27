@@ -13,7 +13,8 @@ permalink: "/ifsm300/"
 
 <script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMST385", "")</script>
 
-
+I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the hosting URL  
+[http://islandman.org/um/ifsm300/](http://islandman.org/um/ifsm300/).
 I recommend that you get started with Week 1 content today, by clicking Week 1 in the navigation bar above or scrolling down.
 
 Robert Laurie
