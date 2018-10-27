@@ -130,13 +130,17 @@ footer .navBox ul {
 	font-family: 'Open Sans', sans-serif;
 }
 
-header .navBox ul li a {
-  display: inline-block;
-  border-radius: 6px;
-  font-weight: bold;
-  padding: 1px 5px;
-  margin-right: 5px;
-  text-decoration: none;
+
+
+header.default .navBox ul li a:link, .navBox ul li a:visited {  
+  color: #634;
+  background-color: #ea3;
+  border: 2px outset #650;
+}
+header.default .navBox ul li a:hover, .navBox ul li a:active {
+  color: #C36;
+  background-color: #feb;
+  border: 2px outset #983;
 }
 
 
@@ -520,4 +524,26 @@ li.top a::before {
   font-size: 16px;
   content: "\f1c1";
   color: #a36;
+}
+
+header.default {
+  height: 40px;
+}
+
+header .navBox ul li a {
+  display: inline-block;
+  border-radius: 6px;
+  font-weight: bold;
+  padding: 1px 5px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+
+
+header.default .navBox ul li a {
+  border-radius: 6px;
+  font-weight: bold;
+  padding: 5px 5px;
+  text-decoration: none;
 }

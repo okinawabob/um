@@ -1,0 +1,13 @@
+<header class="default">
+     <div class="navBox">
+        <ul>
+            <li><a href='http://islandman.org' title='Go to site home page'>&#8962; Home</a></li>
+          {% for page in site.pages %}
+            {% if page.layout == "umuc" %}
+            <li><a href='{{site.baseurl}}{{page.url}}' title='{{page.subtitle}}'>{{page.title}}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <div class="navBtnUMUC"><a href='https://www.asia.umuc.edu' title='Go to UMUC Asia website'></a></div>
+  </div>
+</header>
