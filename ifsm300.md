@@ -6,7 +6,7 @@ image: "{{site.baseurl}}/assets/assets/UMUC-Asia-600x69.png"
 permalink: "/ifsm300/"
 ---
 
-![UMUC Asia]({{page.image}}){: .logo}
+![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
 ![Me]({{site.baseurl}}/assets/MyMug150_2014.gif)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
