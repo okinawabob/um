@@ -1,9 +1,9 @@
 ---
 layout: umuc
-title: "IFSM201"
-subtitle: "Concepts and Apps of Info Tech"
+title: "CMIS102"
+subtitle: "Intro to Computer Programming"
 image: "/assets/UMUC-Asia-600x69.png"
-permalink: "/ifsm201/"
+permalink: "/cmis102/"
 ---
 
 ![UMUC Asia]({{page.image}}){: .logo}

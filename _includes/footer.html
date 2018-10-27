@@ -1,7 +1,16 @@
 <footer>
- <!-- {% for page in site.pages %}
- # <a href="{{site.baseurl}}/{{page}}" title='Go to {{page}}'>{{nI}}</a> | 
- # {% endfor %}
- -->
+    <div id="navBox">
+      
+        <div id="navBtnUMUC"><a href='../index.html' title='Back to UMUC courses that I teach'></a></div>
+        <!--
+        <ul>
+          {% for page in site.pages %}
+            {% if page.layout == "umuc" %}
+            <li><a href='{{page.url}}'>{{page.title}} | </a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      -->
+    </div>    
   Copyright &copy; {{ 'now' | date: "%Y" }} {{site.author}}
 </footer>
