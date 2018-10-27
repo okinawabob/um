@@ -9,7 +9,7 @@ permalink: "/cmst385/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-![Me](/assets/MyMug150_2014.gif)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
+![Me]({{site.baseurl}}/assets/MyMug150_2014.gif)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
 
 <script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMST385", "")</script>
 
