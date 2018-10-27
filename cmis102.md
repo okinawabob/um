@@ -11,7 +11,7 @@ permalink: "/cmis102/"
 
 ![Me]({{site.baseurl}}/assets/MyMug150_2014.gif)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
 
-<script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMST385", "")</script>
+<script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMST385", "")</script>  
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the hosting URL  
 [http://islandman.org/um/cmis102/](http://islandman.org/um/cmis102/).
@@ -27,8 +27,6 @@ I recommend you allocate approximately 18 hours per week to this course:
 - Notebook computer running either: Linux, MacOS, or Windows
 {: .check}
 
-
-  
 [![ebook](/assets/math103/ebook.jpg)](/assets/math103/Book-Complete.pdf) UMUC has moved to free online resources to support all courses and Will Tenney a UMUC faculty member has written a 433 page eBook titled [Math for Today's World](/assets/math103/Book-Complete.pdf). The eBook contains examples and exercises for each section that we will use for the course. Answers to all odd numbered exercises are in the appendix at the end of the book. You are required to do the specified exercises at the end of each section, which will be odd numbered problems so you can check your answers. I have split this ebook in to multiple PDF files so you can simply download two chapters at a time and included bookmarks to aid in navigation for each chapter, sections, exercises and answers.
 
 

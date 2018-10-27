@@ -416,12 +416,12 @@ Please download and print the following before class:
 {: .pdf}
 
 Your calculator may have a Statistics (STAT) mode that would do the standard deviation calculation after all data values are entered with frequencies. Please consult your Calculator User Manual below:
-  - Texas Instrument TI-36X Pro [Reference Manual]({{site.baseurl}}/assets/math103/TI36PRO_Guidebook_EN.pdf "Right click this link and open in new tab") @ AAFES Price = $18.99
-  - **Canon F-719SG** [Reference Manual]({{site.baseurl}}/assets/math103/F-719SG.pdf "Right click this link and open in new tab") @ MCX Price = $10.99
-  - Texas Instrument TI-30X IIS (solar) [Reference Manual]({{site.baseurl}}/assets/math103/TI-30XIIS-B_ReferenceManual.pdf "Right click this link and open in new tab") 
-  - Casio fx-300ES Plus [Reference Manual]({{site.baseurl}}/assets/math103/fx-300ES_PLUS_EN.pdf "Right click this link and open in new tab")  
-  - or Casio fx-115 ES Plus [Reference Manual]({{site.baseurl}}/assets/math103/fx-115_991ES_PLUS_C_EN.pdf "Right click this link and open in new tab")
-  {: .calc}
+- Texas Instrument TI-36X Pro [Reference Manual]({{site.baseurl}}/assets/math103/TI36PRO_Guidebook_EN.pdf "Right click this link and open in new tab") @ AAFES Price = $18.99  
+- **Canon F-719SG** [Reference Manual]({{site.baseurl}}/assets/math103/F-719SG.pdf "Right click this link and open in new tab") @ MCX Price = $10.99
+- Texas Instrument TI-30X IIS (solar) [Reference Manual]({{site.baseurl}}/assets/math103/TI-30XIIS-B_ReferenceManual.pdf "Right click this link and open in new tab") 
+- Casio fx-300ES Plus [Reference Manual]({{site.baseurl}}/assets/math103/fx-300ES_PLUS_EN.pdf "Right click this link and open in new tab")  
+- or Casio fx-115 ES Plus [Reference Manual]({{site.baseurl}}/assets/math103/fx-115_991ES_PLUS_C_EN.pdf "Right click this link and open in new tab")
+{: .calc}
   
 ### YouTube Video Links:
 
