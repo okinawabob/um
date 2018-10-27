@@ -27,9 +27,6 @@ I recommend you allocate approximately 18 hours per week to this course:
 - Notebook computer running either: Linux, MacOS, or Windows
 {: .check}
 
-[![ebook](/assets/math103/ebook.jpg)](/assets/math103/Book-Complete.pdf) UMUC has moved to free online resources to support all courses and Will Tenney a UMUC faculty member has written a 433 page eBook titled [Math for Today's World](/assets/math103/Book-Complete.pdf). The eBook contains examples and exercises for each section that we will use for the course. Answers to all odd numbered exercises are in the appendix at the end of the book. You are required to do the specified exercises at the end of each section, which will be odd numbered problems so you can check your answers. I have split this ebook in to multiple PDF files so you can simply download two chapters at a time and included bookmarks to aid in navigation for each chapter, sections, exercises and answers.
-
-
 I recommend that you get started with Week 1 content today, by clicking Week 1 in the navigation bar above or scrolling down.
 
 Robert Laurie

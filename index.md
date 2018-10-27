@@ -2,14 +2,15 @@
 layout: default
 title: "UMUC"
 subtitle: "Courses that I teach frequently"
-image: "{{site.baseurl}}/assets/Bart-Chalk.jpg"
+image: "/assets/Bart-Chalk.jpg"
 ---
 
 ## Courses that I frequently teach:
 
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
-{: #Top .anchor}
 
 #### I have taught these courses at Iwakuni, Okinawa, Misawa, and Guam.
+
+[home](site.url)
 
 {% include page-nav.html %}

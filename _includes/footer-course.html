@@ -1,13 +1,12 @@
 <footer>
      <div class="navBox">
-        <div id=copy>I also teach -->   </div>
         <ul>
           {% for page in site.pages %}
             {% if page.layout == "umuc" %}
-            <li><a href='{{site.baseurl}}{{page.url}}' title='{{site.baseurl}}{{page.subtitle}}'>{{page.title}}</a></li>
+            <li><a href='{{site.baseurl}}{{page.url}}' title='{{page.subtitle}}'>{{page.title}}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
-        <div class="navBtnUMUC"><a href='{{site.url}}{{site.baseurl}}' title='Back to UMUC courses that I teach'></a></div>
+        <div class="navBtnUMUC"><a href='{{site.url}}{{site.baseurl}}/' title='Back to UMUC courses that I teach'></a></div>
   </div>
 </footer>
