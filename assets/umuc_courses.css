@@ -279,8 +279,8 @@ th, td {
   vertical-align: middle;
 }
 thead {
-  background: #395870;
-  background: linear-gradient(#49708f, #293f50);
+  background: rgb(223, 220, 141);
+  background: linear-gradient(#ffb71b, #f2bd85);
   color: #fff;
   font-size: 16px;
   font-variant: small-caps;
