@@ -34,9 +34,9 @@ Robert Laurie
 This week, you will learn how businesses develop their strategies for achieving competitive advantage and how information systems can be used for competitive advantage.  In the Week 1 Learning Resources below, there are a number of resources provided to help you understand this week's concepts and to prepare you to complete the first assignment, which will be due next week.  After reading the Business Perspective Course Module and Chapters 1 and 7 in the e-textbook, you will then read about business strategy and strategic planning. 
 
 Readings for this week:
-- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf)] Chapter 1 What is an Information System?
+- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 1 What is an Information System?
 - eBook Chapter 7 Does IT matter?
-- [The Organizational Model]\({{site.baseurl}}/assets/ifsm300/1-1-Organization-Model.pdf)
+- [The Organizational Model]({{site.baseurl}}/assets/ifsm300/1-1-Organization-Model.pdf)
 - [The Competitive Forces Model]({{site.baseurl}}/assets/ifsm300/1-2-Competitive-Forces-Model.pdf)
 - [Financial Performance Analysis]({{site.baseurl}}/assets/ifsm300/1-3-Financial-Performance-Analysis.pdf)
 - [The Value Chain Concept]({{site.baseurl}}/assets/ifsm300/1-4-Value-Chain-Concept.pdf)
