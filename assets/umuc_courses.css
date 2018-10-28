@@ -24,13 +24,13 @@ body {
   content: "";
   display: block;
   height: 80px;
-  margin-top: -100px;
+  margin-top: -95px;
   margin-bottom: 10px;
 }
 
 main {
   width: 640px;
-  margin-top: 100px;
+  margin-top: 95px;
   margin-left: auto;
   margin-right: auto;
   z-index: 5;
@@ -208,7 +208,7 @@ h1 {
   text-shadow: 2px 2px #CCCCCC;
 }
 h2 {
-  margin:0.8em 0 0.2em 0;
+  margin:1.2em 0 0.2em 0;
   font-size: 1.4em;
   text-shadow: 1px 1px #CCCCCC;
 }
