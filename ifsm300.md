@@ -48,11 +48,15 @@ Readings for this week:
 Please download and print the following before class if you wish to take notes:
 
 - [PowerPoint Slide Show 1 - Chapters 1 and 7)]({{site.baseurl}}/assets/ifsm300/chap1-7-intro-300.pdf "Right click this link and open in new tab") 
-- [Assignment 1 - Decision Support System]({{site.baseurl}}/assets/ifsm300/asgn1/Asgn1-MIS-rev2.pdf "Right click this link and open in new tab")
-- [Car-Rental-Data.txt]({{site.baseurl}}/assets/ifsm300/asgn1/Car-Rental-Data.txt)
 {: .pdf}
 
-Assignment 1 will use Microsoft Excel to create a Decision Support System used for MIS. It will be considered a two-week assignment and will be due Week 3. To do this assignment you need to download both the instructions located in the Asgn1-MIS.pdf file and the import data in the Car-Rental-Data.txt file.
+### Assignment 1 
+
+Microsoft Excel will be used to create a Decision Support System used for MIS. It will be considered a two-week assignment and will be due Week 3. To do this assignment you need to download both the instructions located in the Asgn1-MIS.pdf file and the import data in the Car-Rental-Data.txt file.
+
+- [Assignment 1 - Decision Support System]({{site.baseurl}}/assets/ifsm300/asgn1/Asgn1-MIS-rev2.pdf "Right click this link and open in new tab")
+- [Car-Rental-Data.txt]({{site.baseurl}}/assets/ifsm300/asgn1/Car-Rental-Data.txt)
+{: .todo}
 
 > Week 1: Please review the Excel tutorials which are essential content from IFSM201 if you need a refresher. 
 Complete Steps 1 - 22 this week for the assignment on your computer. However, do not upload your file this week. If you have questions then please post in the Ask your Professor discussion.
@@ -61,19 +65,19 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 
 |  [Excel Basics 2010](https://www.gcflearnfree.org/excel2010/) | [Excel Basics 2013](https://www.gcflearnfree.org/excel2013/) | [Excel Basics 2016](https://www.gcflearnfree.org/excel2016/) 
 |---|---|---
-| #1 Getting Started with Excel  | #4 Getting Started with Excel | #1 - Getting Started with Excel 
-| #2 Cell Basics   | #5 Creating and Opening Workbooks | #3 - Creating and Opening Workbooks
-| #3 Modifying Columns, Rows and Cells   | #6 Saving and Sharing Workbooks | #4 - Saving and Sharing Workbooks
-| #4 Formatting Cells   | #7 Cell Basics | #5 - Cell Basics
-| #5 Saving   | #8 Modifying Columns, Rows and Cells | #6 - Modifying Columns, Rows and Cells
-| #6 Creating Simple Formulas   | #9 Formatting Cells  | #7 - Formatting Cells
-| #7 Worksheet Basics   | #10 Worksheet Basics  | #8 - Understanding Number Formats
-| #8 Printing   | #11 Page Layout  | #9 - Working with Multiple Worksheets
-| #9 Complex Formulas   | #12 Printing Workbooks | #12 - Page Layout and Printing
-| __#10 Functions__   | #13 Simple Formulas  | #13 - Intro to Formulas
-| __#17 Charts__   | #14 Complex Formulas | #14 - Creating More Complex Formulas
-|   | #15 Relative and Absolute Cell References | #15 - Relative and Absolute Cell References
-|   | __#16 Functions__  | __#16 - Functions__
+| #1 Getting Started with Excel  | #4 Getting Started with Excel | #1 Getting Started with Excel 
+| #2 Cell Basics   | #5 Creating and Opening Workbooks | #3 Creating and Opening Workbooks
+| #3 Modifying Columns, Rows and Cells   | #6 Saving and Sharing Workbooks | #4 Saving and Sharing Workbooks
+| #4 Formatting Cells   | #7 Cell Basics | #5 Cell Basics
+| #5 Saving   | #8 Modifying Columns, Rows and Cells | #6 Modifying Columns, Rows and Cells
+| #6 Creating Simple Formulas   | #9 Formatting Cells  | #7 Formatting Cells
+| #7 Worksheet Basics   | #10 Worksheet Basics  | #8 Understanding Number Formats
+| #8 Printing   | #11 Page Layout  | #9 Working with Multiple Worksheets
+| #9 Complex Formulas   | #12 Printing Workbooks | #12 Page Layout and Printing
+| __#10 Functions__   | #13 Simple Formulas  | #13 Intro to Formulas
+| __#17 Charts__   | #14 Complex Formulas | #14 Creating More Complex Formulas
+|   | #15 Relative and Absolute Cell References | #15 Relative and Absolute Cell References
+|   | __#16 Functions__  | __#16 Functions__
 |   | __#22 Charts__ | __#23 Charts__
 
 ### Watch YouTube Videos
@@ -89,27 +93,49 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 1. [Gordon, Brynjolfsson debate future of work](https://youtu.be/ofWK5WglgiI) 13m
 {: .vid}
 
-
-
-
-## Week 2: IT Strategy
-{: #Week1 .week}
-
-Last week’s readings explained the importance of competitive advantage and a variety of ways that a business can analyze its environment to evaluate factors that influence its ability to maintain a profitable business.  This week we take the analysis one step further, with a look at how those business strategies drive planning for information technology. You will learn how organizations link their business strategy and their IT strategy.  Since the internet offers many ways of improving business processes, you will then examine the various electronic business models and how they are used. 
-
-Assignment 1 will use Microsoft Excel to create a Decision Support System used for MIS. It will be considered a two-week assignment and will be due Week 3. To do this assignment you need to download both the instructions located in the Asgn1-MIS.pdf file and the import data in the Car-Rental-Data.txt file.
-
-
-Week 2: Please review the Additional Excel tutorials posted so that you will be able to create pivot tables. Then complete all remaining steps 23 - 40 of Assignment 1 and upload the completed Excel file to the assignment folder.
-
-MacOS users notice: MS Excel for Mac does not allow the creation of pivot charts, so just examine the tutorials on this topic. Assignment 1 does not require pivot charts, but if you are Windows user then you may experiment with the concept.
-
-## Week 3: IT Infrastructure
+## Week 2: IT Infrastructure
 {: #Week3 .week}
 
 This week, you will learn how the components of the technical infrastructure are combined to provide IT solutions that meet business objectives. You will learn the key terms associated with the technical infrastructure, and why total cost of ownership is an important consideration. To begin, you will read Chapters 2, 3, and 5 of the e-textbook, and complete the Solution Building module.  Then you will learn what business processes are and how they are analyzed and improved using process analysis, modeling and reengineering.
+
+Readings for this week:
+
+- [Enterprise Architecture]({{site.baseurl}}/assets/ifsm300/wk2/2-4-Enterprise Architecture.pdf)
+- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 2 Information System Hardware
+- eBook Chapter 3 Information System Software
+- [Composition of IT Infrastructure]({{site.baseurl}}/assets/ifsm300/wk2/2-5-Composition of the IT Infrastructure .pdf)
+- [Total Cost of Ownership]({{site.baseurl}}/assets/ifsm300/wk2/2-6-total cost of ownership (TCO).pdf)
+- eBook Chapter 5 Networking and Communication
+- [Optimizing Business Processes]({{site.baseurl}}/assets/ifsm300/wk2/2-7-Optimizing Business Processes.pdf)
+{: .read}
+
+### Assignment 1 
+
+Microsoft Excel will be used to create a Decision Support System used for MIS. It will be considered a two-week assignment and will be due Week 3. To do this assignment you need to download both the instructions located in the Asgn1-MIS.pdf file and the import data in the Car-Rental-Data.txt file.
+
+- [Assignment 1 - Decision Support System]({{site.baseurl}}/assets/ifsm300/asgn1/Asgn1-MIS-rev2.pdf "Right click this link and open in new tab")
+- [Car-Rental-Data.txt]({{site.baseurl}}/assets/ifsm300/asgn1/Car-Rental-Data.txt)
+{: .todo}
+
+> Week 2: Please review the Additional Excel tutorials posted so that you will be able to create pivot tables. Then complete all remaining steps 23 - 40 of Assignment 1 and upload the completed Excel file to the assignment folder.
+
+### Continue [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
+
+|  [Excel Basics 2010](https://www.gcflearnfree.org/excel2010/) | [Excel Basics 2013](https://www.gcflearnfree.org/excel2013/) | [Excel Basics 2016](https://www.gcflearnfree.org/excel2016/) 
+|---|---|---
+| #11 Sorting Data  | #17 Freezing Panes and View Options | #17 Tips for Working with Data
+| #12 Outlining Data   | #18 Sorting Data | #18 Freezing Panes 
+| #13 Filtering Data   | #19 Filtering Data | #19 Sorting Data
+| #14 Formatting Tables   | #20 Groups and Subtotals | #20 Filtering Data
+| #19 Conditional Formatting   | #21 Tables | #22 Tables
+| #20 Creating PivotTables   | #26 Conditional Formatting  | #24 Conditional Formatting
+| #21 What-If Analysis   | #27 PivotTables  | #27 Intro to PivotTables
+|   | #28 What-If Analysis  | #28 More with PivotTables
+|   |  | #28 What-If Analysis 
+
+> MacOS users notice: MS Excel for Mac does not allow the creation of pivot charts, so just examine the tutorials on this topic. Assignment 1 does not require pivot charts, but if you are Windows user then you may experiment with the concept.
   
-## Week 4: Databases
+## Week 3: Databases
 {: #Week4 .week}
   
 This week, you will learn about data, how businesses collect, store and use data, and how data is secured. To begin, you will read Chapter 4 of the e-textbook. There are also several articles to enhance your understanding of data and its business value. Finally, you will read Chapter 6 of the e-textbook which addresses information system security. 
