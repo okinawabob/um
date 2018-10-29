@@ -287,7 +287,6 @@ thead {
 }
 th:first-child {
   border-top-left-radius: 5px;
-  text-align: left;
 }
 th:last-child {
   border-top-right-radius: 5px;

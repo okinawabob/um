@@ -30,7 +30,7 @@ Robert Laurie
 {: .signature}
 
 ## Week 1: Informations Systems in Organizations
-{: #Week1 .week}
+{: #Week1 .anchor}
 
 This week, you will learn how businesses develop their strategies for achieving competitive advantage and how information systems can be used for competitive advantage.  In the Week 1 Learning Resources below, there are a number of resources provided to help you understand this week's concepts and to prepare you to complete the first assignment, which will be due next week.  After reading the Business Perspective Course Module and Chapters 1 and 7 in the e-textbook, you will then read about business strategy and strategic planning. 
 
@@ -48,7 +48,7 @@ Readings for this week:
 
 Please download and print the following before class if you wish to take notes:
 
-- [PowerPoint Slide Show 1 - Chapters 1 and 7)]({{site.baseurl}}/assets/ifsm300/chap1-7-intro-300.pdf "Right click this link and open in new tab") 
+- [PowerPoint Slide Show 1 - Chapters 1 and 7]({{site.baseurl}}/assets/ifsm300/chap1-7-intro-300.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
 ### Assignment 1 
@@ -64,7 +64,7 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 
 ### Review [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
 
-|  [Excel Basics 2010](https://www.gcflearnfree.org/excel2010/) | [Excel Basics 2013](https://www.gcflearnfree.org/excel2013/) | [Excel Basics 2016](https://www.gcflearnfree.org/excel2016/) 
+| [Excel 2010](https://www.gcflearnfree.org/excel2010/) | [Excel 2013](https://www.gcflearnfree.org/excel2013/) | [Excel 2016](https://www.gcflearnfree.org/excel2016/) 
 |---|---|---
 | #1 Getting Started with Excel  | #4 Getting Started with Excel | #1 Getting Started with Excel 
 | #2 Cell Basics   | #5 Creating and Opening Workbooks | #3 Creating and Opening Workbooks
@@ -94,8 +94,10 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 1. [Gordon, Brynjolfsson debate future of work](https://youtu.be/ofWK5WglgiI) 13m
 {: .vid}
 
+#### Complete Quiz 1 on LEO
+
 ## Week 2: IT Infrastructure
-{: #Week2 .week}
+{: #Week2 .anchor}
 
 This week, you will learn how the components of the technical infrastructure are combined to provide IT solutions that meet business objectives. You will learn the key terms associated with the technical infrastructure, and why total cost of ownership is an important consideration. To begin, you will read Chapters 2, 3, and 5 of the e-textbook, and complete the Solution Building module.  Then you will learn what business processes are and how they are analyzed and improved using process analysis, modeling and reengineering.
 
@@ -111,6 +113,11 @@ Readings for this week:
 - eBook Chapter 8 Business Processes
 {: .read}
 
+Please download and print the following before class if you wish to take notes:
+
+- [PowerPoint Slide Show 2 - Chapters 2, 3, 5, and 8]({{site.baseurl}}/assets/ifsm300/wk2/chap2-3-5-8-300.pdf "Right click this link and open in new tab") 
+{: .pdf}
+
 ### Assignment 1
 
 Microsoft Excel will be used to create a Decision Support System used for MIS. It will be considered a two-week assignment and will be due Week 3. To do this assignment you need to download both the instructions located in the Asgn1-MIS.pdf file and the import data in the Car-Rental-Data.txt file.
@@ -123,7 +130,7 @@ __Week 2:__ Please review the Additional Excel tutorials posted so that you will
 
 ### Continue [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
 
-|  [Excel Basics 2010](https://www.gcflearnfree.org/excel2010/) | [Excel Basics 2013](https://www.gcflearnfree.org/excel2013/) | [Excel Basics 2016](https://www.gcflearnfree.org/excel2016/) 
+| [Excel 2010](https://www.gcflearnfree.org/excel2010/) | [Excel 2013](https://www.gcflearnfree.org/excel2013/) | [Excel 2016](https://www.gcflearnfree.org/excel2016/) 
 |---|---|---
 | #11 Sorting Data  | #17 Freezing Panes and View Options | #17 Tips for Working with Data
 | #12 Outlining Data   | #18 Sorting Data | #18 Freezing Panes 
@@ -136,9 +143,23 @@ __Week 2:__ Please review the Additional Excel tutorials posted so that you will
 |   |  | #28 What-If Analysis
 
 __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot charts, so just examine the tutorials on this topic. Assignment 1 does not require pivot charts, but if you are Windows user then you may experiment with the concept.
-  
+
+### Watch YouTube Videos
+
+1. [What is Supply Chain?](https://youtu.be/Mi1QBxVjZAw "Right click this link and open in new tab") 8m
+1. [Business Processes](https://youtu.be/JUInjQvzIkE "Right click this link and open in new tab") 5m
+1. [Document Management System](https://youtu.be/-1udkX8VCTc) 5m
+1. [What is ERP?](https://youtu.be/6qys-562kp4 "Right click this link and open in new tab") 3m
+1. [BPM](https://youtu.be/iI6T3-7JxdU "Right click this link and open in new tab") 5m
+1. [BPR](https://youtu.be/ee8iGNfem50) 6m
+{: .vid}
+
+
+#### Complete both Quiz 2 and Week 2 Process Quiz on LEO
+
+
 ## Week 3: Databases
-{: #Week3 .week}
+{: #Week3 .anchor}
   
 This week, you will learn about data, how businesses collect, store and use data, and how data is secured. To begin, you will read Chapter 4 of the e-textbook. There are also several articles to enhance your understanding of data and its business value. Finally, you will read Chapter 6 of the e-textbook which addresses information system security. 
 
@@ -152,24 +173,75 @@ Readings for this week:
 - ebook Chapter 6 Information Systems Security
 {: .read}
 
+### Assignment 2
+
+Microsoft Access will be used to create a database for MIS. It will be considered a two-week assignment and will be due Week 5. Microsoft Access was never ported to MacOS. Therefore, MacOS users should do the database in the UMUC computer lab which utilizes Access 2010.
+
+- [Assignment 2 - MIS Database]({{site.baseurl}}/assets/ifsm300/asgn1/Asgn1-MIS-rev2.pdf "Right click this link and open in new tab")
+{: .todo}
+
+Windows users have MS Access only in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft never ported the Access database application to MacOS. Therefore, you may want to use MS Access 2010 to do Assignment 2 in the UMUC Computer Lab/Testing Center.
+
+### Review [GCF Access Tutorials](https://edu.gcfglobal.org/en/)
+
+|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
+|---|---|---
+| #1 Intro to DataBases  | #3 Intro to DataBases | #1 Intro to DataBases
+| #2 Intro to Objects   | #4 Intro to Objects | #2 Intro to Objects
+| #3 Getting Started   | #5 Getting Started | #3 Getting Started
+| #4 Managing Objects   | #6 Managing Objects | #4 Managing Objects
+| #5 Working with Tables   | #7 Working with Tables | #5 Working with Tables
+| #6 Working with Forms   | #8 Working with Forms  | #6 Working with Forms
+| #7 Sorting, Filtering   | #9 Sorting, Filtering  | #7 Sorting, Filtering
+| #8 Designing a Query  | #10 Designing a Simple Query  | #8 Designing a Simple Query
+| #9 More Query Options  | #11 Designing a Multi-Table Query  | #9 Designing a Multi-Table Query
+| #10 Creating Reports | #12 More Query Options | #10 More Query Options
+| #13 Creating Forms | #13 Creating Reports | #11 Creating Reports
+| #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
+|   | #18 Designing Your Own Database |  #16 Designing Your Own Database
+
+Guides for Access 2016 are available below:
+
+- [Access 2016 Intro to Access](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Intro_to_Access.pdf)
+- [Access 2016 Reports and Queries](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Reports_and_Queries.pdf)
+{: .pdf}
+
+### Watch YouTube Videos
+
+1. [ERD Systems Analysis](https://youtu.be/FpJXQG7EIcE "Right click this link and open in new tab") 8m
+1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
+1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
+1. [Real Data Warehouse](https://youtu.be/y5-3Pjbk8Zk "Right click this link and open in new tab") 5m
+1. [Benefits of a Data Warehouse](https://youtu.be/KGHbY_Sales "Right click this link and open in new tab") 4m
+{: .vid}
+
+#### Complete Quiz 3 on LEO
+
 ## Week 4: ERP, SCM, CRM
-{: #Week4 .week}
+{: #Week4 .anchor}
 
 This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications.
 
+### Watch YouTube Videos
+1. [W. Edwards Demming - Part 1](https://youtu.be/GHvnIm9UEoQ "Right click this link and open in new tab") 10m
+1. [W. Edwards Demming - Part 2](https://youtu.be/mKFGj8sK5R8 "Right click this link and open in new tab") 9m
+1. [W. Edwards Demming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
+1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases)  
+1. [Demming - Fourteen Points](https://deming.org/explore/fourteen-points)  
+
 ## Week 5: SDLC
-{: #Week5 .week}
+{: #Week5 .anchor}
 
 This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications.
 
 ## Week 6: Project Planning 
-{: #Week6 .week}
+{: #Week6 .anchor}
 
 
 ## Week 7: 
-{: #Week7 .week}
+{: #Week7 .anchor}
 
 
 ## Week 8: Project Presentations
-{: #Week8 .week}
+{: #Week8 .anchor}
 
