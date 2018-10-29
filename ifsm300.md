@@ -95,6 +95,7 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 {: .vid}
 
 #### Complete Quiz 1 on LEO
+{: .quiz}
 
 ## Week 2: IT Infrastructure
 {: #Week2 .anchor}
@@ -156,6 +157,7 @@ __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot ch
 
 
 #### Complete both Quiz 2 and Week 2 Process Quiz on LEO
+{: .quiz}
 
 
 ## Week 3: Databases
@@ -173,11 +175,16 @@ Readings for this week:
 - ebook Chapter 6 Information Systems Security
 {: .read}
 
+Please download and print the following before class if you wish to take notes:
+
+- [PowerPoint Slide Show 3 - Chapters 4]({{site.baseurl}}/assets/ifsm300/wk3/wk3-DB.pdf "Right click this link and open in new tab") 
+{: .pdf}
+
 ### Assignment 2
 
 Microsoft Access will be used to create a database for MIS. It will be considered a two-week assignment and will be due Week 5. Microsoft Access was never ported to MacOS. Therefore, MacOS users should do the database in the UMUC computer lab which utilizes Access 2010.
 
-- [Assignment 2 - MIS Database]({{site.baseurl}}/assets/ifsm300/asgn1/Asgn1-MIS-rev2.pdf "Right click this link and open in new tab")
+- [Assignment 2 - MIS Database]({{site.baseurl}}/assets/ifsm300/Asgn2-DB/Asgn2-DB.pdf "Right click this link and open in new tab")
 {: .todo}
 
 Windows users have MS Access only in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft never ported the Access database application to MacOS. Therefore, you may want to use MS Access 2010 to do Assignment 2 in the UMUC Computer Lab/Testing Center.
@@ -216,11 +223,72 @@ Guides for Access 2016 are available below:
 {: .vid}
 
 #### Complete Quiz 3 on LEO
+{: .quiz}
 
-## Week 4: ERP, SCM, CRM
+## Week 4: Enterprise Systems and Modeling Tools
 {: #Week4 .anchor}
 
 This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications.
+
+Readings for this week:
+
+- [Data Introduction]({{site.baseurl}}/assets/ifsm300/wk3/3-1-Data.pdf)
+- [Characteristics of Data Quality]({{site.baseurl}}/assets/ifsm300/wk3/3-2-Characteristics of Quality Data.pdf)
+- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 4 Data and Databases
+- [The Brain Behind the Big, Bad Burger and Other Tales of Business Intelligence](https://www.cio.com/article/2439016/business-intelligence/the-brain-behind-the-big--bad-burger-and-other-tales-of-business-intelligence.html)
+- [ Business Intelligence - Unexpected Insights](https://www.computerworld.com/article/2581229/business-intelligence/unexpected-insights.html)
+- ebook Chapter 6 Information Systems Security
+{: .read}
+
+Please download and print the following before class if you wish to take notes:
+
+- [PowerPoint Slide Show 3 - Chapterss 9 and 10]({{site.baseurl}}/assets/ifsm300/wk3/wk3-DB.pdf "Right click this link and open in new tab") 
+{: .pdf}
+
+### Assignment 2
+
+Microsoft Access will be used to create a database for MIS. It will be considered a two-week assignment and will be due Week 5. Microsoft Access was never ported to MacOS. Therefore, MacOS users should do the database in the UMUC computer lab which utilizes Access 2010.
+
+- [Assignment 2 - MIS Database]({{site.baseurl}}/assets/ifsm300/Asgn2-DB/Asgn2-DB.pdf "Right click this link and open in new tab")
+{: .todo}
+
+Windows users have MS Access only in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft never ported the Access database application to MacOS. Therefore, you may want to use MS Access 2010 to do Assignment 2 in the UMUC Computer Lab/Testing Center.
+
+### Review [GCF Access Tutorials](https://edu.gcfglobal.org/en/)
+
+|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
+|---|---|---
+| #1 Intro to DataBases  | #3 Intro to DataBases | #1 Intro to DataBases
+| #2 Intro to Objects   | #4 Intro to Objects | #2 Intro to Objects
+| #3 Getting Started   | #5 Getting Started | #3 Getting Started
+| #4 Managing Objects   | #6 Managing Objects | #4 Managing Objects
+| #5 Working with Tables   | #7 Working with Tables | #5 Working with Tables
+| #6 Working with Forms   | #8 Working with Forms  | #6 Working with Forms
+| #7 Sorting, Filtering   | #9 Sorting, Filtering  | #7 Sorting, Filtering
+| #8 Designing a Query  | #10 Designing a Simple Query  | #8 Designing a Simple Query
+| #9 More Query Options  | #11 Designing a Multi-Table Query  | #9 Designing a Multi-Table Query
+| #10 Creating Reports | #12 More Query Options | #10 More Query Options
+| #13 Creating Forms | #13 Creating Reports | #11 Creating Reports
+| #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
+|   | #18 Designing Your Own Database |  #16 Designing Your Own Database
+
+Guides for Access 2016 are available below:
+
+- [Access 2016 Intro to Access](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Intro_to_Access.pdf)
+- [Access 2016 Reports and Queries](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Reports_and_Queries.pdf)
+{: .pdf}
+
+### Watch YouTube Videos
+
+1. [ERD Systems Analysis](https://youtu.be/FpJXQG7EIcE "Right click this link and open in new tab") 8m
+1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
+1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
+1. [Real Data Warehouse](https://youtu.be/y5-3Pjbk8Zk "Right click this link and open in new tab") 5m
+1. [Benefits of a Data Warehouse](https://youtu.be/KGHbY_Sales "Right click this link and open in new tab") 4m
+{: .vid}
+
+#### Complete Quiz 3 on LEO
+{: .quiz}
 
 ### Watch YouTube Videos
 1. [W. Edwards Demming - Part 1](https://youtu.be/GHvnIm9UEoQ "Right click this link and open in new tab") 10m
