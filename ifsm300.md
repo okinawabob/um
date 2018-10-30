@@ -229,7 +229,7 @@ Guides for Access 2016 are available below:
 {: #Week4 .anchor}
 
 This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications.
-
+<!--
 Readings for this week:
 
 - [Data Introduction]({{site.baseurl}}/assets/ifsm300/wk3/3-1-Data.pdf)
@@ -312,4 +312,4 @@ This week, you will learn about enterprise systems – what they are and how th
 
 ## Week 8: Project Presentations
 {: #Week8 .anchor}
-
+-->
