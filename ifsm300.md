@@ -224,7 +224,7 @@ Guides for Access 2016 are available below:
 #### Complete Quiz 3 on LEO
 {: .quiz}
 
-## Week 4: Enterprise Systems and Modeling Tools
+## Week 4: Enterprise Systems
 {: #Week4 .anchor}
 
 This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications.
