@@ -232,7 +232,7 @@ This week, you will learn about enterprise systems – what they are and how th
 Readings for this week:
 
 - [Enterprise Applications]({{site.baseurl}}/assets/ifsm300/wk4/4-1-Enterprise_Applications.pdf) This short article covers the concepts involved with enterprise applications. These include: enterprise system, enterprise resource planning (ERP), supply chain management (SCM), and customer relationship management (CRM).
-- [System Quality Attributes](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658094(v=pandp.10) This reading explains several qualities by which software and systems are assessed.
+- [System Quality Attributes](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658094\(v=pandp.10\)) This reading explains several qualities by which software and systems are assessed.
 - [ERP Definitions and Solutions] (https://www.cio.com/article/2439502/enterprise-resource-planning/enterprise-resource-planning-erp-definition-and-solutions.html) This article explains that enterprise resource planning software, or ERP, offers an organization a single computer system to serve all of the needs of all of the departments. 
 - [15 famous ERP disasters, dustups and disappointments](https://www.cio.com/article/2429865/enterprise-resource-planning/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) Here is an enlightening presentation on some of the infamous efforts with ERP and what we can learn from them.
 - ebook Chapter 6 Information Systems Security
