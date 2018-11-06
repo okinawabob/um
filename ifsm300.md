@@ -256,6 +256,7 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 1. [W. Edwards Demming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
 1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases)  
 1. [Demming - Fourteen Points](https://deming.org/explore/fourteen-points)  
+
 <!--  
 ## Week 5: SDLC
 {: #Week5 .anchor}
