@@ -147,7 +147,6 @@ __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot ch
 
 ### Watch YouTube Videos
 
-1. [What is Supply Chain?](https://youtu.be/Mi1QBxVjZAw "Right click this link and open in new tab") 8m
 1. [Business Processes](https://youtu.be/JUInjQvzIkE "Right click this link and open in new tab") 5m
 1. [Document Management System](https://youtu.be/-1udkX8VCTc) 5m
 1. [What is ERP?](https://youtu.be/6qys-562kp4 "Right click this link and open in new tab") 3m
@@ -229,20 +228,21 @@ Guides for Access 2016 are available below:
 {: #Week4 .anchor}
 
 This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications.
-<!--
+
 Readings for this week:
 
-- [Data Introduction]({{site.baseurl}}/assets/ifsm300/wk3/3-1-Data.pdf)
-- [Characteristics of Data Quality]({{site.baseurl}}/assets/ifsm300/wk3/3-2-Characteristics of Quality Data.pdf)
-- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 4 Data and Databases
-- [The Brain Behind the Big, Bad Burger and Other Tales of Business Intelligence](https://www.cio.com/article/2439016/business-intelligence/the-brain-behind-the-big--bad-burger-and-other-tales-of-business-intelligence.html)
-- [ Business Intelligence - Unexpected Insights](https://www.computerworld.com/article/2581229/business-intelligence/unexpected-insights.html)
+- [Enterprise Applications]({{site.baseurl}}/assets/ifsm300/wk4/4-1-Enterprise_Applications.pdf) This short article covers the concepts involved with enterprise applications. These include: enterprise system, enterprise resource planning (ERP), supply chain management (SCM), and customer relationship management (CRM).
+- [System Quality Attributes](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658094(v=pandp.10) This reading explains several qualities by which software and systems are assessed.
+- [ERP Definitions and Solutions] (https://www.cio.com/article/2439502/enterprise-resource-planning/enterprise-resource-planning-erp-definition-and-solutions.html) This article explains that enterprise resource planning software, or ERP, offers an organization a single computer system to serve all of the needs of all of the departments. 
+- [15 famous ERP disasters, dustups and disappointments](https://www.cio.com/article/2429865/enterprise-resource-planning/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) Here is an enlightening presentation on some of the infamous efforts with ERP and what we can learn from them.
 - ebook Chapter 6 Information Systems Security
+- [Supply Chain Management As A Competitive Weapon](https://www.manufacturing.net/article/2007/11/supply-chain-management-competitive-weapon) Can supply chain management help your bottom line?
+- [CRM Projects Done Right Mean Business Process Changes](http://www.saleslogistix.com/company/press/BizProc.pdf) This article talks about the relationship between CRM (customer relationship management) system projects and the processes used for sales and marketing.
 {: .read}
 
 Please download and print the following before class if you wish to take notes:
 
-- [PowerPoint Slide Show 3 - Chapterss 9 and 10]({{site.baseurl}}/assets/ifsm300/wk3/wk3-DB.pdf "Right click this link and open in new tab") 
+- []({{site.baseurl}}/ "Right click this link and open in new tab") 
 {: .pdf}
 
 ### Assignment 2
@@ -252,51 +252,17 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 - [Assignment 2 - MIS Database]({{site.baseurl}}/assets/ifsm300/Asgn2-DB/Asgn2-DB.pdf "Right click this link and open in new tab")
 {: .todo}
 
-Windows users have MS Access only in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft never ported the Access database application to MacOS. Therefore, you may want to use MS Access 2010 to do Assignment 2 in the UMUC Computer Lab/Testing Center.
-
-### Review [GCF Access Tutorials](https://edu.gcfglobal.org/en/)
-
-|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
-|---|---|---
-| #1 Intro to DataBases  | #3 Intro to DataBases | #1 Intro to DataBases
-| #2 Intro to Objects   | #4 Intro to Objects | #2 Intro to Objects
-| #3 Getting Started   | #5 Getting Started | #3 Getting Started
-| #4 Managing Objects   | #6 Managing Objects | #4 Managing Objects
-| #5 Working with Tables   | #7 Working with Tables | #5 Working with Tables
-| #6 Working with Forms   | #8 Working with Forms  | #6 Working with Forms
-| #7 Sorting, Filtering   | #9 Sorting, Filtering  | #7 Sorting, Filtering
-| #8 Designing a Query  | #10 Designing a Simple Query  | #8 Designing a Simple Query
-| #9 More Query Options  | #11 Designing a Multi-Table Query  | #9 Designing a Multi-Table Query
-| #10 Creating Reports | #12 More Query Options | #10 More Query Options
-| #13 Creating Forms | #13 Creating Reports | #11 Creating Reports
-| #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
-|   | #18 Designing Your Own Database |  #16 Designing Your Own Database
-
-Guides for Access 2016 are available below:
-
-- [Access 2016 Intro to Access](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Intro_to_Access.pdf)
-- [Access 2016 Reports and Queries](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Reports_and_Queries.pdf)
-{: .pdf}
-
-### Watch YouTube Videos
-
-1. [ERD Systems Analysis](https://youtu.be/FpJXQG7EIcE "Right click this link and open in new tab") 8m
-1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
-1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
-1. [Real Data Warehouse](https://youtu.be/y5-3Pjbk8Zk "Right click this link and open in new tab") 5m
-1. [Benefits of a Data Warehouse](https://youtu.be/KGHbY_Sales "Right click this link and open in new tab") 4m
-{: .vid}
-
-#### Complete Quiz 3 on LEO
+#### Complete Quiz 4 on LEO
 {: .quiz}
 
 ### Watch YouTube Videos
+1. [What is Supply Chain?](https://youtu.be/Mi1QBxVjZAw "Right click this link and open in new tab") 8m
 1. [W. Edwards Demming - Part 1](https://youtu.be/GHvnIm9UEoQ "Right click this link and open in new tab") 10m
 1. [W. Edwards Demming - Part 2](https://youtu.be/mKFGj8sK5R8 "Right click this link and open in new tab") 9m
 1. [W. Edwards Demming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
 1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases)  
 1. [Demming - Fourteen Points](https://deming.org/explore/fourteen-points)  
-
+<!--
 ## Week 5: SDLC
 {: #Week5 .anchor}
 
