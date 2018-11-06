@@ -239,11 +239,6 @@ Readings for this week:
 - [CRM Projects Done Right Mean Business Process Changes](http://www.saleslogistix.com/company/press/BizProc.pdf) This article talks about the relationship between CRM (customer relationship management) system projects and the processes used for sales and marketing.
 {: .read}
 
-Please download and print the following before class if you wish to take notes:
-
-- []({{site.baseurl}}/ "Right click this link and open in new tab") 
-{: .pdf}
-
 ### Assignment 2
 
 Microsoft Access will be used to create a database for MIS. It will be considered a two-week assignment and will be due Week 5. Microsoft Access was never ported to MacOS. Therefore, MacOS users should do the database in the UMUC computer lab which utilizes Access 2010.
@@ -261,7 +256,7 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 1. [W. Edwards Demming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
 1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases)  
 1. [Demming - Fourteen Points](https://deming.org/explore/fourteen-points)  
-<!--
+<!--  
 ## Week 5: SDLC
 {: #Week5 .anchor}
 
@@ -277,4 +272,6 @@ This week, you will learn about enterprise systems – what they are and how th
 
 ## Week 8: Project Presentations
 {: #Week8 .anchor}
+
+
 -->
