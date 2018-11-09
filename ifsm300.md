@@ -176,7 +176,7 @@ Readings for this week:
 
 Please download and print the following before class if you wish to take notes:
 
-- [PowerPoint Slide Show 3 - Chapters 4]({{site.baseurl}}/assets/ifsm300/wk3/wk3-DB.pdf "Right click this link and open in new tab") 
+- [PowerPoint Slide Show 3 - Chapter 4]({{site.baseurl}}/assets/ifsm300/wk3/wk3-DB.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
 ### Assignment 2
@@ -227,7 +227,7 @@ Guides for Access 2016 are available below:
 ## Week 4: Enterprise Systems
 {: #Week4 .anchor}
 
-This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications.
+This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications. Also the concept of TQM (Total Quality Management ) will be discussed.
 
 Readings for this week:
 
@@ -239,6 +239,11 @@ Readings for this week:
 - [CRM Projects Done Right Mean Business Process Changes](http://www.saleslogistix.com/company/press/BizProc.pdf) This article talks about the relationship between CRM (customer relationship management) system projects and the processes used for sales and marketing.
 {: .read}
 
+Please download and print the following before class if you wish to take notes:
+
+- [PowerPoint Slide Show 4 - Chapters 9 and TQM]({{site.baseurl}}/assets/ifsm300/wk4/chap9-People of IT.pdf "Right click this link and open in new tab") 
+{: .pdf}
+
 ### Assignment 2
 
 Microsoft Access will be used to create a database for MIS. It will be considered a two-week assignment and will be due Week 5. Microsoft Access was never ported to MacOS. Therefore, MacOS users should do the database in the UMUC computer lab which utilizes Access 2010.
@@ -246,7 +251,9 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 - [Assignment 2 - MIS Database]({{site.baseurl}}/assets/ifsm300/Asgn2-DB/Asgn2-DB.pdf "Right click this link and open in new tab")
 {: .todo}
 
-#### Complete Quiz 4 on LEO
+#### Complete Quiz 3 on LEO if not already completed
+{: .quiz}
+#### Complete Quiz 4 on LEO covering enterprise systems
 {: .quiz}
 
 ### Watch YouTube Videos
