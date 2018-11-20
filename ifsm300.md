@@ -266,12 +266,54 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 1. [Demming - Fourteen Points](https://deming.org/explore/fourteen-points)  
 {: .vid}
 
-<!--  
-## Week 5: SDLC
+
+## Week 5: Information Systems Development
 {: #Week5 .anchor}
 
-This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications.
+This week, you will learn about how information systems are developed, and how organizations decide whether to develop their systems in-house or outsource the systems development. To begin, you will read Chapter 10 in the e-textbook where you will learn about the Systems Development Life Cycle (SDLC), a widely accepted framework for the design and development of IT systems.  Then, there is a reading on requirements followed by articles on outsourcing and selecting a Software as a Service (SaaS) vendor.
 
+Readings for this week:
+
+- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 10 Information Systems Development
+- [System Requirements]({{site.baseurl}}/assets/ifsm300/wk5/Requirements.pdf) Chapter 10 Information Systems Development
+- [Buy vs Build Software]({{site.baseurl}}/assets/ifsm300/wk5/BuildVsBuy.pdf) This paper discusses a process to help an organization make a good decision about whether to build or buy a software solution.
+- [HyperOffice - Selecting a SaaS Vendor](https://www.hyperoffice.com/saas-reviews-for-smbs/) A Systematic Approach to Selecting a Software-as-a-service Vendor. 
+{: .read}
+
+Please download and print the following before class if you wish to take notes:
+
+- [PowerPoint Slide Show 5 - Chapters 10 and System Modeling]({{site.baseurl}}/assets/ifsm300/wk5/chap10-Information-Systems-Developement.pdf "Right click this link and open in new tab") 
+{: .pdf}
+
+### Assignment 3
+
+Assignment 3
+
+- [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/Asgn3/FinalProject.pdf "Right click this link and open in new tab")
+- Case Study possibilities
+  - [Saipan Casino Program]({{site.baseurl}}/assets/ifsm300/Asgn3/Casino Case Study.pdf) needs a chip counter at [Saipan](http://imperialpacificsaipan.com/en/)
+  - [Plyco or Video Store Database]({{site.baseurl}}/assets/ifsm300/Asgn3/Case Study Possibilities.pdf)
+  - [Chesapeake IT Consultants]({{site.baseurl}}/assets/ifsm300/Asgn3/Chesapeake IT Consultants Case Study.pdf)
+  - Pick one from above or create your own
+- [Sign up for student account on LucidChart.com](https://www.lucidchart.com/pages/usecase/education) if you have not already done so using your username@umuc.student.edu email account.
+{: .todo}
+
+#### Complete Week 5 Discussion covering Information Systems in Organizations
+
+#### Complete Quiz 5 on LEO covering Information Systems Development
+
+### Watch YouTube Videos
+
+
+1. [Software Development Lifecycle in 9 minutes!](https://youtu.be/i-QyW8D3ei0 "Right click this link and open in new tab") 9m
+1. [Rapid Application and Agile Development Methodologies](https://youtu.be/U5uv81UmU-k "Right click this link and open in new tab") 9m
+1. [Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI "Right click this link and open in new tab") 7m
+1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
+1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
+1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases)  
+{: .vid}
+
+<!--  
 ## Week 6: Project Planning 
 {: #Week6 .anchor}
 
