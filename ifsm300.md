@@ -307,7 +307,7 @@ Assignment 3
 
 1. [Software Development Lifecycle in 9 minutes!](https://youtu.be/i-QyW8D3ei0 "Right click this link and open in new tab") 9m
 1. [Rapid Application and Agile Development Methodologies](https://youtu.be/U5uv81UmU-k "Right click this link and open in new tab") 9m
-1. [Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI "Right click this link and open in new tab") 7m
+1. [Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI "Right click this link and open in new tab") 9m
 1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
 1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
 1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases)  
