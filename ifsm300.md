@@ -356,6 +356,7 @@ Readings for this week:
 
 - [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 11 Globalization and the Digital Divide
 - [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 12 Ethical and Legal Implications of IS
+{: .read}
 
 #### Final Project - For people that want to create website using Markdown
 
