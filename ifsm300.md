@@ -357,23 +357,25 @@ Readings for this week:
 - [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 11 Globalization and the Digital Divide
 - [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 12 Ethical and Legal Implications of IS
 
-### Final Project - For people that want to create website using Markdown
+#### Final Project - For people that want to create website using Markdown
 
 - [IFSM201 Website Assignment Handout]({{site.baseurl}}/assets/Asgn-Markdown.pdf) if you had me for IFSM201
 - [Kramdown = GitHub flavored Markdown](https://kramdown.gettalong.org/quickref.html) has tables and checkboxes
 - [Markdown Tutorial](https://learn-the-web.algonquindesign.ca/topics/markdown/)
 - [Visual Studio Code Editor](https://code.visualstudio.com/) is the best one 
 - [Udemy - Beginner VS Code](https://www.udemy.com/beginner-vs-code/)
-{: .link}
+{: .link}  
+ 
+#### GitHub Hosting, Git, and Visual Studio Code Editor
 
-- [GitHub Hosting in 5 minutes | Free Static Web Hosting | Quick Code](https://youtu.be/hXorYP_HQtM)
+- [GitHub Hosting in 5 minutes - Free Static Web Hosting](https://youtu.be/hXorYP_HQtM)
 - [GitHub for Noobs (1/4) – A Short History](https://youtu.be/1h9_cB9mPT8) 5m
 - [GitHub for Noobs (2/4) – Common Workflows](https://youtu.be/_ALeswWzpBo) 7m
 - [Using Git with VS Code and Github](https://youtu.be/9cMWR-EGFuY) need to view in HD 720p
 - [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs) the code editor I use.
 {: .vid}
 
-### Jekyll Static Generator that powers GitHub
+#### Jekyll Static Generator that powers GitHub
 
 - [Jekyll - Static Site Generator - Mike Dane](https://youtu.be/T1itpPvFWHI)
 - [Jekyll - Algonquin Design](https://learn-the-web.algonquindesign.ca/topics/jekyll/)
@@ -381,15 +383,16 @@ Readings for this week:
 - [How to Create Resume using Jekyll - WebJeda](https://youtu.be/Jnmj1dXDbNk)
 {: .vid}
 
-### Learning Website Design and other things
+#### Learning Website Design and other things links
 
 - [w3schools.com](https://www.w3schools.com/) web coding tutorial site)
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+- [Learn to Code HTML & CSS - Shay Howe](https://learn.shayhowe.com/)
 - [Little Web Hut](http://www.littlewebhut.com/)
-- [CMST385](http://islandman.org/ "click on CMST385 link")
-- [HTML5 and CSS3 Fundamentals](https://www.udemy.com/html5-fundamentals-for-beginners/)
-- [Web Design for Web Developers](https://www.udemy.com/web-design-secrets/)
-- [A blog about Japan, dating, social skills, and travel.](http://www.yutaaoki.com/blog/)
+- [CMST385 on my website](http://islandman.org/ "click on CMST385 link")
+- [HTML5 and CSS3 Fundamentals - Udemy](https://www.udemy.com/html5-fundamentals-for-beginners/)
+- [Web Design for Web Developers - Udemy](https://www.udemy.com/web-design-secrets/)
+- [A blog about Japan, dating, social skills, and travel - Yuta Aoki](http://www.yutaaoki.com/blog/)
+{: .link}
 
 ## Week 8: Project Presentations
 {: #Week8 .anchor}
