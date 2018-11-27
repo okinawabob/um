@@ -331,11 +331,11 @@ Assignment 3
 
 - [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/wk5/FinalProject.pdf "Right click this link and open in new tab")
 - [Sign up for student account on LucidChart.com](https://www.lucidchart.com/pages/usecase/education) if you have not already done so using your username@umuc.student.edu email account.
-- TeamGantt Project Management Tool](https://www.teamgantt.com/) Can sign up for free (1 project)
-  - [Project Scheduling](https://fast.wistia.net/embed/iframe/ffqv52g8z1?popover=true)
-  - [Dependencies](https://fast.wistia.net/embed/iframe/ynytkzw6ih?popover=true)
-  - [Resource Management](https://fast.wistia.net/embed/iframe/lmacshw8nt?popover=true)
-  - [Team Collaboration](https://fast.wistia.net/embed/iframe/s9kyfpvnji?popover=true)
+- [TeamGantt Project Management Tool](https://www.teamgantt.com/) Can sign up for free (1 project)
+  - [Project Scheduling](https://fast.wistia.net/embed/iframe/ffqv52g8z1?popover=true) 1m
+  - [Dependencies](https://fast.wistia.net/embed/iframe/ynytkzw6ih?popover=true) 3m
+  - [Resource Management](https://fast.wistia.net/embed/iframe/lmacshw8nt?popover=true) 2m
+  - [Team Collaboration](https://fast.wistia.net/embed/iframe/s9kyfpvnji?popover=true) 2m
   {: .vid}
 {: .todo}
 
