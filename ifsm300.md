@@ -284,9 +284,7 @@ Please download and print the following before class if you wish to take notes:
 - [PowerPoint Slide Show 5 - Chapters 10 and System Modeling]({{site.baseurl}}/assets/ifsm300/wk5/chap10-Information-Systems-Developement.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
-### Assignment 3
-
-Assignment 3
+### Assignment 3  
 
 - [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/wk5/FinalProject.pdf "Right click this link and open in new tab")
 - Case Study possibilities:
@@ -297,12 +295,11 @@ Assignment 3
 - [Sign up for student account on LucidChart.com](https://www.lucidchart.com/pages/usecase/education) if you have not already done so using your username@umuc.student.edu email account.
 {: .todo}
 
-#### Complete Week 5 Discussion covering Information Systems in Organizations
+#### Complete Week 5 Discussion 
 
 #### Complete Quiz 5 on LEO covering Information Systems Development
 
 ### Watch YouTube Videos
-
 
 1. [Software Development Lifecycle in 9 minutes!](https://youtu.be/i-QyW8D3ei0 "Right click this link and open in new tab") 9m
 1. [Rapid Application and Agile Development Methodologies](https://youtu.be/U5uv81UmU-k "Right click this link and open in new tab") 9m
