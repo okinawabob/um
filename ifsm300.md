@@ -262,7 +262,6 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 1. [W. Edwards Demming - Part 1](https://youtu.be/GHvnIm9UEoQ "Right click this link and open in new tab") 10m
 1. [W. Edwards Demming - Part 2](https://youtu.be/mKFGj8sK5R8 "Right click this link and open in new tab") 9m
 1. [W. Edwards Demming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
-1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases)  
 1. [Demming - Fourteen Points](https://deming.org/explore/fourteen-points)  
 {: .vid}
 
@@ -289,8 +288,8 @@ Please download and print the following before class if you wish to take notes:
 
 Assignment 3
 
-- [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/Asgn3/FinalProject.pdf "Right click this link and open in new tab")
-- Case Study possibilities
+- [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/wk5/FinalProject.pdf "Right click this link and open in new tab")
+- Case Study possibilities:
   - [Saipan Casino Program]({{site.baseurl}}/assets/ifsm300/Asgn3/Casino Case Study.pdf) needs a chip counter at [Saipan](http://imperialpacificsaipan.com/en/)
   - [Plyco or Video Store Database]({{site.baseurl}}/assets/ifsm300/Asgn3/Case Study Possibilities.pdf)
   - [Chesapeake IT Consultants]({{site.baseurl}}/assets/ifsm300/Asgn3/Chesapeake IT Consultants Case Study.pdf)
@@ -310,14 +309,46 @@ Assignment 3
 1. [Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI "Right click this link and open in new tab") 9m
 1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
 1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
-1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases)  
 {: .vid}
 
-<!--  
-## Week 6: Project Planning 
+## Week 6: Project Planning
 {: #Week6 .anchor}
 
+This week, you will learn about IT project management and how it relates to the systems development life cycle (SDLC) process. To begin, you will read section III of the Solution Management module. Then there are three short articles to enhance your understanding of IT project management.
 
+Readings for this week:
+
+- [IT Project Management]({{site.baseurl}}/assets/ifsm300/wk6/ITProjectManagement.pdf) Introduction
+- [Solution Management]({{site.baseurl}}/assets/ifsm300/wk6/3-ProjectManagement.pdf) module reading on project management includes term definitions, the project management dilemma, scope management, scope creep, and project manager competencies.
+- [What is Project Management?](http://cnx.org/content/m31508/latest/) This paper discusses a process to help an organization make a good decision about whether to build or buy a software solution.
+- [Project Life Cycle](http://cnx.org/content/m31913/latest/) This article describes the phases or steps to a typical project and how to best complete them.
+- [Project Initiation](http://cnx.org/content/m31947/latest/) This short article describes the first step in project management and how important it is to get this right.
+{: .read}
+
+### Assignment 3
+
+Assignment 3
+
+- [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/wk5/FinalProject.pdf "Right click this link and open in new tab")
+- [Sign up for student account on LucidChart.com](https://www.lucidchart.com/pages/usecase/education) if you have not already done so using your username@umuc.student.edu email account.
+- TeamGantt Project Management Tool](https://www.teamgantt.com/) Can sign up for free (1 project)
+  - [Project Scheduling](https://fast.wistia.net/embed/iframe/ffqv52g8z1?popover=true)
+  - [Dependencies](https://fast.wistia.net/embed/iframe/ynytkzw6ih?popover=true)
+  - [Resource Management](https://fast.wistia.net/embed/iframe/lmacshw8nt?popover=true)
+  - [Team Collaboration](https://fast.wistia.net/embed/iframe/s9kyfpvnji?popover=true)
+  {: .vid}
+{: .todo}
+
+
+### Watch YouTube Videos
+
+1. [Learn PMP Critical Path In 17 Minutes Flat!](https://youtu.be/t6KVR80B7Dc "Right click this link and open in new tab") 17m
+1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases) 16m
+1. [Critical Chain Project Management vs. Critical Path](https://deming.org/explore/seven-deadly-diseases) 10m
+{: .vid}
+
+
+<!--  
 ## Week 7: 
 {: #Week7 .anchor}
 
