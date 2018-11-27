@@ -35,7 +35,7 @@ Robert Laurie
 ## Week 1: Number Theory and the Real Number System
 {: #Week1 .week}
 
-week1
+week1 is the only math in the course and it is about number bases. So don't fret...
 
 ## Week 2: Algebra and Problem Solving
 {: #Week2 .week}
