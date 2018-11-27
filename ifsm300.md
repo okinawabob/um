@@ -24,7 +24,7 @@ I recommend you allocate approximately 15 hours per week to this course or appro
 - Reading study, video watching, and homework assignments = 12 hours
 {: .check}
   
-[![ebook]({{site.baseurl}}/assets/ifsm300/ebook-300.png)]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) UMUC has moved to free online resources to support all courses and there is a free 167 page eBook titled [Information Systems for Business and Beyond]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf). The eBook contains the primary information covered in the online quizzes for the class so it is important to read assigned chapters before doing the quiz each week. I recommend that you get started with Week 1 content today, by clicking Week 1 in the navigation bar above or scrolling down.
+[![ebook]({{site.baseurl}}/assets/ifsm300/ebook-300.png)]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) UMUC has moved to free online resources to support all courses and there is a free 167 page eBook titled [Information Systems for Business and Beyond]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf). The eBook and other provided documents contain the primary information covered in the online quizzes for the class so it is important to read assigned chapters before doing the quiz each week. I recommend that you get started with Week 1 content today, by clicking Week 1 in the navigation bar above or scrolling down.
 
 Robert Laurie
 {: .signature}
