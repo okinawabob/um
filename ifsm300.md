@@ -347,14 +347,22 @@ Assignment 3
 1. [Critical Chain Project Management vs. Critical Path](https://deming.org/explore/seven-deadly-diseases) 10m
 {: .vid}
 
-
-<!--  
-## Week 7: 
+## Week 7: Globalization and Legal Implications
 {: #Week7 .anchor}
+
+You have selected your final project topic, posted it, and have been developing the graphics to support it. As time allows this week, we will discuss about globalization and the legal implications of information systems. These are covered in chapters 11 and 12 of our our eBook.
+
+Readings for this week:
+
+- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 11 Globalization and the Digital Divide
+- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 12 Ethical and Legal Implications of IS
 
 
 ## Week 8: Project Presentations
 {: #Week8 .anchor}
 
+![Success]({{site.baseurl}}/assets/Wk8.png)
+This week you will do your final project presentations in class and it is mandatory that you attend class and remain for the whole class. Please upload all content you intend to present and wish me to grade to Leo prior to noon of the day of your class presentation.  
 
--->
+After going through IFSM300 this term I hope that you feel more comfortable with spreadsheets, databases, and project planning. They are important life skills that can be applied in your professional and personal life.
+
