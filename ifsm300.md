@@ -344,7 +344,7 @@ Assignment 3
 
 1. [Learn PMP Critical Path In 17 Minutes Flat!](https://youtu.be/t6KVR80B7Dc "Right click this link and open in new tab") 17m
 1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases) 16m
-1. [Critical Chain Project Management vs. Critical Path](https://deming.org/explore/seven-deadly-diseases) 10m
+1. [Critical Chain Project Management vs. Critical Path](https://youtu.be/mpc_FdAt75A) 10m
 {: .vid}
 
 ## Week 7: Globalization and Legal Implications
@@ -357,6 +357,39 @@ Readings for this week:
 - [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 11 Globalization and the Digital Divide
 - [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 12 Ethical and Legal Implications of IS
 
+### Final Project - For people that want to create website using Markdown
+
+- [IFSM201 Website Assignment Handout]({{site.baseurl}}/assets/Asgn-Markdown.pdf) if you had me for IFSM201
+- [Kramdown = GitHub flavored Markdown](https://kramdown.gettalong.org/quickref.html) has tables and checkboxes
+- [Markdown Tutorial](https://learn-the-web.algonquindesign.ca/topics/markdown/)
+- [Visual Studio Code Editor](https://code.visualstudio.com/) is the best one 
+- [Udemy - Beginner VS Code](https://www.udemy.com/beginner-vs-code/)
+{: .link}
+
+- [GitHub Hosting in 5 minutes | Free Static Web Hosting | Quick Code](https://youtu.be/hXorYP_HQtM)
+- [GitHub for Noobs (1/4) – A Short History](https://youtu.be/1h9_cB9mPT8) 5m
+- [GitHub for Noobs (2/4) – Common Workflows](https://youtu.be/_ALeswWzpBo) 7m
+- [Using Git with VS Code and Github](https://youtu.be/9cMWR-EGFuY) need to view in HD 720p
+- [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs) the code editor I use.
+{: .vid}
+
+### Jekyll Static Generator that powers GitHub
+
+- [Jekyll - Static Site Generator - Mike Dane](https://youtu.be/T1itpPvFWHI)
+- [Jekyll - Algonquin Design](https://learn-the-web.algonquindesign.ca/topics/jekyll/)
+- [How to Install Jekyll Themes? - WebJeda](https://youtu.be/bty7LHm14CA)
+- [How to Create Resume using Jekyll - WebJeda](https://youtu.be/Jnmj1dXDbNk)
+{: .vid}
+
+### Learning Website Design and other things
+
+- [w3schools.com](https://www.w3schools.com/) web coding tutorial site)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+- [Little Web Hut](http://www.littlewebhut.com/)
+- [CMST385](http://islandman.org/ "click on CMST385 link")
+- [HTML5 and CSS3 Fundamentals](https://www.udemy.com/html5-fundamentals-for-beginners/)
+- [Web Design for Web Developers](https://www.udemy.com/web-design-secrets/)
+- [A blog about Japan, dating, social skills, and travel.](http://www.yutaaoki.com/blog/)
 
 ## Week 8: Project Presentations
 {: #Week8 .anchor}
