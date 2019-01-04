@@ -83,11 +83,11 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Discussions*** are a 
 This week you need to utilize five online discussion topics to introduce yourself and demonstrate that you have learned how to convert between various number systems and codes:
 
 - Post your Introduction in the Discussion >> Introductions Topic
-- Post in the Number System and Codes Conversion Discussion
-  - Binary to Decimal Conversion
-  - Binary to Hexadecimal conversion
-  - Hexadecimal to Binary Conversion
-  - Convert your name from ASCII to Hexadecimal
+- Post in the Number System and Codes Conversion Discussion >> 
+  - Binary to Decimal Conversion Topic
+  - Binary to Hexadecimal conversion Topic
+  - Hexadecimal to Binary Conversion Topic
+  - Convert your name from ASCII to Hexadecimal Topic
   {: .check}
 {: .check}
 
