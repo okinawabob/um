@@ -188,6 +188,7 @@ This week we will begin with **Test 1** , which will cover content from eBook Ch
 You need to bring your own pencils, eraser, and calculator to Test 1 as they will not be provided. 
 
 After Test 1, we will continue with eBook Chapter 4 covering the topics of *Polynomials, Factoring, and Quadratic Equations*:
+
 - 4.1 Multiplying Algebraic Expressions and FOIL
 - 4.2 Factoring and Problem Solving by Factoring
 - 4.3 Quadratic Formula

@@ -57,7 +57,7 @@ Information is data that has meaning; it tells a story. So how do you go from ju
 Begin this week with the reading about the power of data and information. The Week 1 Quiz will contain questions based on these two readings. Prior to class, please print and read both PDF files listed below:
 
 - [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")
-- [READ Data and Information Handout]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")
+- [READ Data and Information Handout]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")  
 { .read}
 
 The *file extension* is important in Microsoft Windows, because it determines which application will open the file. Unfortunately, Microsoft hides file extensions by default, but it is useful to view the file extensions of known file types within Windows Explorer file display pane. If you are using windows please search through help to learn how to view the file extensions. Find and uncheck the check box labeled Hide extensions of known file types. You will now be able to see the difference between filename.docx file and filename.pdf file.
