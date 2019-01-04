@@ -10,7 +10,7 @@ permalink: "/ifsm201/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-# Concepts and Applications of Information Technology 
+## Concepts and Applications of Information Technology 
 
 ![Me]({{site.baseurl}}/assets/Wk1.png)This is a Hybrid class which meets one class per week for lecture and you are required to attend all lecture classes. In lieu of the second class, you are expected to work on assignments independently and work through all course content that is posted each week. Use of a computer, Internet connection, and [<abbr title="Learning Experience Online">LEO</abbr>](https://www.umuc.edu/current-students/learning-resources/leo/index.cfm) is required for hybrid classes which are accessed at either <abbr title="Uniform Resource Locator">URL</abbr>:
 
@@ -32,8 +32,7 @@ Please bring a USB Drive that is 1 GigaByte or greater to class this week and ev
 
 If you have a technical problem in your LEO class, contact Help@UMUC at <http://help.umuc.edu/> or by phone at 1-888-360-UMUC (8682). Help@UMUC is available 24 hours a day, 7 days a week.
 
-
-### So lets get started...
+### So lets get started...  
 
 I recommend you allocate approximately 12 hours per week to this course:
 
