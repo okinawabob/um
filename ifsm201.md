@@ -101,7 +101,7 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 {: .check}
 
 ## Week 2: Hardware and Word Processing
-{: #Week2 .week}
+{: #Week2 .anchor}
 
 This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer that will satisfy your anticipated needs and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
 
@@ -114,6 +114,7 @@ At the completion of this week's activities you should be able to:
 - Identify how information (the result of processing) is displayed or stored.
 - Compare various storage devices and determine which ones best fit a specific situation or need.
 - Create word processing documents for Assignment 1 and submit on LEO
+{: .check}
 
 Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit docx documents throughout the course which are the standard Microsoft Word 2007-16 file format.
 
@@ -122,13 +123,14 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 
 - [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifms201/1-Data-Hardware.pdf "Right click this link and open in new tab")
 - [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifms201/2-WordProcessing.pdf "Right click this link and open in new tab")
+{: .pdf}
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
 [Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps 1 through 23 available at <https://www.gcflearnfree.org/computerbasics/>. 
 
-If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutoria](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
+If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutorial](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
 
-GCF Learn Free also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial available at <https://edu.gcfglobal.org/en/buying-computers/> and is the Assignment 1 activity.
+GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial available at <https://edu.gcfglobal.org/en/buying-computers/> and is the Assignment 1 activity.
 
 #### Videos about Computer Hardware:
 
@@ -144,6 +146,7 @@ GCF Learn Free also has a [Buying Computers](https://edu.gcfglobal.org/en/buying
 - [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
 - [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m
 - [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
+{: .vid}
 
 ### Activities this week
 
@@ -171,8 +174,11 @@ Please work through the tutorials at LearnFree.org if you intend to use Microsof
 
 #### Assignment 1: Word Processing (Computer Shopping)
 
-Work through Assignment 1 - Word Processing as described in the attached file:
-[Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifms201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+Work through Assignment 1 - Word Processing as described in the attached file:  
+
+- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifms201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+{: .check}
+
 Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
 
 
@@ -190,22 +196,22 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 
 ## Week 3: Polynomials, Factoring, and Quadratic Equations
-{: #Week3 .week}
+{: #Week3 .anchor}
 
   
 ## Week 4: Graphing, Functions, and 2-Variable Equations
-{: #Week4 .week}
+{: #Week4 .anchor}
   
 
 ## Week 5: Financial Mathematics
-{: #Week5 .week}
+{: #Week5 .anchor}
 
 
-## Week 7: Statistics
-{: #Week7 .week}
+## Week 6: Statistics
+{: #Week6 .anchor}
 
-## Week 8: Final Exam Time
-{: #Week8 .week}
+## Week 7: Final Exam Time
+{: #Week7 .anchor}
 
 
 
