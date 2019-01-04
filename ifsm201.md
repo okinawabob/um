@@ -9,7 +9,7 @@ permalink: "/ifsm201/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-## IFSM201: Concepts and Applications of Information Technology 
+## Concepts and Applications of Information Technology 
 
 ![Me]({{site.baseurl}}/assets/Wk1.png)This is a Hybrid class which meets one class per week for lecture and you are required to attend all lecture classes. In lieu of the second class, you are expected to work on assignments independently and work through all course content that is posted each week. Use of a computer, Internet connection, and [<abbr title="Learning Experience Online">LEO</abbr>](https://www.umuc.edu/current-students/learning-resources/leo/index.cfm) is required for hybrid classes which are accessed at either <abbr title="Uniform Resource Locator">URL</abbr>:
 
@@ -55,8 +55,8 @@ Information is data that has meaning; it tells a story. So how do you go from ju
 
 Begin this week with the reading about the power of data and information. The Week 1 Quiz will contain questions based on these two readings. Prior to class, please print and read both PDF files listed below:
 
-- [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")
-- [READ Data and Information Handout]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")
+- [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/ifms201/READ-NumberSystemsCodes.pdf "Right click this link and open in new tab")
+- [READ Data and Information Handout]({{site.baseurl}}/assets/ifms201/DataInformation.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 The *file extension* is important in Microsoft Windows, because it determines which application will open the file. Unfortunately, Microsoft hides file extensions by default, but it is useful to view the file extensions of known file types within Windows Explorer file display pane. If you are using windows please search through help to learn how to view the file extensions. Find and uncheck the check box labeled Hide extensions of known file types. You will now be able to see the difference between filename.docx file and filename.pdf file.
@@ -95,21 +95,99 @@ For each discussion topic you will need to make a post and reply to two other st
 
 #### Quiz 1 must be completed before our next class
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** are contain both multiple choice and True/False questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
 
 - Quiz 1 Data and Information 
 {: .check}
 
-## Week 2: Algebra and Problem Solving
+## Week 2: Hardware and Word Processing
 {: #Week2 .week}
 
-week 2
+This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer that will satisfy your anticipated needs and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
+
+At the completion of this week's activities you should be able to:
+
+- Identify the common configurations of system units.
+- Identify the key internal components of a system unit and describe the purpose of the internal components
+- Identify the key external components of a system unit and describe the purpose of the external components.
+- Identify the methods by which data is entered into the system unit.
+- Identify how information (the result of processing) is displayed or stored.
+- Compare various storage devices and determine which ones best fit a specific situation or need.
+- Create word processing documents for Assignment 1 and submit on LEO
+
+Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit docx documents throughout the course which are the standard Microsoft Word 2007-16 file format.
+
+### Content this week
+I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class:
+
+- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifms201/1-Data-Hardware.pdf "Right click this link and open in new tab")
+- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifms201/2-WordProcessing.pdf "Right click this link and open in new tab")
+
+Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
+[Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps 1 through 23 available at <https://www.gcflearnfree.org/computerbasics/>. 
+
+If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutoria](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
+
+GCF Learn Free also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial available at <https://edu.gcfglobal.org/en/buying-computers/> and is the Assignment 1 activity.
+
+#### Videos about Computer Hardware:
+
+- [How a CPU is made at AMD](https://youtu.be/YhsKCnDD3F8) 10m
+- [How a CPU Works – 8-bit](https://youtu.be/cNN_tTXABUA) 21m
+- [What Are Bits, and Are They Important? (32-Bit vs 64-Bit)](https://youtu.be/ptzGI9VaZmQ) 9m
+- [HDD vs SSD - What is the difference?](https://youtu.be/PKRB6umzeAg) 5m
+{: .vid}
+
+#### Videos about ALU (Arithmetic Logic Unit) binary operations:
+
+- [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
+- [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
+- [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m
+- [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
+
+### Activities this week
+
+Please work through the tutorials at LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
+
+| [Word 2010](https://edu.gcfglobal.org/en/word2010/) | [Word 2013](https://edu.gcfglobal.org/en/word2013/) | [Word 2016](https://edu.gcfglobal.org/en/word2016/) 
+|---|---|---
+| #1 Getting Started with Word  | #4 Getting to Know Word | #1 Getting Started with Word
+| #2 Text Basics   | #5 Creating and Opening Documents | #3 Creating and Opening Documents
+| #3 Formatting Basics   | #6 Saving and Sharing Documents | #4 Saving and Sharing Documents
+| #4 Saving  | #7 Text Basics | #5 Text Basics
+| #5 Modifying Page Layout  | #8 Formatting Text | #6 Formatting Text
+| #6 Checking Spelling and Grammar | #9 Page Layout  | #12 Page Layout
+| #7 Printing   | #10 Printing Documents  | #13 Printing Documents
+| #18 Styles and Themes | #17 Headers and footers  | #16 Headers and Footers
+| #19 Working with headers and footers  | #23 Tables  | #23 Tables
+| #21 Working with Tables   |   |
+
+#### Tutorial documentation for Microsoft Word 2016 by Kennesaw State University
+
+| Windows  |  MacOS 
+| ---|---
+| [Introduction to Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
+| [Formatting in Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+
+#### Assignment 1: Word Processing (Computer Shopping)
+
+Work through Assignment 1 - Word Processing as described in the attached file:
+[Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifms201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
 
 
+#### Quiz 2 must be completed before our next class
+
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+
+- Quiz 2: Computer Hardware
+{: .check}
+
+If you have any questions about the class or assignments feel free to post in the 
+LEO Discussion > Ask your Professor. There are no required discussions this week.
 
 ### YouTube Video Links:
 
-1. [Mathematics and sex &#124; Clio Cresswell &#124; TEDxSydney ](https://youtu.be/H2vN2QXZGnc "Right click this link and open in new tab") 13m
 
 ## Week 3: Polynomials, Factoring, and Quadratic Equations
 {: #Week3 .week}
