@@ -266,10 +266,10 @@ Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of
 The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The third week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
 
 - Quiz 3: Computer Software
-{: .check}
+{: .check} 
 
 If you have any questions about the class or assignments feel free to post in the 
-LEO Discussion > Ask your Professor. There are no required discussions this week.
+LEO Discussion > Ask your Professor. There are no required discussions this week. 
 
   
 ## Week 4: Databases
