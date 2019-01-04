@@ -6,7 +6,6 @@ image: "/assets/UMUC-Asia-600x69.png"
 permalink: "/ifsm201/"
 ---
 
-
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
@@ -14,9 +13,9 @@ permalink: "/ifsm201/"
 
 ![Me]({{site.baseurl}}/assets/Wk1.png)This is a Hybrid class which meets one class per week for lecture and you are required to attend all lecture classes. In lieu of the second class, you are expected to work on assignments independently and work through all course content that is posted each week. Use of a computer, Internet connection, and [<abbr title="Learning Experience Online">LEO</abbr>](https://www.umuc.edu/current-students/learning-resources/leo/index.cfm) is required for hybrid classes which are accessed at either <abbr title="Uniform Resource Locator">URL</abbr>:
 
-- <http://campus.umuc.edu> (preferred) 
+- <http://campus.umuc.edu> (preferred)
 - <http://learn.umuc.edu> (backup)
-{ .link}
+{: .link}
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the hosting  <abbr title="Uniform Resource Locator">URL</abbr>: <http://islandman.org/um/ifsm201/>
 
@@ -46,7 +45,7 @@ Robert Laurie
 {: .signature}
 
 ## Week 1: Data and Information
-{: #Week1 .week}
+{: #Week1 .anchor}
 
 This week in lecture we will be discussing the Syllabus, LEO course management system, and investigate Data representation for different number systems used in computing and ASCII codes. Data is gathered, analyzed, and organized into meaningful and useful information.  But do you know the difference between quantitative, qualitative and categorical data? And how is data gathered?  What is the difference between samples, surveys, and polls. 
 
@@ -57,7 +56,7 @@ Information is data that has meaning; it tells a story. So how do you go from ju
 Begin this week with the reading about the power of data and information. The Week 1 Quiz will contain questions based on these two readings. Prior to class, please print and read both PDF files listed below:
 
 - [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")
-- [READ Data and Information Handout]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")  
+- [READ Data and Information Handout]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")
 { .read}
 
 The *file extension* is important in Microsoft Windows, because it determines which application will open the file. Unfortunately, Microsoft hides file extensions by default, but it is useful to view the file extensions of known file types within Windows Explorer file display pane. If you are using windows please search through help to learn how to view the file extensions. Find and uncheck the check box labeled Hide extensions of known file types. You will now be able to see the difference between filename.docx file and filename.pdf file.
@@ -77,9 +76,9 @@ Watch the following videos to enhance your learning of data representations:
 
 ### Activities this week
 
-The **<abbr title="Learning Experience Online">LEO</abbr> Discussions** are a kind of collective online discussion that is visable to all students. The discussion activites this week will provide you with an understanding of digital data, which is fundamental to understanding How computers work. 
+The ***<abbr title="Learning Experience Online">LEO</abbr> Discussions*** are a kind of collective online discussion that is visable to all students. The discussion activites this week will provide you with an understanding of digital data, which is fundamental to understanding How computers work. 
 
-#### 5 Discussions must be completed before our next class
+#### 5 Discussion topics must be completed before our next class
 
 This week you need to utilize five online discussion topics to introduce yourself and demonstrate that you have learned how to convert between various number systems and codes:
 
@@ -94,12 +93,12 @@ This week you need to utilize five online discussion topics to introduce yoursel
 
 For each discussion topic you will need to make a post and reply to two other students! You must be logged into LEO to post, reply, and view discussions.
 
-The **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** are contain both mulitple choice and True/False questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+#### Quiz 1 must be completed before our next class
 
-- Quiz 1 Data and Information must be completed before our next class
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** are contain both multiple choice and True/False questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+
+- Quiz 1 Data and Information 
 {: .check}
-
-You must be logged into LEO to do Quiz 1.
 
 ## Week 2: Algebra and Problem Solving
 {: #Week2 .week}
