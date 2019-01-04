@@ -173,7 +173,7 @@ Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of
 
 #### Quiz 2 must be completed before our next class
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
 
 - Quiz 2: Computer Hardware
 {: .check}
@@ -225,22 +225,26 @@ GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-
 
 ### Activities this week
 
-Please work through the tutorials at LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
+Please work through the Excel tutorials for the version of Excel that you intend to use [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
 
-| [Word 2010](https://edu.gcfglobal.org/en/word2010/) | [Word 2013](https://edu.gcfglobal.org/en/word2013/) | [Word 2016](https://edu.gcfglobal.org/en/word2016/) 
+| [Excel 2010](https://www.gcflearnfree.org/excel2010/) | [Excel 2013](https://www.gcflearnfree.org/excel2013/) | [Excel 2016](https://www.gcflearnfree.org/excel2016/) 
 |---|---|---
-| #1 Getting Started with Word  | #4 Getting to Know Word | #1 Getting Started with Word
-| #2 Text Basics   | #5 Creating and Opening Documents | #3 Creating and Opening Documents
-| #3 Formatting Basics   | #6 Saving and Sharing Documents | #4 Saving and Sharing Documents
-| #4 Saving  | #7 Text Basics | #5 Text Basics
-| #5 Modifying Page Layout  | #8 Formatting Text | #6 Formatting Text
-| #6 Checking Spelling and Grammar | #9 Page Layout  | #12 Page Layout
-| #7 Printing   | #10 Printing Documents  | #13 Printing Documents
-| #18 Styles and Themes | #17 Headers and footers  | #16 Headers and Footers
-| #19 Working with headers and footers  | #23 Tables  | #23 Tables
-| #21 Working with Tables   |   |
+| #1 Getting Started with Excel  | #4 Getting Started with Excel | #1 Getting Started with Excel 
+| #2 Cell Basics   | #5 Creating and Opening Workbooks | #3 Creating and Opening Workbooks
+| #3 Modifying Columns, Rows and Cells   | #6 Saving and Sharing Workbooks | #4 Saving and Sharing Workbooks
+| #4 Formatting Cells   | #7 Cell Basics | #5 Cell Basics
+| #5 Saving   | #8 Modifying Columns, Rows and Cells | #6 Modifying Columns, Rows and Cells
+| #6 Creating Simple Formulas   | #9 Formatting Cells  | #7 Formatting Cells
+| #7 Worksheet Basics   | #10 Worksheet Basics  | #8 Understanding Number Formats
+| #8 Printing   | #11 Page Layout  | #9 Working with Multiple Worksheets
+| #9 Complex Formulas   | #12 Printing Workbooks | #12 Page Layout and Printing
+| #10 Functions  | #13 Simple Formulas  | #13 Intro to Formulas
+| #17 Charts  | #14 Complex Formulas | #14 Creating More Complex Formulas
+|   | #15 Relative and Absolute Cell References | #15 Relative and Absolute Cell References
+|   | #16 Functions  | #16 Functions
+|   | #22 Charts | #23 Charts
 
-#### Tutorials for Microsoft Word 2016 by Kennesaw State University
+#### Tutorials for Microsoft Excel 2016 by Kennesaw State University
 
 | Windows  |  MacOS 
 | ---|---
@@ -249,7 +253,7 @@ Please work through the tutorials at LearnFree.org if you intend to use Microsof
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
-Work through Assignment 1 - Word Processing as described in the attached file:  
+Work through Assignment 2 - Word Processing as described in the attached file:  
 
 - [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifms201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
 {: .check}
@@ -259,7 +263,7 @@ Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of
 
 #### Quiz 3 must be completed before our next class
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The third week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
 
 - Quiz 3: Computer Software
 {: .check}
@@ -271,6 +275,32 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 4: Databases
 {: #Week4 .anchor}
   
+
+Windows users have MS Access only in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft never ported the Access database application to MacOS. Therefore, you may want to use MS Access 2010 to do Assignment 2 in the UMUC Computer Lab/Testing Center.
+
+### Review [GCF Access Tutorials](https://edu.gcfglobal.org/en/)
+
+|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
+|---|---|---
+| #1 Intro to DataBases  | #3 Intro to DataBases | #1 Intro to DataBases
+| #2 Intro to Objects   | #4 Intro to Objects | #2 Intro to Objects
+| #3 Getting Started   | #5 Getting Started | #3 Getting Started
+| #4 Managing Objects   | #6 Managing Objects | #4 Managing Objects
+| #5 Working with Tables   | #7 Working with Tables | #5 Working with Tables
+| #6 Working with Forms   | #8 Working with Forms  | #6 Working with Forms
+| #7 Sorting, Filtering   | #9 Sorting, Filtering  | #7 Sorting, Filtering
+| #8 Designing a Query  | #10 Designing a Simple Query  | #8 Designing a Simple Query
+| #9 More Query Options  | #11 Designing a Multi-Table Query  | #9 Designing a Multi-Table Query
+| #10 Creating Reports | #12 More Query Options | #10 More Query Options
+| #13 Creating Forms | #13 Creating Reports | #11 Creating Reports
+| #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
+|   | #18 Designing Your Own Database |  #16 Designing Your Own Database
+
+Guides for Access 2016 are available below:
+
+- [Access 2016 Intro to Access](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Intro_to_Access.pdf)
+- [Access 2016 Reports and Queries](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Reports_and_Queries.pdf)
+{: .pdf}
 
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
