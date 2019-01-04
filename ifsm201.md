@@ -165,7 +165,7 @@ Please work through the tutorials at LearnFree.org if you intend to use Microsof
 | #19 Working with headers and footers  | #23 Tables  | #23 Tables
 | #21 Working with Tables   |   |
 
-#### Tutorial documentation for Microsoft Word 2016 by Kennesaw State University
+#### Tutorials for Microsoft Word 2016 by Kennesaw State University
 
 | Windows  |  MacOS 
 | ---|---
