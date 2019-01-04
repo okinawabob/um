@@ -103,18 +103,7 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 ## Week 2: Hardware and Word Processing
 {: #Week2 .anchor}
 
-This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer that will satisfy your anticipated needs and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
-
-At the completion of this week's activities you should be able to:
-
-- Identify the common configurations of system units.
-- Identify the key internal components of a system unit and describe the purpose of the internal components
-- Identify the key external components of a system unit and describe the purpose of the external components.
-- Identify the methods by which data is entered into the system unit.
-- Identify how information (the result of processing) is displayed or stored.
-- Compare various storage devices and determine which ones best fit a specific situation or need.
-- Create word processing documents for Assignment 1 and submit on LEO
-{: .check}
+![hw]({{site.baseurl}}/assets/ifsm201/Wk2.png)This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer that will satisfy your anticipated needs and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
 
 Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit docx documents throughout the course which are the standard Microsoft Word 2007-16 file format.
 
@@ -192,26 +181,108 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week.
 
-### YouTube Video Links:
-
-
-## Week 3: Polynomials, Factoring, and Quadratic Equations
+## Week 3: Software and Spreadsheets
 {: #Week3 .anchor}
 
+![hw]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
+
+There are two types of Software: Operating System (OS) and Applications and they are covered in the first three modules which you need to work through this week before taking the Quiz. Please read and work through these modules before coming to class this week so that you can ask intelligent questions.
+
+The software application topic we will cover this week is spreadsheets in preparation for Assignment 2. Prior to class print the following PDF files to include two slide sets if you would like to take notes on them:
+
+Slide Set 3: Software
+Slide Set 4: Spreadsheets
+
+### Content this week
+I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class:
+
+- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifms201/1-Data-Hardware.pdf "Right click this link and open in new tab")
+- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifms201/2-WordProcessing.pdf "Right click this link and open in new tab")
+{: .pdf}
+
+Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
+[Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps 1 through 23 available at <https://www.gcflearnfree.org/computerbasics/>. 
+
+If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutorial](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
+
+GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial available at <https://edu.gcfglobal.org/en/buying-computers/> and is the Assignment 1 activity.
+
+#### Videos about Computer Hardware:
+
+- [How a CPU is made at AMD](https://youtu.be/YhsKCnDD3F8) 10m
+- [How a CPU Works – 8-bit](https://youtu.be/cNN_tTXABUA) 21m
+- [What Are Bits, and Are They Important? (32-Bit vs 64-Bit)](https://youtu.be/ptzGI9VaZmQ) 9m
+- [HDD vs SSD - What is the difference?](https://youtu.be/PKRB6umzeAg) 5m
+{: .vid}
+
+#### Videos about ALU (Arithmetic Logic Unit) binary operations:
+
+- [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
+- [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
+- [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m
+- [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
+{: .vid}
+
+### Activities this week
+
+Please work through the tutorials at LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
+
+| [Word 2010](https://edu.gcfglobal.org/en/word2010/) | [Word 2013](https://edu.gcfglobal.org/en/word2013/) | [Word 2016](https://edu.gcfglobal.org/en/word2016/) 
+|---|---|---
+| #1 Getting Started with Word  | #4 Getting to Know Word | #1 Getting Started with Word
+| #2 Text Basics   | #5 Creating and Opening Documents | #3 Creating and Opening Documents
+| #3 Formatting Basics   | #6 Saving and Sharing Documents | #4 Saving and Sharing Documents
+| #4 Saving  | #7 Text Basics | #5 Text Basics
+| #5 Modifying Page Layout  | #8 Formatting Text | #6 Formatting Text
+| #6 Checking Spelling and Grammar | #9 Page Layout  | #12 Page Layout
+| #7 Printing   | #10 Printing Documents  | #13 Printing Documents
+| #18 Styles and Themes | #17 Headers and footers  | #16 Headers and Footers
+| #19 Working with headers and footers  | #23 Tables  | #23 Tables
+| #21 Working with Tables   |   |
+
+#### Tutorials for Microsoft Word 2016 by Kennesaw State University
+
+| Windows  |  MacOS 
+| ---|---
+| [Introduction to Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
+| [Formatting in Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+
+#### Assignment 2: Spreadsheets (Personal Budget)
+
+Work through Assignment 1 - Word Processing as described in the attached file:  
+
+- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifms201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+{: .check}
+
+Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
+
+
+#### Quiz 3 must be completed before our next class
+
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+
+- Quiz 3: Computer Software
+{: .check}
+
+If you have any questions about the class or assignments feel free to post in the 
+LEO Discussion > Ask your Professor. There are no required discussions this week.
+
   
-## Week 4: Graphing, Functions, and 2-Variable Equations
+## Week 4: Databases
 {: #Week4 .anchor}
   
 
-## Week 5: Financial Mathematics
+## Week 5: Networking and Internet
 {: #Week5 .anchor}
 
-
-## Week 6: Statistics
+## Week 6: Ethics, Privacy,  and Security
 {: #Week6 .anchor}
 
-## Week 7: Final Exam Time
+## Week 7: Future created by Technology
 {: #Week7 .anchor}
+
+## Week 8: Research Presentations
+{: #Week8 .anchor}
 
 
 
