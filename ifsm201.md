@@ -248,8 +248,9 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 | Windows  |  MacOS 
 | ---|---
-| [Introduction to Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
-| [Formatting in Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+| [Introduction to Excel]({{site.baseurl}}/assets/ifms201/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel]({{site.baseurl}}/assets/ifms201/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
+| [Excel Formulas]({{site.baseurl}}/assets/ifms201/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifms201/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
+| [Excel Charts]({{site.baseurl}}/assets/ifms201/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifms201/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
