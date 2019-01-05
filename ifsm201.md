@@ -138,8 +138,6 @@ GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-
 - [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
 {: .vid}
 
-### Activities this week
-
 Please work through the tutorials at GCF LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
 
 | [Word 2010](https://edu.gcfglobal.org/en/word2010/) | [Word 2013](https://edu.gcfglobal.org/en/word2013/) | [Word 2016](https://edu.gcfglobal.org/en/word2016/) 
@@ -161,6 +159,8 @@ Please work through the tutorials at GCF LearnFree.org if you intend to use Micr
 | ---|---
 | [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
 | [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+
+### Activities this week 
 
 #### Assignment 1: Word Processing (Computer Shopping)
 
@@ -220,7 +220,22 @@ I will utilize PowerPoint slides for lecture and discussion. Please print the fo
 -[The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE)
 {: .vid}
 
-### Activities this week
+#### UMUC suggested readings about spreadsheets
+  - [Spreadsheet Cell References (Excel or Calc)]({{site.baseurl}}assets/ifsm201/Asgn2-SS_Spreadsheet-RelativeAbsoluteReferences.pdf)
+  - [What Is the Purpose of Using a Spreadsheet?](https://smallbusiness.chron.com/purpose-using-spreadsheet-54262.html)
+  - [Why People Use Spreadsheets in a Workplace](https://smallbusiness.chron.com/people-use-spreadsheets-workplace-52568.html)
+  - [How Do Companies Use Spreadsheets?](https://smallbusiness.chron.com/companies-use-spreadsheets-54058.html)
+  - [The Advantages & Disadvantages of Spreadsheets](https://smallbusiness.chron.com/advantages-disadvantages-spreadsheets-26551.html)
+  - [Spreadsheets Vs. Databases](https://smallbusiness.chron.com/spreadsheets-vs-databases-53907.html)
+  {: .read}
+
+#### Tutorials for Microsoft Excel 2016 by Kennesaw State University
+
+| Windows  |  MacOS 
+| ---|---
+| [Introduction to Excel]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
+| [Excel Formulas]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
+| [Excel Charts]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
 
 Please work through the Excel tutorials for the version of Excel that you intend to use [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
 
@@ -241,13 +256,7 @@ Please work through the Excel tutorials for the version of Excel that you intend
 |   | #16 Functions  | #16 Functions
 |   | #22 Charts | #23 Charts
 
-#### Tutorials for Microsoft Excel 2016 by Kennesaw State University
-
-| Windows  |  MacOS 
-| ---|---
-| [Introduction to Excel]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
-| [Excel Formulas]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
-| [Excel Charts]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
+### Activities this week
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
@@ -255,14 +264,6 @@ Work through Assignment 2 - Spreadsheets as described in the attached file:
 
 - [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
 - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
-- [Spreadsheet Cell References (Excel or Calc)]({{site.baseurl}}assets/ifsm201/Asgn2-SS_Spreadsheet-RelativeAbsoluteReferences.pdf)
-- UMUC suggested readings about spreadsheets
-  - [What Is the Purpose of Using a Spreadsheet?](https://smallbusiness.chron.com/purpose-using-spreadsheet-54262.html)
-  - [Why People Use Spreadsheets in a Workplace](https://smallbusiness.chron.com/people-use-spreadsheets-workplace-52568.html)
-  - [How Do Companies Use Spreadsheets?](https://smallbusiness.chron.com/companies-use-spreadsheets-54058.html)
-  - [The Advantages & Disadvantages of Spreadsheets](https://smallbusiness.chron.com/advantages-disadvantages-spreadsheets-26551.html)
-  - [Spreadsheets Vs. Databases](https://smallbusiness.chron.com/spreadsheets-vs-databases-53907.html)
-  {: .read}
 {: .check}
 
 
