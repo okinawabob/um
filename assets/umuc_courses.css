@@ -334,7 +334,7 @@ tfoot tr:last-child td:last-child {
   border-bottom-right-radius: 5px;
 }
 
-td a { font-size: 12px; }
+td a { font-size: 16px; }
 
 ul li {
     margin-bottom: 6px
