@@ -61,9 +61,6 @@ Begin this week with the reading about the power of data and information. The We
 
 The *file extension* is important in Microsoft Windows, because it determines which application will open the file. Unfortunately, Microsoft hides file extensions by default, but it is useful to view the file extensions of known file types within Windows Explorer file display pane. If you are using windows please search through help to learn how to view the file extensions. Find and uncheck the check box labeled Hide extensions of known file types. You will now be able to see the difference between filename.docx file and filename.pdf file.
 
-If you have any questions about the class or assignments feel free to post in the 
-LEO Discussion > Ask your Professor.
-
 #### YouTube Video Links:
 
 Watch the following videos to enhance your learning of data representations:
@@ -100,12 +97,15 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 - Quiz 1 Data and Information 
 {: .check}
 
+If you have any questions about the class or assignments feel free to post in the 
+LEO Discussion > Ask your Professor.
+
 ## Week 2: Hardware and Word Processing
 {: #Week2 .anchor}
 
-![hw]({{site.baseurl}}/assets/ifsm201/Wk2.png)This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer that will satisfy your anticipated needs and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
+![hw]({{site.baseurl}}/assets/ifsm201/Wk2.png)This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer analyzing hardware specifications and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
 
-Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit docx documents throughout the course which are the standard Microsoft Word 2007-16 file format.
+Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit *.docx documents throughout the course which are the standard Microsoft Word 2007-16 file format.
 
 ### Content this week
 
@@ -140,7 +140,7 @@ GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-
 
 ### Activities this week
 
-Please work through the tutorials at LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
+Please work through the tutorials at GCF LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
 
 | [Word 2010](https://edu.gcfglobal.org/en/word2010/) | [Word 2013](https://edu.gcfglobal.org/en/word2013/) | [Word 2016](https://edu.gcfglobal.org/en/word2016/) 
 |---|---|---
@@ -185,9 +185,15 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 3: Software and Spreadsheets
 {: #Week3 .anchor}
 
-![hw]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
+![os]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the *Operating System* software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
 
-There are two types of Software: Operating System (OS) and Applications and they are covered in the first three modules which you need to work through this week before taking the Quiz. Please read and work through these modules before coming to class this week so that you can ask intelligent questions.
+A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz. Please read and work through these modules before coming to class this week so that you can ask intelligent questions.
+
+- [Windows on GCF LearnFree.org](https://edu.gcfglobal.org/en/topics/windows/)
+- [MacOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/macosbasics/)
+- [Android](https://edu.gcfglobal.org/en/androidbasics/)
+-[iOS](https://edu.gcfglobal.org/en/iphonebasics/)
+{: .link}
 
 ### Content this week
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
@@ -196,28 +202,20 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 - [Slide Set 4: Spreadsheets]({{site.baseurl}}/assets/ifsm201/2-WordProcessing.pdf "Right click this link and open in new tab")
 {: .pdf}
 
-Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
-[Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps 1 through 23 available at <https://www.gcflearnfree.org/computerbasics/>. 
+#### Links to interesting websites:
 
-If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutorial](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
+- [OS Marketshare](https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=10&amp;qpcustomd=0)
+- [linux Wiki](https://en.wikipedia.org/wiki/Linux) 
+- [distrowatch.com](http://distrowatch.com/)
+- [inuxsurvival.com](http://linuxsurvival.com/)
 
-GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial available at <https://edu.gcfglobal.org/en/buying-computers/> and is the Assignment 1 activity.
+#### Videos about computer software:
 
-#### Videos about Computer Hardware:
-
-- [How a CPU is made at AMD](https://youtu.be/YhsKCnDD3F8) 10m
-- [How a CPU Works – 8-bit](https://youtu.be/cNN_tTXABUA) 21m
-- [What Are Bits, and Are They Important? (32-Bit vs 64-Bit)](https://youtu.be/ptzGI9VaZmQ) 9m
-- [HDD vs SSD - What is the difference?](https://youtu.be/PKRB6umzeAg) 5m
-{: .vid}
-
-#### Videos about ALU (Arithmetic Logic Unit) binary operations:
-
-- [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
-- [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
-- [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m
-- [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
-{: .vid}
+- [10 Reasons why Linux is Better Than MacOS or Windows](https://youtu.be/qH3v41JmyIg)
+- [Windows 10 Spying - Privacy and Security](https://youtu.be/u1kGMCfb2xw)
+- [Stop Microsoft Windows 10 Spying and Forced Application Installs](https://youtu.be/wgKJMsJ-6XU?t=50s)
+- [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://youtu.be/Ag1AKIl_2GM)
+-[The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE)
 
 ### Activities this week
 
@@ -254,9 +252,15 @@ Work through Assignment 2 - Spreadsheets as described in the attached file:
 
 - [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
 - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
+- [Spreadsheet Cell References (Excel or Calc)]({{site.baseurl}}assets/ifsm201/Asgn2-SS_Spreadsheet-RelativeAbsoluteReferences.pdf)
 {: .check}
 
 Submit only Asgn2-YourName.xlsx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Excel. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
+
+#### Academic Integrity Tutorial must be completed before Week 6
+
+Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The Academic Integrity Tutorial hyperlink is at: 
+<http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm>
 
 
 #### Quiz 3 must be completed before our next class
