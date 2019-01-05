@@ -138,6 +138,13 @@ GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-
 - [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
 {: .vid}
 
+#### Tutorials for Microsoft Word 2016 by Kennesaw State University
+
+| Windows  |  MacOS 
+| ---|---
+| [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
+| [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+
 Please work through the tutorials at GCF LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
 
 | [Word 2010](https://edu.gcfglobal.org/en/word2010/) | [Word 2013](https://edu.gcfglobal.org/en/word2013/) | [Word 2016](https://edu.gcfglobal.org/en/word2016/) 
@@ -152,13 +159,6 @@ Please work through the tutorials at GCF LearnFree.org if you intend to use Micr
 | #18 Styles and Themes | #17 Headers and footers  | #16 Headers and Footers
 | #19 Working with headers and footers  | #23 Tables  | #23 Tables
 | #21 Working with Tables   |   |
-
-#### Tutorials for Microsoft Word 2016 by Kennesaw State University
-
-| Windows  |  MacOS 
-| ---|---
-| [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
-| [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
 
 ### Activities this week 
 
