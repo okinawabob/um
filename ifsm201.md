@@ -187,19 +187,19 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 ![os]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the *Operating System* software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
 
-A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz. Please read and work through these modules before coming to class this week so that you can ask intelligent questions.
+A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz. 
 
 - [Windows on GCF LearnFree.org](https://edu.gcfglobal.org/en/topics/windows/)
 - [MacOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/macosbasics/)
-- [Android](https://edu.gcfglobal.org/en/androidbasics/)
--[iOS](https://edu.gcfglobal.org/en/iphonebasics/)
+- [Android on GCF LearnFree.org](https://edu.gcfglobal.org/en/androidbasics/)
+-[iOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/iphonebasics/)
 {: .link}
 
 ### Content this week
-I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
+I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files prior to class so you can take notes on them:
 
-- [Slide Set 3: Software]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
-- [Slide Set 4: Spreadsheets]({{site.baseurl}}/assets/ifsm201/2-WordProcessing.pdf "Right click this link and open in new tab")
+- [Slide Set 3: Software]({{site.baseurl}}/assets/ifsm201/3-Software.pdf "Right click this link and open in new tab")
+- [Slide Set 4: Spreadsheets]({{site.baseurl}}/assets/ifsm201/4-Spreadsheets.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 #### Links to interesting websites:
@@ -208,6 +208,8 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 - [linux Wiki](https://en.wikipedia.org/wiki/Linux) 
 - [distrowatch.com](http://distrowatch.com/)
 - [inuxsurvival.com](http://linuxsurvival.com/)
+- [Free Linux course on edX](https://www.edx.org/course/introduction-to-linux)
+{: .link}
 
 #### Videos about computer software:
 
@@ -216,6 +218,7 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 - [Stop Microsoft Windows 10 Spying and Forced Application Installs](https://youtu.be/wgKJMsJ-6XU?t=50s)
 - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://youtu.be/Ag1AKIl_2GM)
 -[The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE)
+{: .vid}
 
 ### Activities this week
 
@@ -253,8 +256,17 @@ Work through Assignment 2 - Spreadsheets as described in the attached file:
 - [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
 - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
 - [Spreadsheet Cell References (Excel or Calc)]({{site.baseurl}}assets/ifsm201/Asgn2-SS_Spreadsheet-RelativeAbsoluteReferences.pdf)
+- UMUC suggested readings about spreadsheets
+  - [What Is the Purpose of Using a Spreadsheet?](https://smallbusiness.chron.com/purpose-using-spreadsheet-54262.html)
+  - [Why People Use Spreadsheets in a Workplace](https://smallbusiness.chron.com/people-use-spreadsheets-workplace-52568.html)
+  - [How Do Companies Use Spreadsheets?](https://smallbusiness.chron.com/companies-use-spreadsheets-54058.html)
+  - [The Advantages & Disadvantages of Spreadsheets](https://smallbusiness.chron.com/advantages-disadvantages-spreadsheets-26551.html)
+  - [Spreadsheets Vs. Databases](https://smallbusiness.chron.com/spreadsheets-vs-databases-53907.html)
+  {: .read}
 {: .check}
 
+
+#### Quiz 3 must be completed before our next class
 Submit only Asgn2-YourName.xlsx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Excel. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
 
 #### Academic Integrity Tutorial must be completed before Week 6
@@ -277,10 +289,23 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 4: Databases
 {: #Week4 .anchor}
   
+![hw]({{site.baseurl}}/assets/ifsm201/Wk4.png)This week you will be looking at the basic concepts or components used in the construction of database, read about different database structures, and investigate specific security issues related to use of databases.  In addition, the relationships between Customer Relationship Management (CRM), data warehouses, and data mining will be introduced. 
 
-Windows users have MS Access only in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft never ported the Access database application to MacOS. Therefore, you may want to use MS Access 2010 to do Assignment 2 in the UMUC Computer Lab/Testing Center.
+### Content this week
 
-### Review [GCF Access Tutorials](https://edu.gcfglobal.org/en/)
+This week we will be discussing Databases in preparation for Assignment 3. I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files and read the first two documents prior to class and before taking Quiz 4.
+
+- [Databases - Knowledge Management - Business Intelligence]({{site.baseurl}}/assets/ifsm201/4-Databases-KnowledgeManagement-BusinessIntelligence.pdf)
+- [CRM, Data Warehouses and Data Mining/Analytics]({{site.baseurl}}/assets/ifsm201/4-CRM-DataWarehouses-DataMining-Analytics.pdf)
+- [Slide Set 6: Databases]({{site.baseurl}}/assets/ifsm201/4-Databases.pdf)
+- [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf)
+{: .pdf}
+
+MS Access is only available in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft has never ported the Access database application to MacOS. Therefore, if you would like to utilize MS Access to do Assignment 3 you will likely need to utilize the UMUC Computer Lab/Testing Center to utilize MS Access 2010. However, if you have Microsoft Access on your home computer and wish to try it there then go to the appropriate version of Access for tutorials.
+
+### Activities this week
+
+Work through the listed tutorials for the version of Microsoft Access you intend to use for this assignment [GCF LearnFree Microsoft Access Tutorials](https://edu.gcfglobal.org/en/topics/access/)
 
 |  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
 |---|---|---
@@ -303,6 +328,38 @@ Windows users have MS Access only in the Office Professional versions. MacOSX us
 - [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_Intro_to_Access.pdf "Right click this link and open in new tab")
 - [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_Reports_and_Queries.pdf "Right click this link and open in new tab")
 {: .pdf}
+
+#### Week 4 Discussion - Your life is somewhere in a database
+
+- This week you need to create a post as a new thread and reply to two other students post. The topic : Should States Share Criminal Databases?
+{: .check}
+
+#### Academic Integrity Tutorial must be completed before Week 6
+
+- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The Academic Integrity Tutorial hyperlink is at: 
+<http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm>
+{: .check}
+
+#### [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf)
+
+- Work through Assignment 3 and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
+{: .check}
+
+#### Quiz 4 must be completed before our next class
+
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The fourth week you will be permitted to take the quiz twice.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
+
+- Quiz 4: Computer Software
+{: .check} 
+
+If you have any questions about the class or assignments feel free to post in the 
+LEO Discussion > Ask your Professor. There are no required discussions this week. 
+
+
+
+
+
+The quiz this week is set for two attempts and 60 minutes so please try taking the Quiz 4 before Week 5 class lecture.
 
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
