@@ -336,8 +336,7 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
-- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The Academic Integrity Tutorial hyperlink is at: 
-<http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm>
+- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The Academic Integrity Tutorial hyperlink is at: <http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm>
 {: .check}
 
 #### [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf)
