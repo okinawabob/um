@@ -254,12 +254,13 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
-Work through Assignment 2 - Word Processing as described in the attached file:  
+Work through Assignment 2 - Spreadsheets as described in the attached file:  
 
-- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+- [Assignmen 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
+- [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
 {: .check}
 
-Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
+Submit only Asgn2-YourName.xlsx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Excel. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
 
 
 #### Quiz 3 must be completed before our next class
@@ -302,6 +303,9 @@ Guides for Access 2016 are available below:
 - [Access 2016 Intro to Access](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Intro_to_Access.pdf)
 - [Access 2016 Reports and Queries](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Reports_and_Queries.pdf)
 {: .pdf}
+
+If you have any questions about the class or assignments feel free to post in the 
+LEO Discussion > Ask your Professor. There are no required discussions this week. 
 
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
