@@ -55,8 +55,8 @@ Information is data that has meaning; it tells a story. So how do you go from ju
 
 Begin this week with the reading about the power of data and information. The Week 1 Quiz will contain questions based on these two readings. Prior to class, please print and read both PDF files listed below:
 
-- [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/ifms201/READ-NumberSystemsCodes.pdf "Right click this link and open in new tab")
-- [READ Data and Information Handout]({{site.baseurl}}/assets/ifms201/DataInformation.pdf "Right click this link and open in new tab")
+- [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/ifsm201/READ-NumberSystemsCodes.pdf "Right click this link and open in new tab")
+- [READ Data and Information Handout]({{site.baseurl}}/assets/ifsm201/DataInformation.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 The *file extension* is important in Microsoft Windows, because it determines which application will open the file. Unfortunately, Microsoft hides file extensions by default, but it is useful to view the file extensions of known file types within Windows Explorer file display pane. If you are using windows please search through help to learn how to view the file extensions. Find and uncheck the check box labeled Hide extensions of known file types. You will now be able to see the difference between filename.docx file and filename.pdf file.
@@ -110,8 +110,8 @@ Additionally, we will also discuss our first software application which is Word 
 ### Content this week
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class:
 
-- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifms201/1-Data-Hardware.pdf "Right click this link and open in new tab")
-- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifms201/2-WordProcessing.pdf "Right click this link and open in new tab")
+- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
+- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifsm201/2-WordProcessing.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
@@ -158,14 +158,14 @@ Please work through the tutorials at LearnFree.org if you intend to use Microsof
 
 | Windows  |  MacOS 
 | ---|---
-| [Introduction to Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
-| [Formatting in Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifms201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+| [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
+| [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
 
 #### Assignment 1: Word Processing (Computer Shopping)
 
 Work through Assignment 1 - Word Processing as described in the attached file:  
 
-- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifms201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
 {: .check}
 
 Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
@@ -196,8 +196,8 @@ Slide Set 4: Spreadsheets
 ### Content this week
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class:
 
-- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifms201/1-Data-Hardware.pdf "Right click this link and open in new tab")
-- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifms201/2-WordProcessing.pdf "Right click this link and open in new tab")
+- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
+- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifsm201/2-WordProcessing.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
@@ -248,15 +248,15 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 | Windows  |  MacOS 
 | ---|---
-| [Introduction to Excel]({{site.baseurl}}/assets/ifms201/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel]({{site.baseurl}}/assets/ifms201/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
-| [Excel Formulas]({{site.baseurl}}/assets/ifms201/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas]({{site.baseurl}}/assets/ifms201/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
-| [Excel Charts]({{site.baseurl}}/assets/ifms201/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts]({{site.baseurl}}/assets/ifms201/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
+| [Introduction to Excel]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
+| [Excel Formulas]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
+| [Excel Charts]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
 Work through Assignment 2 - Word Processing as described in the attached file:  
 
-- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifms201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
 {: .check}
 
 Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.

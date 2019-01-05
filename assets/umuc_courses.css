@@ -281,7 +281,7 @@ th, td {
 thead {
   background: rgb(223, 220, 141);
   background: linear-gradient(#ffb71b, #f2bd85);
-  color: #fff;
+  color: #000;
   font-size: 16px;
   font-variant: small-caps;
 }
