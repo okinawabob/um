@@ -108,7 +108,8 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit docx documents throughout the course which are the standard Microsoft Word 2007-16 file format.
 
 ### Content this week
-I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class:
+
+I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
 
 - [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
 - [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifsm201/2-WordProcessing.pdf "Right click this link and open in new tab")
@@ -188,16 +189,11 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 There are two types of Software: Operating System (OS) and Applications and they are covered in the first three modules which you need to work through this week before taking the Quiz. Please read and work through these modules before coming to class this week so that you can ask intelligent questions.
 
-The software application topic we will cover this week is spreadsheets in preparation for Assignment 2. Prior to class print the following PDF files to include two slide sets if you would like to take notes on them:
-
-Slide Set 3: Software
-Slide Set 4: Spreadsheets
-
 ### Content this week
-I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class:
+I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
 
-- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
-- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifsm201/2-WordProcessing.pdf "Right click this link and open in new tab")
+- [Slide Set 3: Software]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
+- [Slide Set 4: Spreadsheets]({{site.baseurl}}/assets/ifsm201/2-WordProcessing.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
@@ -256,7 +252,7 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 Work through Assignment 2 - Spreadsheets as described in the attached file:  
 
-- [Assignmen 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
+- [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
 - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
 {: .check}
 
@@ -298,10 +294,10 @@ Windows users have MS Access only in the Office Professional versions. MacOSX us
 | #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
 |   | #18 Designing Your Own Database |  #16 Designing Your Own Database
 
-Guides for Access 2016 are available below:
+#### Tutorials for Microsoft Access 2016 by Kennesaw State University
 
-- [Access 2016 Intro to Access](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Intro_to_Access.pdf)
-- [Access 2016 Reports and Queries](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Reports_and_Queries.pdf)
+- [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_Intro_to_Access.pdf "Right click this link and open in new tab")
+- [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_Reports_and_Queries.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 If you have any questions about the class or assignments feel free to post in the 
