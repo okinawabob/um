@@ -336,7 +336,7 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
-- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
+- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on-  the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
 {: .check}
 
 #### Assignment 3: Relational Database
@@ -346,9 +346,7 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 
 #### Quiz 4 must be completed before our next class
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The fourth week you will be permitted to take the quiz twice.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
-
-- Quiz 4: Database concepts The quiz this week is set for two attempts and 60 minutes so please try taking the Quiz 4 before Week 5 class lecture.
+- The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The fourth week you will be permitted to take the quiz twice.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
 {: .check} 
 
 If you have any questions about the class or assignments feel free to post in the 
