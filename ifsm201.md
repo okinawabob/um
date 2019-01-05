@@ -260,15 +260,16 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
-Work through Assignment 2 - Spreadsheets as described in the attached file:  
-
-- [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
-- [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
+- Work through Assignment 2 - Spreadsheets as described in the attached file:  
+  - [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
+  - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
+  {: .pdf}
 {: .check}
 
-
 #### Quiz 3 must be completed before our next class
-Submit only Asgn2-YourName.xlsx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Excel. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
+
+- Submit only Asgn2-YourName.xlsx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Excel. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
+{: .check}
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
