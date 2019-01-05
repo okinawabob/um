@@ -303,7 +303,11 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 
 MS Access is only available in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft has never ported the Access database application to MacOS. Therefore, if you would like to utilize MS Access to do Assignment 3 you will likely need to utilize the UMUC Computer Lab/Testing Center to utilize MS Access 2010. However, if you have Microsoft Access on your home computer and wish to try it there then go to the appropriate version of Access for tutorials.
 
-### Activities this week
+#### Tutorials for Microsoft Access 2016 by Kennesaw State University
+
+- [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_Intro_to_Access.pdf "Right click this link and open in new tab")
+- [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_Reports_and_Queries.pdf "Right click this link and open in new tab")
+{: .pdf}
 
 Work through the listed tutorials for the version of Microsoft Access you intend to use for this assignment [GCF LearnFree Microsoft Access Tutorials](https://edu.gcfglobal.org/en/topics/access/)
 
@@ -323,11 +327,7 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 | #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
 |   | #18 Designing Your Own Database |  #16 Designing Your Own Database
 
-#### Tutorials for Microsoft Access 2016 by Kennesaw State University
-
-- [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_Intro_to_Access.pdf "Right click this link and open in new tab")
-- [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_Reports_and_Queries.pdf "Right click this link and open in new tab")
-{: .pdf}
+### Activities this week
 
 #### Week 4 Discussion - Your life is somewhere in a database
 
@@ -336,29 +336,20 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
-- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The Academic Integrity Tutorial hyperlink is at: <http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm>
+- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
 {: .check}
 
-#### [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf)
+#### Assignment 3: Relational Database
 
-- Work through Assignment 3 and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
+- Work through [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf) and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
 {: .check}
 
 #### Quiz 4 must be completed before our next class
 
 The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The fourth week you will be permitted to take the quiz twice.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
 
-- Quiz 4: Computer Software
+- Quiz 4: Database concepts The quiz this week is set for two attempts and 60 minutes so please try taking the Quiz 4 before Week 5 class lecture.
 {: .check} 
-
-If you have any questions about the class or assignments feel free to post in the 
-LEO Discussion > Ask your Professor. There are no required discussions this week. 
-
-
-
-
-
-The quiz this week is set for two attempts and 60 minutes so please try taking the Quiz 4 before Week 5 class lecture.
 
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
