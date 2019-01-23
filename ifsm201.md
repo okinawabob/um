@@ -11,7 +11,7 @@ permalink: "/ifsm201/"
 
 ## Concepts and Applications of Information Technology 
 
-![Me]({{site.baseurl}}/assets/Wk1.png)This is a Hybrid class which meets one class per week for lecture and you are required to attend all lecture classes. In lieu of the second class, you are expected to work on assignments independently and work through all course content that is posted each week. Use of a computer, Internet connection, and [<abbr title="Learning Experience Online">LEO</abbr>](https://www.umuc.edu/current-students/learning-resources/leo/index.cfm) is required for hybrid classes which are accessed at either <abbr title="Uniform Resource Locator">URL</abbr>:
+![Start]({{site.baseurl}}/assets/Wk1.png)This is a Hybrid class which meets one class per week for lecture and you are required to attend all lecture classes. In lieu of the second class, you are expected to work on assignments independently and work through all course content that is posted each week. Use of a computer, Internet connection, and [<abbr title="Learning Experience Online">LEO</abbr>](https://www.umuc.edu/current-students/learning-resources/leo/index.cfm) is required for hybrid classes which are accessed at either <abbr title="Uniform Resource Locator">URL</abbr>:
 
 - <http://campus.umuc.edu> (preferred)
 - <http://learn.umuc.edu> (backup)
@@ -47,7 +47,7 @@ Robert Laurie
 ## Week 1: Data and Information
 {: #Week1 .anchor}
 
-This week in lecture we will be discussing the Syllabus, LEO course management system, and investigate Data representation for different number systems used in computing and ASCII codes. Data is gathered, analyzed, and organized into meaningful and useful information.  But do you know the difference between quantitative, qualitative and categorical data? And how is data gathered?  What is the difference between samples, surveys, and polls. 
+![qr]({{site.baseurl}}/assets/qr-code.png)This week in lecture we will be discussing the Syllabus, LEO course management system, and investigate Data representation for different number systems used in computing and ASCII codes. Data is gathered, analyzed, and organized into meaningful and useful information.  But do you know the difference between quantitative, qualitative and categorical data? And how is data gathered?  What is the difference between samples, surveys, and polls. 
 
 Information is data that has meaning; it tells a story. So how do you go from just gathering data to making some meaning of what you have gathered? What does data analysis mean?
 
