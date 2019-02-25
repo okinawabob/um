@@ -260,7 +260,7 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
-- Work through Assignment 2 - Spreadsheets as described in the attached file:  
+- Work through Assignment 2 - Spreadsheets as described in the attached PDF documents below.  Submit only Asgn2-YourName.xlsx file and verify this by ***not hiding** extensions of known file types* on your computer and open the file in MS Excel. The file **Asgn2-YourName.xlsx** Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on doing all described steps and meeting the described requirements.
   - [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
   - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
   {: .pdf}
@@ -268,21 +268,15 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 #### Quiz 3 must be completed before our next class
 
-- Submit only Asgn2-YourName.xlsx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Excel. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
-{: .check}
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The third week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
+
+- Quiz 3: Computer Software
+{: .check} 
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
 Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The Academic Integrity Tutorial hyperlink is at: 
 <http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm>
-
-
-#### Quiz 3 must be completed before our next class
-
-The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The third week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
-
-- Quiz 3: Computer Software
-{: .check} 
 
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
@@ -361,76 +355,46 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
 
-![hw]({{site.baseurl}}/assets/ifsm201/Wk5.png)This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document:  
-[Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf)
-
-This week's assignment, will be the creation of a simple three page website using GitHub for your hosting and markdown as your coding methodology. 
-
-I created a sample website at:
-<http://iwakunibob.github.io>
-
-Please post in the Discussion this week and reply to two other student's posts. You will be converting a 32-bit IP address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address.
-
-There is no Quiz this week so just finish up your Academic Integrity Tutorial with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.
-
-<p><strong>OVERVIEW AND OBJECTIVES</strong></p>
-<p>This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document <a rel="noopener" href="http://polaris.umuc.edu/~rlaurie/ifsm201/InformationSharing(networks).pdf" target="_blank">Information Sharing (networks)</a>&nbsp;that is posted in the content.</p>
-<p>For this week's&nbsp;assignment, you will&nbsp;create a simple three page website using GitHub for your hosting and markdown as your coding methodology. I created a sample website at:&nbsp;<br /><a rel="noopener" href="https://iwakunibob.github.io/">https://iwakunibob.github.io/</a></p>
-<p>Please post in the Discussion this week and reply to two other student's posts.&nbsp;You will be converting a 32-bit IP address in binary form to the standard dot separated four octet format and pasting it in a browser to see where it goes as a fixed IP address.</p>
-<p>There is no Quiz this week so just finish up your Academic Integrity Tutorial with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.&nbsp;&nbsp;</p>
-<p>Interesting videos and websites to view:</p>
-<ul>
-<li><a rel="noopener" href="https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work" target="_blank">MDN </a><a rel="noopener" href="https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work" target="_blank">How does the Internet work?</a></li>
-<li><a rel="noopener" href="https://youtu.be/i5oe63pOhLI" target="_blank">How Does the Internet Work? [video]</a></li>
-<li><a rel="noopener" href="https://youtu.be/7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes [video]</a></li>
-<li><a rel="noopener" href="http://www.warriorsofthe.net/" target="_blank">www.warriorsofthe.net [video]</a></li>
-<li><a rel="noopener" href="https://youtu.be/hXorYP_HQtM" target="_blank">GitHub Hosting in 5 minutes | Free Static Web Hosting</a></li>
-<li><a rel="noopener" href="https://youtu.be/6A5EpqqDOdk" target="_blank">Markdown tutorial</a></li>
-<li><a rel="noopener" href="http://photofiltre.free.fr/utils/pf-setup-en-653.exe" target="_blank">http://photofiltre.free.fr/utils/pf-setup-en-653.exe</a>&nbsp; Windows Users<a rel="noopener" href="https://youtu.be/6A5EpqqDOdk" target="_blank"></a></li>
-<li><a rel="noopener" href="https://youtu.be/Nfi1MYkJFr4 " target="_blank">PhotoFiltre 6 Graphic with Text (Windows Users)</a></li>
-<li><a rel="noopener" href="https://youtu.be/bfGONt6Ec70" target="_blank">Apple Photos Tutorial - Basic Editing</a>&nbsp; Apple MacOS Users</li>
-<li><a rel="noopener" href="https://youtu.be/gFsRXfifcYg" target="_blank">How to protect your online privacy - noob to pro in 14 minutes</a></li>
-</ul>
-<p>If you have any questions about the class or assignments feel free to post in the&nbsp;</p>
-<p><em>LEO Discussion &gt; Ask your Professor</em></p>
+![hw]({{site.baseurl}}/assets/ifsm201/Wk5.png)This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document  [Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf).
 
 ### Content this week
 
 This week we will be discussing Databases in preparation for Assignment 3. I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files and read the first two documents prior to class and before taking Quiz 4.
 
-- [Databases - Knowledge Management - Business Intelligence]({{site.baseurl}}/assets/ifsm201/4-Databases-KnowledgeManagement-BusinessIntelligence.pdf)
-- [CRM, Data Warehouses and Data Mining/Analytics]({{site.baseurl}}/assets/ifsm201/4-CRM-DataWarehouses-DataMining-Analytics.pdf)
-- [Slide Set 6: Databases]({{site.baseurl}}/assets/ifsm201/4-Databases.pdf)
-- [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf)
+- [READ Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf)
+- [Slide Set 6: Networking and Markdown]({{site.baseurl}}/assets/ifsm201/SlideSet-6-Networking-MD.pdf)
+- [Assignment 4: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf)
 {: .pdf}
 
-MS Access is only available in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft has never ported the Access database application to MacOS. Therefore, if you would like to utilize MS Access to do Assignment 3 you will likely need to utilize the UMUC Computer Lab/Testing Center to utilize MS Access 2010. However, if you have Microsoft Access on your home computer and wish to try it there then go to the appropriate version of Access for tutorials.
+#### Interesting videos and websites to view:
 
-#### Tutorials for Microsoft Access 2016 by Kennesaw State University
+- [How Does the Internet Work?](https://youtu.be/i5oe63pOhLI) 6m
+- [How the Internet Works in 5 Minutes](https://youtu.be/7_LPdttKXPc) 5m
+- [Warriors of the net](https://youtu.be/PBWhzz_Gn10) 13m
+- [GitHub Hosting in 5 minutes](https://youtu.be/hXorYP_HQtM) 5m
+- [Markdown tutorial](https://youtu.be/6A5EpqqDOdk) 12m
+- [PhotoFiltre 6 Graphic with Text - Win](https://youtu.be/Nfi1MYkJFr4) 6m
+- [Apple Photos Tutorial - Basic Editing](https://youtu.be/bfGONt6Ec70) 6m
+{: .vid}
 
-- [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_Intro_to_Access.pdf "Right click this link and open in new tab")
-- [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_Reports_and_Queries.pdf "Right click this link and open in new tab")
-{: .pdf}
+- [MDN How does the Internet work?](https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work)
+- [PhotoFiltre 6 Free for Windows](http://photofiltre.free.fr) [download](http://photofiltre.free.fr/utils/pf-setup-en-653.exe)
+{: .link}
 
-Work through the listed tutorials for the version of Microsoft Access you intend to use for this assignment [GCF LearnFree Microsoft Access Tutorials](https://edu.gcfglobal.org/en/topics/access/)
-
-|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
-|---|---|---
-| #1 Intro to DataBases  | #3 Intro to DataBases | #1 Intro to DataBases
-| #2 Intro to Objects   | #4 Intro to Objects | #2 Intro to Objects
-| #3 Getting Started   | #5 Getting Started | #3 Getting Started
-| #4 Managing Objects   | #6 Managing Objects | #4 Managing Objects
-| #5 Working with Tables   | #7 Working with Tables | #5 Working with Tables
-| #6 Working with Forms   | #8 Working with Forms  | #6 Working with Forms
-| #7 Sorting, Filtering   | #9 Sorting, Filtering  | #7 Sorting, Filtering
-| #8 Designing a Query  | #10 Designing a Simple Query  | #8 Designing a Simple Query
-| #9 More Query Options  | #11 Designing a Multi-Table Query  | #9 Designing a Multi-Table Query
-| #10 Creating Reports | #12 More Query Options | #10 More Query Options
-| #13 Creating Forms | #13 Creating Reports | #11 Creating Reports
-| #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
-|   | #18 Designing Your Own Database |  #16 Designing Your Own Database
+If you have any questions about the class or assignments feel free to post in the LEO Discussion  
+*Ask your Professor*
 
 ### Activities this week
+
+**Assignment 4**, will be the creation of a simple three page website using GitHub for your hosting and markdown as your coding methodology. 
+
+I created a sample website at:
+
+<http://iwakunibob.github.io>
+
+The **Discussion** for this week will be converting a 32-bit IPV4 address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address. As with all discussion you will need to reply post to two other student's posts.
+
+There is **no Quiz** this week.  Finish up your **Academic Integrity Tutorial** with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.
 
 #### Week 4 Discussion - Your life is somewhere in a database
 
