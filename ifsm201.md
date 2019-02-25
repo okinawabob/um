@@ -262,7 +262,7 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
-- Work through Assignment 2 - Spreadsheets as described in the attached PDF documents below.  Submit only Asgn2-YourName.xlsx file and verify this by ***not hiding* extensions of known file types* on your computer and open the file in MS Excel. The file **Asgn2-YourName.xlsx** Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on doing all described steps and meeting the described requirements.
+- Work through Assignment 2 - Spreadsheets as described in the attached PDF documents below.  Submit only Asgn2-*YourName*.xlsx file and verify this by ***not hiding* extensions of known file types** on your computer and open the file in MS Excel. The file **Asgn2-*YourName*.xlsx** Must be uploaded and submitted on **<abbr title="Learning Experience Online">LEO</abbr> Assignments** before next class. The assignment will be graded based on doing all described steps and meeting the described requirements.
   - [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
   - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
   {: .pdf}
@@ -386,12 +386,12 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 - [Apple Photos Tutorial - Basic Editing](https://youtu.be/bfGONt6Ec70) 6m
 {: .vid}
 
-
-
-If you have any questions about the class or assignments feel free to post in the LEO Discussion  
-*Ask your Professor*
-
 ### Activities this week
+
+#### Assignment 4: Create a Website
+
+- Work through [Assignment 4: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf) and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
+{: .check}
 
 **Assignment 4**, will be the creation of a simple three page website using GitHub for your hosting and markdown as your coding methodology. 
 
@@ -427,6 +427,8 @@ If you have any questions about the class or assignments feel free to post in th
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
 ## Week 6: Ethics, Privacy,  and Security
 {: #Week6 .anchor}
+
+
 
 ## Week 7: Future created by Technology
 {: #Week7 .anchor}
