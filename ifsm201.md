@@ -234,7 +234,8 @@ I will utilize PowerPoint slides for lecture and discussion. Please print the fo
 
 | Windows  |  MacOS 
 | ---|---
-| [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_MAC_Quick_Start_Guide.pdf "Right click this link and open in new tab")| [Introduction to Excel]({https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
+| [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_MAC_Quick_Start_Guide.pdf "Right click this link and open in new tab")
+| [Introduction to Excel]({https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
 | [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
 | [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
 
@@ -302,9 +303,11 @@ MS Access is only available in the Office Professional versions. MacOSX users wi
 
 #### Tutorials for Microsoft Access 2016 by Kennesaw State University
 
-- [KSU Access Quick Start Guide]({{site.baseurl}}/assets/ifsm201/Access_2016_PC_Quick_Start_Guide.pdf)
-- [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_PC_Intro_to_Access.pdf "Right click this link and open in new tab")
-- [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_PC_Reports_and_Queries.pdf "Right click this link and open in new tab")
+- [Access Quick Start Guide](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab")
+- [Intro to Access](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Intro_to_Access.pdf "Right click this link and open in new tab")
+- [Introduction to Forms](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Intro_to_Forms.pdf)
+- [Relational Databases & Subforms](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Relational_Databases_and_Subforms.pdf "Right click this link and open in new tab")
+- [Access 2016 Reports and Queries](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Reports_and_Queries.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Work through the listed tutorials for the version of Microsoft Access you intend to use for this assignment [GCF LearnFree Microsoft Access Tutorials](https://edu.gcfglobal.org/en/topics/access/)
