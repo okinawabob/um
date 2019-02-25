@@ -486,14 +486,14 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week.
 
-## Week 7: Future created by Technology
+## Week 7: <!-- Future created by Technology
 {: #Week7 .anchor}
 
-<!-- ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
+ ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
 
-## Week 8: Research Presentations
+## Week 8: --> Research Presentations
 {: #Week8 .anchor}
--->
+
 
 ![.]({{site.baseurl}}/assets/ifsm201/Wk8.png)This is the last week of our class. You will be doing the talking doing presentations about your research topic.
 
