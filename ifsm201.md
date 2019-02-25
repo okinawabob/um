@@ -170,7 +170,7 @@ Work through Assignment 1 - Word Processing as described in the attached file:
 - [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
 {: .check}
 
-Submit only Asgn1-YourName.docx file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
+Submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
 
 
 #### Quiz 2 must be completed before our next class
@@ -395,7 +395,7 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 
 #### Discussion for Week 5
 
-- The Discussion* for this week will be converting a 32-bit IPV4 address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address. As with all discussion you will need to reply post to two other student's posts.
+- The Discussion for this week will be converting a 32-bit IPV4 address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address. As with all discussion you will need to reply post to two other student's posts.
 {: .check}
 
 #### Academic Integrity Tutorial must be completed before Week 6
@@ -411,7 +411,80 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 6: Ethics, Privacy,  and Security
 {: #Week6 .anchor}
 
+This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
 
+We will also discuss PowerPoint as a Presentation Graphics tool which you will need to utilize for Assignment 5.
+
+### Content this week
+
+I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
+
+- [Slide Set 7: Ethics, Privacy, Security]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
+- [READ Ethics]({{site.baseurl}}/assets/ifsm201/READ-6-Ethics.pdf "Right click this link and open in new tab")
+- [READ Privacy]({{site.baseurl}}/assets/ifsm201/READ-6-Privacy.pdf "Right click this link and open in new tab")
+- [READ Security]({{site.baseurl}}/assets/ifsm201/READ-6-Security.pdf "Right click this link and open in new tab")
+{: .pdf}
+
+#### Videos about Computer Ethics, Privacy, and Security:
+
+- [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
+- [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
+- [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m
+- [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
+{: .vid}
+
+#### Tutorials for PowerPoint 2016 by Kennesaw State University
+
+| Windows  |  MacOS 
+| ---|---
+| [Quick Start Guide to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Quick_Start_Guide.pdf "Right click this link and open in new tab")
+| [Introduction to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
+| [Formatting in Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+
+This week you will apply PowerPoint skills to Assignment 5 - Research Presentation. Choose the link for the version of PowerPoint you are using. The sites are a product of the Goodwill Community Foundation (GCF) LearnFree.org.
+
+| [PowerPoint 2010](https://edu.gcfglobal.org/en/powerpoint2010/) | [PowerPoint 2013](https://edu.gcfglobal.org/en/powerpoint2013/) | [PowarPoint 2016](https://edu.gcfglobal.org/en/powerpoint2016/) 
+|---|---|---
+| #1 Getting Started | #4 Getting to Know | #1 Getting Started
+| #2 Slide Basics | #5 Creating pres. | #3 Creating pres.
+| #3 Text Basics | #6 Saving | #4 Saving
+| #4 Applying Theme | #7 Slide Basics | #5 Slide Basics
+| #5 Insert Images | #8 Text Basics | #6 Text Basics
+| #6 Transitions | #9 Applying Theme | #7 Applying Theme
+| #7 Check Spelling | #10 Transitions |#8 Transitions
+| #8 Presenting Show | #11 Managing slides | #9 Managing slides
+| #9 Save and Print | #12 Printing | #10 Find Replace
+| #10 Modifying Lists | #13 Presenting Show | #11 Printing
+| #11 Indents | #14 Lists | #12 Presenting Show
+| #12 Wordart | #15 Indents | #13 Lists
+| #13 Modify Theme | #16 Inserting pics | #14 Indents
+| #14 Format Pics | #17 Format pics | #15 Inserting pics
+| #15 Arranging objects | #18 WordArt | #16 Format pics
+| #16 Animating  | #19 Arranging obj. | #17 Shapes
+|  | #20 Animating | #18 Arranging obj.
+|  |   | #19 Animating
+
+### Activities this week 
+
+#### Assignment 5: Research Presentation
+
+Work through Assignment 1 - Word Processing as described in the attached file:  
+
+- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+{: .check}
+
+Submit only **Asgn1-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class. 
+
+
+#### Quiz 5 must be completed before our next class
+
+The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
+
+- Quiz 5: Computer Hardware
+{: .check}
+
+If you have any questions about the class or assignments feel free to post in the 
+LEO Discussion > Ask your Professor. There are no required discussions this week.
 
 ## Week 7: Future created by Technology
 {: #Week7 .anchor}
