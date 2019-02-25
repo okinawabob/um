@@ -507,23 +507,26 @@ I would appreciate that you complete the course evaluation on LEO. Your comments
 
 UMUC has several different Computer Majors and Minors 
 
-Computer Science = CMSC (requires calculus)
-Information Systems Management = IFSM [video](https://youtu.be/juDx6Sz9jV0)
-Digital Media and Web Technology = CMST
-Computer Networks and Cybersecurity = CMIT
+- Computer Science = CMSC (requires calculus)
+- Information Systems Management = IFSM [video](https://youtu.be/juDx6Sz9jV0)
+- Digital Media and Web Technology = CMST
+- Computer Networks and Cybersecurity = CMIT
+
 Most UMUC majors will need to take:
 
-IFSM300 = Information Systems in Organizations (prereq IFSM201)
+- IFSM300 = Information Systems in Organizations (prereq IFSM201)
+
 Informations Systems Management and Computer Science courses:
 
-CMIS102 = Introduction to Problem Solving and Algorithm Design 
-CMIS141 = Introduction to Programming (prereq CMIS102)
-CMIS242 = Intermediate Programming (prereq CMIS141)
-CMIS320 = Relational Database Concepts (prereq CMIS102)
+- CMIS102 = Introduction to Problem Solving and Algorithm Design 
+- CMIS141 = Introduction to Programming (prereq CMIS102)
+- CMIS242 = Intermediate Programming (prereq CMIS141)
+- CMIS320 = Relational Database Concepts (prereq CMIS102)
+
 Digital Media and Web Technology junior level courses that may appeal to Business, IFSM, or CMST majors:
 
-CMST290 =Introduction to Interactive Design
-CMST385 = Web Design and Technology 1 (prereq CMST290)
-CMST386 = Web Design and Technology 2 (prereq CMST385)
+- CMST290 =Introduction to Interactive Design
+- CMST385 = Web Design and Technology 1 (prereq CMST290)
+- CMST386 = Web Design and Technology 2 (prereq CMST385)
 
 
