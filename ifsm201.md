@@ -390,41 +390,24 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 
 #### Assignment 4: Create a Website
 
-- Work through [Assignment 4: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf) and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
+- Work through [Assignment 4: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf). You must upload a file to make a submission on LEO. Create a Word document with your website URL and describe your experience with the website project. Also paste your URL and comments in the comment area when you submit and upload this file. I created a sample website at <http://iwakunibob.github.io>
 {: .check}
 
-**Assignment 4**, will be the creation of a simple three page website using GitHub for your hosting and markdown as your coding methodology. 
+#### Discussion for Week 5
 
-I created a sample website at:
-
-<http://iwakunibob.github.io>
-
-The **Discussion** for this week will be converting a 32-bit IPV4 address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address. As with all discussion you will need to reply post to two other student's posts.
-
-There is **no Quiz** this week.  Finish up your **Academic Integrity Tutorial** with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.
-
-#### Week 4 Discussion - Your life is somewhere in a database
-
-- This week you need to create a post as a new thread and reply to two other students post. The topic : Should States Share Criminal Databases?
+- The Discussion* for this week will be converting a 32-bit IPV4 address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address. As with all discussion you will need to reply post to two other student's posts.
 {: .check}
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
-- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on-  the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
+- Finish working through the Academic Integrity Tutorial this week. This tutorial is due next week and but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
 {: .check}
 
-#### Assignment 3: Relational Database
-
-- Work through [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf) and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
-{: .check}
-
-#### Quiz 4 must be completed before our next class
-
-- The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The fourth week you will be permitted to take the quiz twice.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
-{: .check} 
+**No Quiz** this week.  Finish up your **Academic Integrity Tutorial** with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.
 
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
+
 ## Week 6: Ethics, Privacy,  and Security
 {: #Week6 .anchor}
 
