@@ -411,7 +411,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 6: Ethics, Privacy,  and Security
 {: #Week6 .anchor}
 
-![.]({{site.baseurl}}/assets/ifsm201/Wk6.png)This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
+![gg]({{site.baseurl}}/assets/ifsm201/Wk6.png)This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
 
 We will also discuss PowerPoint as a Presentation Graphics tool which you will need to utilize for Assignment 5.
 
