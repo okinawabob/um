@@ -11,7 +11,7 @@ permalink: "/ifsm201/"
 
 ## Concepts and Applications of Information Technology 
 
-![Start]({{site.baseurl}}/assets/Wk0.png)This is a Hybrid class which meets one class per week for lecture and you are required to attend all lecture classes. In lieu of the second class, you are expected to work on assignments independently and work through all course content that is posted each week. Use of a computer, Internet connection, and [<abbr title="Learning Experience Online">LEO</abbr>](https://www.umuc.edu/current-students/learning-resources/leo/index.cfm) is required for hybrid classes which are accessed at either <abbr title="Uniform Resource Locator">URL</abbr>:
+![.]({{site.baseurl}}/assets/Wk0.png)This is a Hybrid class which meets one class per week for lecture and you are required to attend all lecture classes. In lieu of the second class, you are expected to work on assignments independently and work through all course content that is posted each week. Use of a computer, Internet connection, and [<abbr title="Learning Experience Online">LEO</abbr>](https://www.umuc.edu/current-students/learning-resources/leo/index.cfm) is required for hybrid classes which are accessed at either <abbr title="Uniform Resource Locator">URL</abbr>:
 
 - <http://campus.umuc.edu> (preferred)
 - <http://learn.umuc.edu> (backup)
@@ -47,7 +47,7 @@ Robert Laurie
 ## Week 1: Data and Information
 {: #Week1 .anchor}
 
-![qr]({{site.baseurl}}/assets/Wk1.png)This week in lecture we will be discussing the Syllabus, LEO course management system, and investigate Data representation for different number systems used in computing and ASCII codes. Data is gathered, analyzed, and organized into meaningful and useful information.  But do you know the difference between quantitative, qualitative and categorical data? And how is data gathered?  What is the difference between samples, surveys, and polls. 
+![.]({{site.baseurl}}/assets/Wk1.png)This week in lecture we will be discussing the Syllabus, LEO course management system, and investigate Data representation for different number systems used in computing and ASCII codes. Data is gathered, analyzed, and organized into meaningful and useful information.  But do you know the difference between quantitative, qualitative and categorical data? And how is data gathered?  What is the difference between samples, surveys, and polls. 
 
 Information is data that has meaning; it tells a story. So how do you go from just gathering data to making some meaning of what you have gathered? What does data analysis mean?
 
@@ -103,7 +103,7 @@ LEO Discussion > Ask your Professor.
 ## Week 2: Hardware and Word Processing
 {: #Week2 .anchor}
 
-![hw]({{site.baseurl}}/assets/ifsm201/Wk2.png)This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer analyzing hardware specifications and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
+![.]({{site.baseurl}}/assets/ifsm201/Wk2.png)This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer analyzing hardware specifications and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
 
 Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit *.docx documents throughout the course which are the standard Microsoft Word 2007-16 file format.
 
@@ -186,7 +186,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 3: Software and Spreadsheets
 {: #Week3 .anchor}
 
-![os]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the *Operating System* software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
+![.]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the *Operating System* software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
 
 A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz. 
 
@@ -287,7 +287,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 4: Databases
 {: #Week4 .anchor}
   
-![hw]({{site.baseurl}}/assets/ifsm201/Wk4.png)This week you will be looking at the basic concepts or components used in the construction of database, read about different database structures, and investigate specific security issues related to use of databases.  In addition, the relationships between Customer Relationship Management (CRM), data warehouses, and data mining will be introduced. 
+![.]({{site.baseurl}}/assets/ifsm201/Wk4.png)This week you will be looking at the basic concepts or components used in the construction of database, read about different database structures, and investigate specific security issues related to use of databases.  In addition, the relationships between Customer Relationship Management (CRM), data warehouses, and data mining will be introduced. 
 
 ### Content this week
 
@@ -360,7 +360,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
 
-![hw]({{site.baseurl}}/assets/ifsm201/Wk5.png)This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document  [Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf).
+![.]({{site.baseurl}}/assets/ifsm201/Wk5.png)This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document  [Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf).
 
 ### Content this week
 
@@ -411,7 +411,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 6: Ethics, Privacy,  and Security
 {: #Week6 .anchor}
 
-This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
+![.]({{site.baseurl}}/assets/ifsm201/Wk6.png)This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
 
 We will also discuss PowerPoint as a Presentation Graphics tool which you will need to utilize for Assignment 5.
 
@@ -489,8 +489,10 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 7: Future created by Technology
 {: #Week7 .anchor}
 
+![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
+
 ## Week 8: Research Presentations
 {: #Week8 .anchor}
 
-
+![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
 
