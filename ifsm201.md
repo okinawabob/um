@@ -487,6 +487,7 @@ If you have any questions about the class or assignments feel free to post in th
 LEO Discussion > Ask your Professor. There are no required discussions this week.
 
 <!--
+
 ## Week 7: Future created by Technology
 {: #Week7 .anchor}
 
