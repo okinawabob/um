@@ -142,8 +142,9 @@ GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-
 
 | Windows  |  MacOS 
 | ---|---
-| [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
-| [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word]({{site.baseurl}}/assets/ifsm201/ku-Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+| [Quick Start Guide to Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Quick_Start_Guide.pdf "Right click this link and open in new tab")
+| [Introduction to Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
+| [Formatting in Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
 
 Please work through the tutorials at GCF LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
 
@@ -213,11 +214,11 @@ I will utilize PowerPoint slides for lecture and discussion. Please print the fo
 
 #### Videos about computer software:
 
-- [10 Reasons why Linux is Better Than MacOS or Windows](https://youtu.be/qH3v41JmyIg)
-- [Windows 10 Spying - Privacy and Security](https://youtu.be/u1kGMCfb2xw)
-- [Stop Microsoft Windows 10 Spying and Forced Application Installs](https://youtu.be/wgKJMsJ-6XU?t=50s)
-- [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://youtu.be/Ag1AKIl_2GM)
--[The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE)
+- [10 Reasons why Linux is Better Than MacOS or Windows](https://youtu.be/qH3v41JmyIg) 11m
+- [Windows 10 Spying - Privacy and Security](https://youtu.be/u1kGMCfb2xw) 36m
+- [Stop Microsoft Windows 10 Spying and Forced Application Installs](https://youtu.be/wgKJMsJ-6XU?t=50s) 14m 
+- [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://youtu.be/Ag1AKIl_2GM) 14m
+- [The mind behind Linux, Linus Torvalds](https://youtu.be/o8NPllzkFhE) 22m
 {: .vid}
 
 #### UMUC suggested readings about spreadsheets
@@ -233,9 +234,9 @@ I will utilize PowerPoint slides for lecture and discussion. Please print the fo
 
 | Windows  |  MacOS 
 | ---|---
-| [Introduction to Excel]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
-| [Excel Formulas]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
-| [Excel Charts]({{site.baseurl}}/assets/ifsm201/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts]({{site.baseurl}}/assets/ifsm201/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
+| [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_MAC_Quick_Start_Guide.pdf "Right click this link and open in new tab")| [Introduction to Excel]({https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
+| [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
+| [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
 
 Please work through the Excel tutorials for the version of Excel that you intend to use [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
 
@@ -260,7 +261,7 @@ Please work through the Excel tutorials for the version of Excel that you intend
 
 #### Assignment 2: Spreadsheets (Personal Budget)
 
-- Work through Assignment 2 - Spreadsheets as described in the attached PDF documents below.  Submit only Asgn2-YourName.xlsx file and verify this by ***not hiding** extensions of known file types* on your computer and open the file in MS Excel. The file **Asgn2-YourName.xlsx** Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on doing all described steps and meeting the described requirements.
+- Work through Assignment 2 - Spreadsheets as described in the attached PDF documents below.  Submit only Asgn2-YourName.xlsx file and verify this by ***not hiding* extensions of known file types* on your computer and open the file in MS Excel. The file **Asgn2-YourName.xlsx** Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on doing all described steps and meeting the described requirements.
   - [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
   - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
   {: .pdf}
@@ -301,8 +302,9 @@ MS Access is only available in the Office Professional versions. MacOSX users wi
 
 #### Tutorials for Microsoft Access 2016 by Kennesaw State University
 
-- [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_Intro_to_Access.pdf "Right click this link and open in new tab")
-- [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_Reports_and_Queries.pdf "Right click this link and open in new tab")
+- [KSU Access Quick Start Guide]({{site.baseurl}}/assets/ifsm201/Access_2016_PC_Quick_Start_Guide.pdf)
+- [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_PC_Intro_to_Access.pdf "Right click this link and open in new tab")
+- [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_PC_Reports_and_Queries.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Work through the listed tutorials for the version of Microsoft Access you intend to use for this assignment [GCF LearnFree Microsoft Access Tutorials](https://edu.gcfglobal.org/en/topics/access/)
@@ -332,7 +334,7 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
-- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on-  the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
+- Continue working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on-  the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to convert  the certificate into a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
 {: .check}
 
 #### Assignment 3: Relational Database
@@ -368,6 +370,10 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 
 #### Interesting videos and websites to view:
 
+- [MDN How does the Internet work?](https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work)
+- [PhotoFiltre 6 Free for Windows](http://photofiltre.free.fr) [download](http://photofiltre.free.fr/utils/pf-setup-en-653.exe)
+{: .link}
+
 - [How Does the Internet Work?](https://youtu.be/i5oe63pOhLI) 6m
 - [How the Internet Works in 5 Minutes](https://youtu.be/7_LPdttKXPc) 5m
 - [Warriors of the net](https://youtu.be/PBWhzz_Gn10) 13m
@@ -377,9 +383,7 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 - [Apple Photos Tutorial - Basic Editing](https://youtu.be/bfGONt6Ec70) 6m
 {: .vid}
 
-- [MDN How does the Internet work?](https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work)
-- [PhotoFiltre 6 Free for Windows](http://photofiltre.free.fr) [download](http://photofiltre.free.fr/utils/pf-setup-en-653.exe)
-{: .link}
+
 
 If you have any questions about the class or assignments feel free to post in the LEO Discussion  
 *Ask your Professor*
