@@ -361,7 +361,40 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
 
-![hw]({{site.baseurl}}/assets/ifsm201/Wk4.png)This week you will be looking at the basic concepts or components used in the construction of database, read about different database structures, and investigate specific security issues related to use of databases.  In addition, the relationships between Customer Relationship Management (CRM), data warehouses, and data mining will be introduced. 
+
+
+![hw]({{site.baseurl}}/assets/ifsm201/Wk5.png)This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document:  
+[Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf)
+
+<p>This week's assignment, will be the creation of a simple three page website using GitHub for your hosting and markdown as your coding methodology. 
+
+I created a sample website at:  
+
+<http://iwakunibob.github.io>
+
+<p>Please post in the Discussion this week and reply to two other student's posts.&nbsp;You will be converting a 32-bit IP address in binary form to the standard dot separated four octet format and pasting it in a browser to see where it goes as a fixed IP address.</p>
+<p>There is no Quiz this week so just finish up your Academic Integrity Tutorial with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.&nbsp;&nbsp;</p>
+
+<p><strong>OVERVIEW AND OBJECTIVES</strong></p>
+<p>This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document <a rel="noopener" href="http://polaris.umuc.edu/~rlaurie/ifsm201/InformationSharing(networks).pdf" target="_blank">Information Sharing (networks)</a>&nbsp;that is posted in the content.</p>
+<p>For this week's&nbsp;assignment, you will&nbsp;create a simple three page website using GitHub for your hosting and markdown as your coding methodology. I created a sample website at:&nbsp;<br /><a rel="noopener" href="https://iwakunibob.github.io/">https://iwakunibob.github.io/</a></p>
+<p>Please post in the Discussion this week and reply to two other student's posts.&nbsp;You will be converting a 32-bit IP address in binary form to the standard dot separated four octet format and pasting it in a browser to see where it goes as a fixed IP address.</p>
+<p>There is no Quiz this week so just finish up your Academic Integrity Tutorial with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.&nbsp;&nbsp;</p>
+<p>Interesting videos and websites to view:</p>
+<ul>
+<li><a rel="noopener" href="https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work" target="_blank">MDN </a><a rel="noopener" href="https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work" target="_blank">How does the Internet work?</a></li>
+<li><a rel="noopener" href="https://youtu.be/i5oe63pOhLI" target="_blank">How Does the Internet Work? [video]</a></li>
+<li><a rel="noopener" href="https://youtu.be/7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes [video]</a></li>
+<li><a rel="noopener" href="http://www.warriorsofthe.net/" target="_blank">www.warriorsofthe.net [video]</a></li>
+<li><a rel="noopener" href="https://youtu.be/hXorYP_HQtM" target="_blank">GitHub Hosting in 5 minutes | Free Static Web Hosting</a></li>
+<li><a rel="noopener" href="https://youtu.be/6A5EpqqDOdk" target="_blank">Markdown tutorial</a></li>
+<li><a rel="noopener" href="http://photofiltre.free.fr/utils/pf-setup-en-653.exe" target="_blank">http://photofiltre.free.fr/utils/pf-setup-en-653.exe</a>&nbsp; Windows Users<a rel="noopener" href="https://youtu.be/6A5EpqqDOdk" target="_blank"></a></li>
+<li><a rel="noopener" href="https://youtu.be/Nfi1MYkJFr4 " target="_blank">PhotoFiltre 6 Graphic with Text (Windows Users)</a></li>
+<li><a rel="noopener" href="https://youtu.be/bfGONt6Ec70" target="_blank">Apple Photos Tutorial - Basic Editing</a>&nbsp; Apple MacOS Users</li>
+<li><a rel="noopener" href="https://youtu.be/gFsRXfifcYg" target="_blank">How to protect your online privacy - noob to pro in 14 minutes</a></li>
+</ul>
+<p>If you have any questions about the class or assignments feel free to post in the&nbsp;</p>
+<p><em>LEO Discussion &gt; Ask your Professor</em></p>
 
 ### Content this week
 
