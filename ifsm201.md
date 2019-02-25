@@ -354,9 +354,75 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
 
+
+
+
+
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
 
+![hw]({{site.baseurl}}/assets/ifsm201/Wk4.png)This week you will be looking at the basic concepts or components used in the construction of database, read about different database structures, and investigate specific security issues related to use of databases.  In addition, the relationships between Customer Relationship Management (CRM), data warehouses, and data mining will be introduced. 
+
+### Content this week
+
+This week we will be discussing Databases in preparation for Assignment 3. I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files and read the first two documents prior to class and before taking Quiz 4.
+
+- [Databases - Knowledge Management - Business Intelligence]({{site.baseurl}}/assets/ifsm201/4-Databases-KnowledgeManagement-BusinessIntelligence.pdf)
+- [CRM, Data Warehouses and Data Mining/Analytics]({{site.baseurl}}/assets/ifsm201/4-CRM-DataWarehouses-DataMining-Analytics.pdf)
+- [Slide Set 6: Databases]({{site.baseurl}}/assets/ifsm201/4-Databases.pdf)
+- [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf)
+{: .pdf}
+
+MS Access is only available in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft has never ported the Access database application to MacOS. Therefore, if you would like to utilize MS Access to do Assignment 3 you will likely need to utilize the UMUC Computer Lab/Testing Center to utilize MS Access 2010. However, if you have Microsoft Access on your home computer and wish to try it there then go to the appropriate version of Access for tutorials.
+
+#### Tutorials for Microsoft Access 2016 by Kennesaw State University
+
+- [KSU Access 2016 Intro to Access]({{site.baseurl}}/assets/ifsm201/Access_2016_Intro_to_Access.pdf "Right click this link and open in new tab")
+- [KSU Access 2016 Reports and Queries]({{site.baseurl}}assets/ifsm201/Access_2016_Reports_and_Queries.pdf "Right click this link and open in new tab")
+{: .pdf}
+
+Work through the listed tutorials for the version of Microsoft Access you intend to use for this assignment [GCF LearnFree Microsoft Access Tutorials](https://edu.gcfglobal.org/en/topics/access/)
+
+|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
+|---|---|---
+| #1 Intro to DataBases  | #3 Intro to DataBases | #1 Intro to DataBases
+| #2 Intro to Objects   | #4 Intro to Objects | #2 Intro to Objects
+| #3 Getting Started   | #5 Getting Started | #3 Getting Started
+| #4 Managing Objects   | #6 Managing Objects | #4 Managing Objects
+| #5 Working with Tables   | #7 Working with Tables | #5 Working with Tables
+| #6 Working with Forms   | #8 Working with Forms  | #6 Working with Forms
+| #7 Sorting, Filtering   | #9 Sorting, Filtering  | #7 Sorting, Filtering
+| #8 Designing a Query  | #10 Designing a Simple Query  | #8 Designing a Simple Query
+| #9 More Query Options  | #11 Designing a Multi-Table Query  | #9 Designing a Multi-Table Query
+| #10 Creating Reports | #12 More Query Options | #10 More Query Options
+| #13 Creating Forms | #13 Creating Reports | #11 Creating Reports
+| #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
+|   | #18 Designing Your Own Database |  #16 Designing Your Own Database
+
+### Activities this week
+
+#### Week 4 Discussion - Your life is somewhere in a database
+
+- This week you need to create a post as a new thread and reply to two other students post. The topic : Should States Share Criminal Databases?
+{: .check}
+
+#### Academic Integrity Tutorial must be completed before Week 6
+
+- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on-  the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
+{: .check}
+
+#### Assignment 3: Relational Database
+
+- Work through [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf) and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
+{: .check}
+
+#### Quiz 4 must be completed before our next class
+
+- The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The fourth week you will be permitted to take the quiz twice.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
+{: .check} 
+
+If you have any questions about the class or assignments feel free to post in the 
+LEO Discussion > Ask your Professor. There are no required discussions this week. 
 ## Week 6: Ethics, Privacy,  and Security
 {: #Week6 .anchor}
 
