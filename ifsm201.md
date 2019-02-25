@@ -411,7 +411,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 6: Ethics, Privacy,  and Security
 {: #Week6 .anchor}
 
-![gg]({{site.baseurl}}/assets/ifsm201/Wk6.png)This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
+![.]({{site.baseurl}}/assets/ifsm201/Wk6.png)This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
 
 We will also discuss PowerPoint as a Presentation Graphics tool which you will need to utilize for Assignment 5.
 
@@ -480,7 +480,7 @@ Submit only **Asgn1-*YourName*.pptx** file and verify this by not hiding extensi
 
 The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
 
-- Quiz 5: Computer Hardware
+- Quiz 5: Computer Ethics, Privacy, and Security
 {: .check}
 
 If you have any questions about the class or assignments feel free to post in the 
@@ -489,10 +489,41 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 7: Future created by Technology
 {: #Week7 .anchor}
 
-![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
+<!-- ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
 
 ## Week 8: Research Presentations
 {: #Week8 .anchor}
+-->
 
-![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
+![.]({{site.baseurl}}/assets/ifsm201/Wk8.png)This is the last week of our class. You will be doing the talking doing presentations about your research topic.
+
+You need to upload your PowerPoint submission before 1:00pm the day you present in class. You must attend class to get allocated points for the actual presentation.
+
+All work must be completed by Friday this week. Anything completed after Friday will not be considered when determining your course grade.
+
+It was a pleasure to have you in the class this session and I wish you much success with your education and career development. One of the goals of my hybrid class was to make you more comfortable taking an online class on the LEO course management system with UMUC and hopefully this has been achieved.
+
+I would appreciate that you complete the course evaluation on LEO. Your comments will help when considering improvements to this hybrid course.
+
+UMUC has several different Computer Majors and Minors 
+
+Computer Science = CMSC (requires calculus)
+Information Systems Management = IFSM [video](https://youtu.be/juDx6Sz9jV0)
+Digital Media and Web Technology = CMST
+Computer Networks and Cybersecurity = CMIT
+Most UMUC majors will need to take:
+
+IFSM300 = Information Systems in Organizations (prereq IFSM201)
+Informations Systems Management and Computer Science courses:
+
+CMIS102 = Introduction to Problem Solving and Algorithm Design 
+CMIS141 = Introduction to Programming (prereq CMIS102)
+CMIS242 = Intermediate Programming (prereq CMIS141)
+CMIS320 = Relational Database Concepts (prereq CMIS102)
+Digital Media and Web Technology junior level courses that may appeal to Business, IFSM, or CMST majors:
+
+CMST290 =Introduction to Interactive Design
+CMST385 = Web Design and Technology 1 (prereq CMST290)
+CMST386 = Web Design and Technology 2 (prereq CMST385)
+
 
