@@ -361,19 +361,17 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
 
-
-
 ![hw]({{site.baseurl}}/assets/ifsm201/Wk5.png)This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document:  
 [Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf)
 
-<p>This week's assignment, will be the creation of a simple three page website using GitHub for your hosting and markdown as your coding methodology. 
+This week's assignment, will be the creation of a simple three page website using GitHub for your hosting and markdown as your coding methodology. 
 
-I created a sample website at:  
-
+I created a sample website at:
 <http://iwakunibob.github.io>
 
-<p>Please post in the Discussion this week and reply to two other student's posts.&nbsp;You will be converting a 32-bit IP address in binary form to the standard dot separated four octet format and pasting it in a browser to see where it goes as a fixed IP address.</p>
-<p>There is no Quiz this week so just finish up your Academic Integrity Tutorial with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.&nbsp;&nbsp;</p>
+Please post in the Discussion this week and reply to two other student's posts. You will be converting a 32-bit IP address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address.
+
+There is no Quiz this week so just finish up your Academic Integrity Tutorial with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.
 
 <p><strong>OVERVIEW AND OBJECTIVES</strong></p>
 <p>This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document <a rel="noopener" href="http://polaris.umuc.edu/~rlaurie/ifsm201/InformationSharing(networks).pdf" target="_blank">Information Sharing (networks)</a>&nbsp;that is posted in the content.</p>
