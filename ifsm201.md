@@ -433,7 +433,7 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://youtu.be/9vz06QO3UkQ) 105m
 - [How to Protect Your Computer From Viruses and Hackers](https://youtu.be/SbqC2k4vbXY) 12m
 - [How to protect your online privacy - From noob to pro](https://youtu.be/gFsRXfifcYg) 15m
-{: .vid}
+- [This is how Google is spying on everything you do](https://youtu.be/dTF8_DwDjW4) 10m
 
 #### Tutorials for PowerPoint 2016 by Kennesaw State University
 
