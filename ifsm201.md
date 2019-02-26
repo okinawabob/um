@@ -437,9 +437,9 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 
 | Windows  |  MacOS 
 | ---|---
-| [Quick Start Guide to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Quick_Start_Guide.pdf "Right click this link and open in new tab")
-| [Introduction to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Introduction_to_Word.pdf "Right click this link and open in new tab") | [Introduction to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Introduction_to_Word.pdf "Right click this link and open in new tab")
-| [Formatting in Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Formatting_Your_Document.pdf "Right click this link and open in new tab") | [Formatting in Word](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_Mac_Formatting_Your_Document.pdf "Right click this link and open in new tab")
+| [Quick Start Guide to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_Mac_Quick_Start_Guide.pdf "Right click this link and open in new tab")
+| [Introduction to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_PC_%20Introduction_to_PowerPoint.pdf "Right click this link and open in new tab") | [Introduction to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_Mac_%20Introduction_to_PowerPoint.pdf "Right click this link and open in new tab")
+| [Transitions & Animations](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_PC_Transitions_Animations_Timing_Booklet.pdf "Right click this link and open in new tab") | [Transitions & Animations](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_Mac_Transitions_Animations_Timing_Booklet.pdf "Right click this link and open in new tab")
 
 This week you will apply PowerPoint skills to Assignment 5 - Research Presentation. Choose the link for the version of PowerPoint you are using. The sites are a product of the Goodwill Community Foundation (GCF) LearnFree.org.
 
@@ -468,12 +468,12 @@ This week you will apply PowerPoint skills to Assignment 5 - Research Presentati
 
 #### Assignment 5: Research Presentation
 
-Work through Assignment 1 - Word Processing as described in the attached file:  
+Work through Assignment 5 - Reserach Presentation as described in the attached file:  
 
-- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+- [Asgn5-Presentation.pdf]({{site.baseurl}}/assets/ifsm201/Asgn5-Presentation.pdf "Right click this link and open in new tab")
 {: .check}
 
-Submit only **Asgn1-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class. 
+Submit only **Asgn5-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class. 
 
 
 #### Quiz 5 must be completed before our next class
