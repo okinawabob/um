@@ -419,7 +419,7 @@ We will also discuss PowerPoint as a Presentation Graphics tool which you will n
 
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
 
-- [Slide Set 7: Ethics, Privacy, Security]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
+- [Slide Set 7: Ethics, Privacy, Security]({{site.baseurl}}/assets/ifsm201/SlideSet-7-Ethics-Privacy-Security.pdf "Right click this link and open in new tab")
 - [READ Ethics]({{site.baseurl}}/assets/ifsm201/READ-6-Ethics.pdf "Right click this link and open in new tab")
 - [READ Privacy]({{site.baseurl}}/assets/ifsm201/READ-6-Privacy.pdf "Right click this link and open in new tab")
 - [READ Security]({{site.baseurl}}/assets/ifsm201/READ-6-Security.pdf "Right click this link and open in new tab")
