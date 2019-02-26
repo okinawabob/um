@@ -427,10 +427,11 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 
 #### Videos about Computer Ethics, Privacy, and Security:
 
-- [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
-- [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
-- [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m
-- [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
+- [Legal Rights & Ethical Responsibilities](https://https://youtu.be/9Zg4-hb4WYo) 7m
+- [Illegally Downloaded Music](https://youtu.be/Af0wXeN6_FY) 3m
+- [Pirated Software Sting](https://youtu.be/emBrPAwutvA) 3m
+- [The Internet's Own Boy: The Story of Aaron Swartz](https://youtu.be/9vz06QO3UkQ) 105m
+- [How to protect your online privacy - From noob to pro](https://youtu.be/gFsRXfifcYg) 15m
 {: .vid}
 
 #### Tutorials for PowerPoint 2016 by Kennesaw State University
