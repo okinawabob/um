@@ -431,6 +431,7 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 - [Illegally Downloaded Music](https://youtu.be/Af0wXeN6_FY) 3m
 - [Pirated Software Sting](https://youtu.be/emBrPAwutvA) 3m
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://youtu.be/9vz06QO3UkQ) 105m
+- [How to Protect Your Computer From Viruses and Hackers](https://youtu.be/SbqC2k4vbXY) 12m
 - [How to protect your online privacy - From noob to pro](https://youtu.be/gFsRXfifcYg) 15m
 {: .vid}
 
