@@ -9,7 +9,7 @@ permalink: "/math103/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-![Me]({{site.baseurl}}/assets/MyMug150_2014.gif)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
+![.]({{site.baseurl}}/assets/Wk0.png)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
 
 <script>AntiSpam("moc", "htam+82.1lmr", "liamg", "MATH103", "")</script>
 
