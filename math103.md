@@ -407,7 +407,7 @@ Statistics will be the topic this week after Test 3.  The Statistics content is 
 
 Please download and print the following before class:
 
-- Print eBook Chapter 8 if desired. You need to view Chapter 8 content in class so you could view on paper, a notebook computer, iPad, or Kindle tablet device in class. 
+- [Math for Today’s World - Chapter 8]({{site.baseurl}}/assets/math103/Book-Chap8.pdf) You need to view Chapter 8 content in class so you could view on paper, a notebook computer, iPad, or Kindle tablet device in class. I added bookmarks to aid in navigation for sections, exercises and answers.
 - [Slide Set 12: Chapter 8]({{site.baseurl}}/assets/math103/8_Statistics.pdf "Right click this link and open in new tab") I added bookmarks to aid in navigation for sections, exercises and answers.
 - [Formula Sheet]({{site.baseurl}}/assets/math103/Math103FormulaSheetP1.pdf "Right click this link and open in new tab") is same as last week
 - [z-Score Tables]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab")
