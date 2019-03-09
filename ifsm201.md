@@ -105,14 +105,14 @@ LEO Discussion > Ask your Professor.
 
 ![.]({{site.baseurl}}/assets/ifsm201/Wk2.png)This week you will look at hardware components, integrated and peripheral, and their function in the computer system. Assignment 1 will be shopping for a new computer analyzing hardware specifications and the creation of a word processing *.docx document to include a table comparing components for three different systems. Quiz 2 will cover the content from this week. 
 
-Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit *.docx documents throughout the course which are the standard Microsoft Word 2007-16 file format.
+Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit *.docx documents throughout the course which are the standard Microsoft Word 2007-19 file format.
 
 ### Content this week
 
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
 
-- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifsm201/1-Data-Hardware.pdf "Right click this link and open in new tab")
-- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifsm201/2-WordProcessing.pdf "Right click this link and open in new tab")
+- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Data-Hardware.pdf "Right click this link and open in new tab")
+- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-2-WordProcessing.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
@@ -167,7 +167,7 @@ Please work through the tutorials at GCF LearnFree.org if you intend to use Micr
 
 Work through Assignment 1 - Word Processing as described in the attached file:  
 
-- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Assignment1-WordProcessing.pdf "Right click this link and open in new tab")
+- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Asgn1-WordProcessing.pdf "Right click this link and open in new tab")
 {: .check}
 
 Submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
