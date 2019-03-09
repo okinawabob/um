@@ -55,7 +55,7 @@ Information is data that has meaning; it tells a story. So how do you go from ju
 
 Begin this week with the reading about the power of data and information. The Week 1 Quiz will contain questions based on these two readings. Prior to class, please print and read both PDF files listed below:
 
-- [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/ifsm201/READ-1-DataInformation.pdf "Right click this link and open in new tab")
+- [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/ifsm201/READ-1-NumberSystemsCodes.pdf "Right click this link and open in new tab")
 - [READ Data and Information Handout]({{site.baseurl}}/assets/ifsm201/READ-1-DataInformation.pdf "Right click this link and open in new tab")
 {: .pdf}
 
