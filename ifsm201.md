@@ -73,7 +73,7 @@ Watch the following videos to enhance your learning of data representations:
 
 ### Activities this week
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Discussions*** are a kind of collective online discussion that is visable to all students. The discussion activites this week will provide you with an understanding of digital data, which is fundamental to understanding How computers work.
+The ***<abbr title="Learning Experience Online">LEO</abbr> Discussions*** are a kind of collective online discussion that is visible to all students. The discussion activates this week will provide you with an understanding of digital data, which is fundamental to understanding How computers work.
 
 #### 5 Discussion topics must be completed before our next class
 
