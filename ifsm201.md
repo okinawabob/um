@@ -109,11 +109,7 @@ Additionally, we will also discuss our first software application which is Word 
 
 ### Content this week
 
-I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
-
-- [Slide Set 1: Inside the Computer and Peripherals]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Data-Hardware.pdf "Right click this link and open in new tab")
-- [Slide Set 2: Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-2-WordProcessing.pdf "Right click this link and open in new tab")
-{: .pdf}
+I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the PDF file [Slide Set 1: Hardware and Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Hardware-Word.pdf "Right click this link and open in new tab") prior to class so you can take notes on them.
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the entire
 [Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps 1 through 23 available at <https://www.gcflearnfree.org/computerbasics/>. 
@@ -197,11 +193,9 @@ A computer can run only one type of Operating System at a time and the two most 
 {: .link}
 
 ### Content this week
-I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files prior to class so you can take notes on them:
 
-- [Slide Set 3: Software]({{site.baseurl}}/assets/ifsm201/3-Software.pdf "Right click this link and open in new tab")
-- [Slide Set 4: Spreadsheets]({{site.baseurl}}/assets/ifsm201/4-Spreadsheets.pdf "Right click this link and open in new tab")
-{: .pdf}
+I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class [Slide Set 2: Software and Spreadsheets]({{site.baseurl}}/assets/ifsm201/SlideSet-2-Software-Spreadsheet.pdf "Right click this link and open in new tab") so you can take notes on them.
+
 
 #### Links to interesting websites:
 
@@ -293,9 +287,9 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 This week we will be discussing Databases in preparation for Assignment 3. I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files and read the first two documents prior to class and before taking Quiz 4.
 
+- [Slide Set 3: Databases]({{site.baseurl}}/assets/ifsm201/SlideSet-3-Databases.pdf)
 - [Databases - Knowledge Management - Business Intelligence]({{site.baseurl}}/assets/ifsm201/4-Databases-KnowledgeManagement-BusinessIntelligence.pdf)
 - [CRM, Data Warehouses and Data Mining/Analytics]({{site.baseurl}}/assets/ifsm201/4-CRM-DataWarehouses-DataMining-Analytics.pdf)
-- [Slide Set 6: Databases]({{site.baseurl}}/assets/ifsm201/4-Databases.pdf)
 - [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf)
 {: .pdf}
 
