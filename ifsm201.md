@@ -124,7 +124,7 @@ Throughout this course, we will be using free tutorials and educational resource
 [18](https://edu.gcfglobal.org/en/computerbasics/creating-a-safe-workspace/1/)
 [19](https://edu.gcfglobal.org/en/computerbasics/basic-troubleshooting-techniques/1/)
 [20](https://edu.gcfglobal.org/en/computerbasics/how-to-use-your-computers-builtin-help/1/)
-[22](https://edu.gcfglobal.org/en/computerbasics/bringing-your-files-with-you/1/) available at <https://www.gcflearnfree.org/computerbasics/>. 
+[22](https://edu.gcfglobal.org/en/computerbasics/bringing-your-files-with-you/1/) available at <https://edu.gcfglobal.org/en/computerbasics/>. 
 
 If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutorial](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
 
@@ -132,7 +132,7 @@ GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/bu
 [1](https://edu.gcfglobal.org/en/buying-computers/computer-buying-guide/1/)
 [2](https://edu.gcfglobal.org/en/buying-computers/choosing-between-a-laptop-and-a-tablet/1/)
 [3](https://edu.gcfglobal.org/en/buying-computers/what-is-a-chromebook/1/)
-[4](https://edu.gcfglobal.org/en/buying-computers/how-to-decide-when-to-get-a-new-computer/1/) available atavailable at <https://edu.gcfglobal.org/en/buying-computers/> and is the Assignment 1 activity.
+[4](https://edu.gcfglobal.org/en/buying-computers/how-to-decide-when-to-get-a-new-computer/1/) available atavailable at <https://edu.gcfglobal.org/en/buying-computers/> and is the activity for Assignment&nbsp;1.
 
 #### Videos about Computer Hardware:
 
