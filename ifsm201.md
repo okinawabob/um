@@ -92,7 +92,7 @@ For each discussion topic you will need to make a post and reply to two other st
 
 #### Quiz 1 must be completed before our next class
 
-- **Quiz 1 Data and Information** found at***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain multiple choice questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+- **Quiz 1 Data, Information, Knowledge** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
 {: .check}
 
 If you have any questions about the class or assignments feel free to post in the 
@@ -132,7 +132,7 @@ GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/bu
 [1](https://edu.gcfglobal.org/en/buying-computers/computer-buying-guide/1/)
 [2](https://edu.gcfglobal.org/en/buying-computers/choosing-between-a-laptop-and-a-tablet/1/)
 [3](https://edu.gcfglobal.org/en/buying-computers/what-is-a-chromebook/1/)
-[4](https://edu.gcfglobal.org/en/buying-computers/how-to-decide-when-to-get-a-new-computer/1/) available atavailable at <https://edu.gcfglobal.org/en/buying-computers/> and is the activity for Assignment&nbsp;1.
+[4](https://edu.gcfglobal.org/en/buying-computers/how-to-decide-when-to-get-a-new-computer/1/) available at <https://edu.gcfglobal.org/en/buying-computers/> and is the activity for Assignment&nbsp;1.
 
 #### Videos about Computer Hardware:
 
@@ -142,7 +142,7 @@ GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/bu
 - [HDD vs SSD - What is the difference?](https://youtu.be/PKRB6umzeAg) 5m
 {: .vid}
 
-#### Videos about ALU (Arithmetic Logic Unit) binary operations:
+#### Videos about ALU (Arithmetic Logic Unit) binary operations (Optional):
 
 - [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
 - [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
@@ -187,9 +187,7 @@ Submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensi
 
 #### Quiz 2 must be completed before our next class
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
-
-- Quiz 2: Computer Hardware
+- **Quiz 2 Quiz 2 Computer Hardware and Word Processing** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for the quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
 {: .check}
 
 If you have any questions about the class or assignments feel free to post in the 
