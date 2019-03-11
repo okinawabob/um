@@ -187,7 +187,7 @@ Submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensi
 
 #### Quiz 2 must be completed before our next class
 
-- **Quiz 2 Quiz 2 Computer Hardware and Word Processing** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for the quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+- **Quiz 2 Computer Hardware and Word Processing** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for the quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
 {: .check}
 
 If you have any questions about the class or assignments feel free to post in the 
