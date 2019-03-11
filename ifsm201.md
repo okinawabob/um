@@ -128,7 +128,7 @@ Throughout this course, we will be using free tutorials and educational resource
 
 If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutorial](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
 
-GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial
+GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial 
 [1](https://edu.gcfglobal.org/en/buying-computers/computer-buying-guide/1/)
 [2](https://edu.gcfglobal.org/en/buying-computers/choosing-between-a-laptop-and-a-tablet/1/)
 [3](https://edu.gcfglobal.org/en/buying-computers/what-is-a-chromebook/1/)
