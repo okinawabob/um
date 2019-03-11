@@ -109,8 +109,7 @@ Additionally, we will also discuss our first software application which is Word 
 
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the PDF file [Slide Set 1: Hardware and Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Hardware-Word.pdf "Right click this link and open in new tab") prior to class so you can take notes on them.
 
-Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the 
-[Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps
+Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the [Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps
 [1](https://edu.gcfglobal.org/en/computerbasics/about-this-tutorial/1/)
 [2](https://edu.gcfglobal.org/en/computerbasics/what-is-a-computer/1/)
 [3](https://edu.gcfglobal.org/en/computerbasics/basic-parts-of-a-computer/1/)
@@ -125,13 +124,15 @@ Throughout this course, we will be using free tutorials and educational resource
 [18](https://edu.gcfglobal.org/en/computerbasics/creating-a-safe-workspace/1/)
 [19](https://edu.gcfglobal.org/en/computerbasics/basic-troubleshooting-techniques/1/)
 [20](https://edu.gcfglobal.org/en/computerbasics/how-to-use-your-computers-builtin-help/1/)
-[22](https://edu.gcfglobal.org/en/computerbasics/bringing-your-files-with-you/1/)
-
- available at <https://www.gcflearnfree.org/computerbasics/>. 
+[22](https://edu.gcfglobal.org/en/computerbasics/bringing-your-files-with-you/1/) available at <https://www.gcflearnfree.org/computerbasics/>. 
 
 If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutorial](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
 
-GCF LearnFree also has a [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial available at <https://edu.gcfglobal.org/en/buying-computers/> and is the Assignment 1 activity.
+GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/buying-computers/) tutorial
+[1](https://edu.gcfglobal.org/en/buying-computers/computer-buying-guide/1/)
+[2](https://edu.gcfglobal.org/en/buying-computers/choosing-between-a-laptop-and-a-tablet/1/)
+[3](https://edu.gcfglobal.org/en/buying-computers/what-is-a-chromebook/1/)
+[4](https://edu.gcfglobal.org/en/buying-computers/how-to-decide-when-to-get-a-new-computer/1/) available atavailable at <https://edu.gcfglobal.org/en/buying-computers/> and is the Assignment 1 activity.
 
 #### Videos about Computer Hardware:
 
