@@ -92,9 +92,7 @@ For each discussion topic you will need to make a post and reply to two other st
 
 #### Quiz 1 must be completed before our next class
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
-
-- Quiz 1 Data and Information 
+- **Quiz 1 Data and Information** found at***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
 {: .check}
 
 If you have any questions about the class or assignments feel free to post in the 
