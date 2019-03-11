@@ -205,35 +205,35 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin: 1em 0 0.4em 0;
-  font-size: 1.6em;
+  font-size: 1.5rem;
   text-shadow: 1px 1px #CCCCCC;
 }
 h2 {
-  margin:1.2em 0 0.2em 0;
+  margin:1.2em 0 0.2rem 0;
   font-size: 1.4em;
   text-shadow: 1px 1px #CCCCCC;
 }
 
 h3 {
   margin: 1.1em 0 0 0;
-  font-size: 1.2em;
+  font-size: 1.2rem;
 }
 
 h4 {
   margin: 1em 0 4px 0;
-  font-size: 1.1em;
+  font-size: 1.1rem;
   font-style: italic;
 }
 
 h5 {
   margin: 6px 0 3px 0;
-  font-size: 1em;
+  font-size: 1rem;
   font-style: italic;
 }
 
 h6 {
   margin: 4px 0 2px 0;
-  font-size: 0.9em;
+  font-size: 0.9rem;
 }
 
 ol, ul {
