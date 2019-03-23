@@ -203,7 +203,7 @@ A computer can run only one type of Operating System at a time and the two most 
 - [Windows on GCF LearnFree.org](https://edu.gcfglobal.org/en/topics/windows/)
 - [MacOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/macosbasics/)
 - [Android on GCF LearnFree.org](https://edu.gcfglobal.org/en/androidbasics/)
--[iOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/iphonebasics/)
+- [iOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/iphonebasics/)
 {: .link}
 
 ### Content this week
@@ -218,6 +218,7 @@ I will utilize PowerPoint slides for lecture and discussion. Please print the PD
 - [distrowatch.com](http://distrowatch.com/)
 - [inuxsurvival.com](http://linuxsurvival.com/)
 - [Free Linux course on edX](https://www.edx.org/course/introduction-to-linux)
+- [Virtual Box - Free virtual machine](https://www.virtualbox.org/)
 {: .link}
 
 #### Videos about computer software:
@@ -282,6 +283,11 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 
 - Quiz 3: Computer Software
 {: .check} 
+
+#### Quiz 3 must be completed before our next class
+
+- **Quiz 3 Software and Spreadsheets** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes for the quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+{: .check}
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
