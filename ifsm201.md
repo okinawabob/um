@@ -200,7 +200,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 ![.]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the *Operating System* software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
 
-### Content this week
+### Content this week 
 
 I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class: 
 - [Slide Set 2: Software and Spreadsheets]({{site.baseurl}}/assets/ifsm201/SlideSet-2-Software-Spreadsheet.pdf "Right click this link and open in new tab")
