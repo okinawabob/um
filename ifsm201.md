@@ -335,7 +335,7 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 | #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
 |   | #18 Designing Your Own Database |  #16 Designing Your Own Database
 
-### Activities this week
+### Activities this week 
 
 #### Week 4 Discussion - Your life is somewhere in a database
 
