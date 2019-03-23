@@ -107,7 +107,9 @@ Additionally, we will also discuss our first software application which is Word 
 
 ### Content this week
 
-I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the PDF file [Slide Set 1: Hardware and Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Hardware-Word.pdf "Right click this link and open in new tab") prior to class so you can take notes on them.
+I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the PDF file prior to class: 
+- [Slide Set 1: Hardware and Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Hardware-Word.pdf "Right click this link and open in new tab") 
+{: .pdf}
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the [Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps
 [1](https://edu.gcfglobal.org/en/computerbasics/about-this-tutorial/1/)
@@ -200,7 +202,9 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 ### Content this week
 
-I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class [Slide Set 2: Software and Spreadsheets]({{site.baseurl}}/assets/ifsm201/SlideSet-2-Software-Spreadsheet.pdf "Right click this link and open in new tab") so you can take notes on them.
+I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class: 
+- [Slide Set 2: Software and Spreadsheets]({{site.baseurl}}/assets/ifsm201/SlideSet-2-Software-Spreadsheet.pdf "Right click this link and open in new tab")
+{: .pdf}
 
 A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz. 
 
