@@ -105,7 +105,7 @@ LEO Discussion > Ask your Professor.
 
 Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit *.docx documents throughout the course which are the standard Microsoft Word 2007-19 file format.
 
-### Content this week
+### Content this week 
 
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the PDF file prior to class: 
 - [Slide Set 1: Hardware and Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Hardware-Word.pdf "Right click this link and open in new tab") 
