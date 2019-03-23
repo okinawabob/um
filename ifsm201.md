@@ -200,6 +200,8 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 ### Content this week
 
+I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class [Slide Set 2: Software and Spreadsheets]({{site.baseurl}}/assets/ifsm201/SlideSet-2-Software-Spreadsheet.pdf "Right click this link and open in new tab") so you can take notes on them.
+
 A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz. 
 
 - [Windows on GCF LearnFree.org](https://edu.gcfglobal.org/en/topics/windows/)
@@ -207,9 +209,6 @@ A computer can run only one type of Operating System at a time and the two most 
 - [Android on GCF LearnFree.org](https://edu.gcfglobal.org/en/androidbasics/)
 - [iOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/iphonebasics/)
 {: .link}
-
-I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class [Slide Set 2: Software and Spreadsheets]({{site.baseurl}}/assets/ifsm201/SlideSet-2-Software-Spreadsheet.pdf "Right click this link and open in new tab") so you can take notes on them.
-
 
 #### Links to interesting websites:
 
