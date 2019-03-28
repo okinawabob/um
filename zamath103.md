@@ -3,7 +3,7 @@ layout: umuc
 title: "MATH103"
 subtitle: "College Mathematics"
 image: "/assets/UMUC-Asia-600x69.png"
-permalink: "/math103/"
+permalink: "/zdmath103/"
 ---
 
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
