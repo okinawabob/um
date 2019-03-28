@@ -3,7 +3,7 @@ layout: umuc
 title: "IFSM300"
 subtitle: "Info Systems in Organizations"
 image: "/assets/UMUC-Asia-600x69.png"
-permalink: "/ifsm300/"
+permalink: "/zifsm300/"
 ---
 
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
