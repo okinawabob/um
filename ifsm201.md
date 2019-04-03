@@ -346,27 +346,28 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 - This week you need to create a post as a new thread and reply to two other students post. The topic : Should States Share Criminal Databases?
 {: .check}
 
-#### Academic Integrity Tutorial must be completed before Week 6
-
-- Continue working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on-  the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to convert  the certificate into a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
-{: .check}
-
 #### Assignment 3: Relational Database
 
 - Work through [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf) and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
 {: .check}
+
+#### [SQL coding for a Simple Database - khanacademy.org](https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql)
+
+This interactive tutorial will introduce you to the basic structure of a database and the first set of SQL commands that are used to create and manipulate a database. You will not have to download any software - the tutorial and activities are completed totally online. You may work through the tutorial as many times as you wish. This content is on Quiz 4 Databases so you will need to do the tutorial before taking the quiz. You are encouraged to take notes or even print some of the screens that display the various SQL commands, how they are used, and the result of executing those commands. This will be your first experience with writing computer code and if you like it then I encourage you to enroll in CMIS102 or CMST385.  
+<https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql>
 
 #### Quiz 4 must be completed before our next class
 
 - The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The fourth week you will be permitted to take the quiz twice.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
 {: .check} 
 
+#### Academic Integrity Tutorial must be completed before Week 6
+
+- Continue working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on-  the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to convert  the certificate into a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
+{: .check}
+
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
-
-
-
-
 
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
