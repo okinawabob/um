@@ -9,11 +9,11 @@ permalink: "/ifsm300/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-![Me]({{site.baseurl}}/assets/MyMug150_2014.gif)This is a hybrid class and we will meet for one class per week and you will need to work through the course material online each week and do the weekly quiz covering the online content. Most of the content provided covers computing from a business perspective to support the *strategic objectives* of the business. The goal of using information systems is to enable strategic outcomes to achieve competitive advantage.  
+![Me]({{site.baseurl}}/assets/Wk0.png)This is a hybrid class and we will meet for one class per week and you will need to work through the course material online each week and do the weekly quiz covering the online content. Most of the content provided covers computing from a business perspective to support the *strategic objectives* of the business. The goal of using information systems is to enable strategic outcomes to achieve competitive advantage.  
 
 If you have a question you can ask in class or email me at:  
 
-<script>AntiSpam("moc", "003msfi+82.1lmr", "liamg", "CMST385", "")</script>
+<script>AntiSpam("moc", "003msfi+82.1lmr", "liamg", "IFSM300", "")</script>
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the URL  
 [http://islandman.org/um/ifsm300/](http://islandman.org/um/ifsm300/). 
@@ -34,21 +34,31 @@ Robert Laurie
 
 This week, you will learn how businesses develop their strategies for achieving competitive advantage and how information systems can be used for competitive advantage.  In the Week 1 Learning Resources below, there are a number of resources provided to help you understand this week's concepts and to prepare you to complete the first assignment, which will be due next week.  After reading the Business Perspective Course Module and Chapters 1 and 7 in the e-textbook, you will then read about business strategy and strategic planning. 
 
-Readings for this week:
+### Readings for this week:
 
-- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 1 What is an Information System?
-- eBook Chapter 7 Does IT matter?
-- [The Organizational Model]({{site.baseurl}}/assets/ifsm300/1-1-Organization-Model.pdf)
-- [The Competitive Forces Model]({{site.baseurl}}/assets/ifsm300/1-2-Competitive-Forces-Model.pdf)
-- [Financial Performance Analysis]({{site.baseurl}}/assets/ifsm300/1-3-Financial-Performance-Analysis.pdf)
-- [The Value Chain Concept]({{site.baseurl}}/assets/ifsm300/1-4-Value-Chain-Concept.pdf)
-- [The Strategic Planning Process QMBA]({{site.baseurl}}/assets/ifsm300/1-5-Strategic-Planning-Process-QMBA.pdf)
-- [Heiarchical Levels of Strategy QMBA]({{site.baseurl}}/assets/ifsm300/1-6-Hierarchical-Levels-of-Strategy-QMBA.pdf)
+- [Introduction to Information Systems in Organizations]({{site.baseurl}}/assets/ifsm300/1-1-IntroductionInformationSystemsOrganizations.pdf)
+- [eBook Complete:]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) This week read Chapter 1 and 7 from eBook
+- [eBook Chapter 1 What is an Information System?]({{site.baseurl}}/assets/ifsm300/1-2-Ch1-WhatIsAnInformationSystem.pdf)
+- [Business Strategy]({{site.baseurl}}/assets/ifsm300/1-3-BusinessStrategy.pdf)
+- [eBook Chapter 7 Does IT Matter]({{site.baseurl}}/assets/ifsm300/1-4-Ch7-DoesIT-Matter.pdf)
+- [How Organizations use Information Systems Strategically]({{site.baseurl}}/assets/ifsm300/1-5-HowOrganizationsUseInformationSystemsStrategically.pdf)
+- [Globalization and the Digital Divide]({{site.baseurl}}/assets/ifsm300/1-6-Ch11-GlobalizationDigitalDivide.pdf)
+{: .read}
+
+#### Optional Former Term Readings for this week:
+
+- [The Organizational Model]({{site.baseurl}}/assets/ifsm300/old/1-1-Organization-Model.pdf)
+- [The Competitive Forces Model]({{site.baseurl}}/assets/ifsm300/old/1-2-Competitive-Forces-Model.pdf)
+- [Financial Performance Analysis]({{site.baseurl}}/assets/ifsm300/old/1-3-Financial-Performance-Analysis.pdf)
+- [The Value Chain Concept]({{site.baseurl}}/assets/ifsm300/old/1-4-Value-Chain-Concept.pdf)
+- [The Strategic Planning Process QMBA]({{site.baseurl}}/assets/ifsm300/old/1-5-Strategic-Planning-Process-QMBA.pdf)
+- [Heiarchical Levels of Strategy QMBA]({{site.baseurl}}/assets/ifsm300/old/1-6-Hierarchical-Levels-of-Strategy-QMBA.pdf)
+- [Productivity Paradox from 1991](http://ccs.mit.edu/papers/CCSWP130/ccswp130.html)
 {: .read}
 
 Please download and print the following before class if you wish to take notes:
 
-- [PowerPoint Slide Show 1 - Chapters 1 and 7]({{site.baseurl}}/assets/ifsm300/chap1-7-intro-300.pdf "Right click this link and open in new tab") 
+- [PowerPoint Slide Show 1 - Chapters 1 and 7]({{site.baseurl}}/assets/ifsm300/PowerPoint-Week1-Ch1-7.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
 ### Assignment 1 
@@ -83,8 +93,11 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 
 ### Watch YouTube Videos
 
-1. [Walmart IT Supply Chain](https://youtu.be/SUe-tSabKag "Right click this link and open in new tab") 5m
-1. [Robots making Amazon even faster](https://youtu.be/UtBa9yVZBJM "Right click this link and open in new tab") 3m
+1. [How Kmart Went From Beating Walmart And Target To Bankruptcy](https://youtu.be/V5YBsoZZr8U) 7m
+1. [How Target Is Challenging Amazon](https://youtu.be/g8JbzLWSRog) 7m
+1. [Walmart’s RetailLink](https://youtu.be/SUe-tSabKag) 7m
+1. [Amazon’s Warehouse IT](https://youtu.be/UtBa9yVZBJM) 3m
+1. [Why Is Costco Opening Its Own Chicken Farm?](https://youtu.be/MSvCK_xH84s) 9m
 1. [Brynjolfsson: Productivity paradox](https://youtu.be/6Y9uMW1ZNvI) 4m
 1. [Does IT Matter?](https://youtu.be/hj_mzU3N70g) 17m
 1. [Porter on Competitiveness](https://youtu.be/Ul_kXIFdwQE) 3m
