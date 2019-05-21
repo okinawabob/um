@@ -113,23 +113,38 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 ## Week 2: IT Infrastructure
 {: #Week2 .anchor}
 
-This week, you will learn how the components of the technical infrastructure are combined to provide IT solutions that meet business objectives. You will learn the key terms associated with the technical infrastructure, and why total cost of ownership is an important consideration. To begin, you will read Chapters 2, 3, and 5 of the e-textbook, and complete the Solution Building module.  Then you will learn what business processes are and how they are analyzed and improved using process analysis, modeling and reengineering.
+What does a business know about how it operates? How can a company leverage information technology to improve its operations?
+
+In the previous week, we have discussed how information systems can help a business achieve a competitive advantage. This week,  you will learn what business processes are and how they are analyzed and improved using process analysis and reengineering. Then you will see how IT, when combined with business processes, can improve an organization’s competitive advantage. The hardware, software, and networking components of the technical infrastructure are combined to provide IT solutions that meet business objectives.
+
+This week you will complete the following:
+
+Read about Business Processes Chapter 8
+
+Read about the IT Infrastructure Chapters 2, 3, and 5
+
+Complete Quiz 2
+
+Complete Week 2 Discussion and reply post to two students
+
+Complete Excel Tutorials
+
+Complete Assignment 1
 
 Readings for this week:
 
-- [Enterprise Architecture]({{site.baseurl}}/assets/ifsm300/wk2/2-4-Enterprise Architecture.pdf)
-- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 2 Information System Hardware
-- eBook Chapter 3 Information System Software
-- [Composition of IT Infrastructure]({{site.baseurl}}/assets/ifsm300/wk2/2-5-Composition of the IT Infrastructure .pdf)
-- [Total Cost of Ownership]({{site.baseurl}}/assets/ifsm300/wk2/2-6-total cost of ownership (TCO).pdf)
-- eBook Chapter 5 Networking and Communication
-- [Optimizing Business Processes]({{site.baseurl}}/assets/ifsm300/wk2/2-7-Optimizing Business Processes.pdf)
-- eBook Chapter 8 Business Processes
+- [eBook Chapter 8 Business Processes]({{site.baseurl}}/assets/ifsm300/2-1-Ch8-BusinessProcesses.pdf)
+- [Optimizing Business Processes]({{site.baseurl}}/assets/ifsm300/2-2-OptimizingBusinessProcesses.pdf)
+- [Business Processes Modeling]({{site.baseurl}}/assets/ifsm300/2-3-BusinessProcessModeling.pdf)
+- [Enterprise Architecture and IT Infrastructure]({{site.baseurl}}/assets/ifsm300/2-4-EnterpriseArchitecture-InformationTechnologyArchitecture.pdf)
+- [eBook Chapter 2 Hardware]({{site.baseurl}}/assets/ifsm300/2-5-Ch2-Hardware.pdf)
+- [eBook Chapter 3 Software]({{site.baseurl}}/assets/ifsm300/2-6-Ch3-Software.pdf)
+- [eBook Chapter 5 Networking]({{site.baseurl}}/assets/ifsm300/2-7-Ch5-Networking.pdf)
 {: .read}
 
 Please download and print the following before class if you wish to take notes:
 
-- [PowerPoint Slide Show 2 - Chapters 2, 3, 5, and 8]({{site.baseurl}}/assets/ifsm300/wk2/chap2-3-5-8-300.pdf "Right click this link and open in new tab") 
+- [PowerPoint Slide Show 2 - Chapters 2, 3, 5, and 8]({{site.baseurl}}/assets/ifsm300/PowerPoint-Ch2-3-5-8.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
 ### Assignment 1
