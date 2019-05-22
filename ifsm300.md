@@ -175,6 +175,15 @@ __Week 2:__ Please review the Additional Excel tutorials posted so that you will
 
 __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot charts, so just examine the tutorials on this topic. Assignment 1 does not require pivot charts, but if you are Windows user then you may experiment with the concept.
 
+#### Tutorials for Microsoft Excel 2016 by Kennesaw State University
+
+| Windows  |  MacOS 
+| ---|---
+| [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_MAC_Quick_Start_Guide.pdf "Right click this link and open in new tab")
+| [Introduction to Excel]({https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
+| [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
+| [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
+
 #### Week 2 Checklist
 
 - Complete **Week 2 Discussion**  on LEO (reply post to two other student posts)
