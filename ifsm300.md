@@ -107,7 +107,7 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 |   | #16 Functions  | #16 Functions
 |   | #22 Charts | #23 Charts
 
-Week 1 Checklist
+#### Week 1 Checklist
 
 - Complete **Introductions Discussion** on LEO (reply post to two other student posts)
 - Complete **Week 1 Discussion**  on LEO (reply post to two other student posts)
@@ -175,14 +175,12 @@ __Week 2:__ Please review the Additional Excel tutorials posted so that you will
 
 __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot charts, so just examine the tutorials on this topic. Assignment 1 does not require pivot charts, but if you are Windows user then you may experiment with the concept.
 
-#### Complete Week 2 Discussion on LEO
+#### Week 2 Checklist
 
-Reply post to two other student posts
-
-#### Complete Quiz 2 on LEO
-
-#### Complete Assignment 1 and submit Excel file on LEO
-
+- Complete **Week 2 Discussion**  on LEO (reply post to two other student posts)
+- Complete Quiz 2 on LEO
+- Complete Assignment 1 all steps and submit Excel file on LEO
+{: .check}
 
 ## Week 3: Databases
 {: #Week3 .anchor}
