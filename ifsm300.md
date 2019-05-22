@@ -144,7 +144,7 @@ Readings for this week:
 
 Please download and print the following before class if you wish to take notes:
 
-- [PowerPoint Slide Show 2 - Chapters 2, 3, 5, and 8]({{site.baseurl}}/assets/ifsm300/PowerPoint-Ch2-3-5-8.pdf "Right click this link and open in new tab") 
+- [PowerPoint Slide Show 2 - Chapters 8, 2, 3, and 5]({{site.baseurl}}/assets/ifsm300/PowerPoint-Ch8-2-3-5.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
 ### Assignment 1
@@ -175,11 +175,13 @@ __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot ch
 
 ### Watch YouTube Videos
 
-1. [Business Processes](https://youtu.be/JUInjQvzIkE "Right click this link and open in new tab") 5m
+1. [Module 1: What is Supply Chain Management?](https://youtu.be/Mi1QBxVjZAw) 8m
+1. [Module 9: Business Processes](https://youtu.be/JUInjQvzIkE "Right click this link and open in new tab") 5m
 1. [Document Management System](https://youtu.be/-1udkX8VCTc) 5m
 1. [What is ERP?](https://youtu.be/6qys-562kp4 "Right click this link and open in new tab") 3m
-1. [BPM](https://youtu.be/iI6T3-7JxdU "Right click this link and open in new tab") 5m
-1. [BPR](https://youtu.be/ee8iGNfem50) 6m
+1. [Why do we need ERP?](https://youtu.be/fH2CEkShyBs) 8m
+1. [Business Process Management](https://youtu.be/iI6T3-7JxdU "Right click this link and open in new tab") 5m
+1. [Business Process Reengineering](https://youtu.be/ee8iGNfem50) 6m
 {: .vid}
 
 
