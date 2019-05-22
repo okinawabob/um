@@ -182,6 +182,7 @@ __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot ch
 | [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_MAC_Quick_Start_Guide.pdf "Right click this link and open in new tab")
 | [Introduction to Excel]({https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
 | [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
+| [Ramges and Tables](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Ranges_and_Tables.pdf "Right click this link and open in new tab") | [Ramges and Tables](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Ranges_and_Tables.pdf "Right click this link and open in new tab")
 | [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
 | [Excel PivotTables](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_PivotTables_and_PivotCharts.pdf "Right click this link and open in new tab") | [Excel PivotTables](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Introduction_to_PivotTables.pdf "Right click this link and open in new tab")
 
@@ -256,7 +257,7 @@ Windows users have MS Access only in the Office Professional versions. MacOSX us
 - [Intro to Access](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Intro_to_Access.pdf "Right click this link and open in new tab")
 - [Introduction to Forms](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Intro_to_Forms.pdf)
 - [Relational Databases & Subforms](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Relational_Databases_and_Subforms.pdf "Right click this link and open in new tab")
-- [Access 2016 Reports and Queries](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Reports_and_Queries.pdf "Right click this link and open in new tab")
+- [Reports and Queries](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Reports_and_Queries.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 #### Week 3 Checklist
