@@ -183,6 +183,7 @@ __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot ch
 | [Introduction to Excel]({https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
 | [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab") | [Excel Formulas](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Basic_Formulas_and_Functions.pdf "Right click this link and open in new tab")
 | [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Intro_to_Charts.pdf "Right click this link and open in new tab") | [Excel Charts](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Charts.pdf "Right click this link and open in new tab")
+| [Excel PivotTables](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_PivotTables_and_PivotCharts.pdf "Right click this link and open in new tab") | [Excel PivotTables](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_PivotTables_and_PivotCharts.pdf "Right click this link and open in new tab")
 
 #### Week 2 Checklist
 
