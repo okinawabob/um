@@ -185,22 +185,33 @@ __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot ch
 ## Week 3: Databases
 {: #Week3 .anchor}
   
-This week, you will learn about data, how businesses collect, store and use data, and how data is secured. To begin, you will read Chapter 4 of the e-textbook. There are also several articles to enhance your understanding of data and its business value. Finally, you will read Chapter 6 of the e-textbook which addresses information system security. 
+What does a business know about its customers? Or its products? How could it use that information to increase sales and profits?
+
+To answer questions like these, businesses collect and use data from many sources. This week you will learn about how data and information are used by organizations, including what the difference is between data and information, how data is created and stored, and how it is used throughout an organization in making business decisions.
+
+Earlier week’s readings explained the importance of competitive advantage, the role IT plays in achieving the business strategy, and how business strategies drive planning for information technology. In many organizations, there is a position designated as a business analyst, the job of which is to help the organization translate business strategies into IT system solutions that improve the functioning of the organization. The business analyst may be a member of the IT department or may be assigned to a functional area (human resources, finance, manufacturing, etc.) of the organization. Throughout this course, you will assume the role of a business analyst and apply the course concepts in assignments. 
 
 Readings for this week:
 
 - [Data Introduction]({{site.baseurl}}/assets/ifsm300/wk3/3-1-Data.pdf)
-- [Characteristics of Data Quality]({{site.baseurl}}/assets/ifsm300/wk3/3-2-Characteristics of Quality Data.pdf)
-- [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 4 Data and Databases
-- [The Brain Behind the Big, Bad Burger and Other Tales of Business Intelligence](https://www.cio.com/article/2439016/business-intelligence/the-brain-behind-the-big--bad-burger-and-other-tales-of-business-intelligence.html)
-- [ Business Intelligence - Unexpected Insights](https://www.computerworld.com/article/2581229/business-intelligence/unexpected-insights.html)
-- ebook Chapter 6 Information Systems Security
+- [eBook Chapter 4 Data and Databases]({{site.baseurl}}/assets/ifsm300/3-2-Ch4-DataAndDatabases.pdf)
+- [Characteristics of Data Quality]({{site.baseurl}}/assets/ifsm300/3-3-CharacteristicsDataQuality.pdf)
+- [How Information Supports Decision Making]({{site.baseurl}}/assets/ifsm300/3-4-HowInformationSupportsDecisionMaking.pdf)
 {: .read}
 
 Please download and print the following before class if you wish to take notes:
 
 - [PowerPoint Slide Show 3 - Chapter 4]({{site.baseurl}}/assets/ifsm300/wk3/wk3-DB.pdf "Right click this link and open in new tab") 
 {: .pdf}
+
+### Watch YouTube Videos
+
+1. [ERD Systems Analysis](https://youtu.be/FpJXQG7EIcE "Right click this link and open in new tab") 8m
+1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
+1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
+1. [Real Data Warehouse](https://youtu.be/y5-3Pjbk8Zk "Right click this link and open in new tab") 5m
+1. [Benefits of a Data Warehouse](https://youtu.be/KGHbY_Sales "Right click this link and open in new tab") 4m
+{: .vid}
 
 ### Assignment 2
 
@@ -229,23 +240,21 @@ Windows users have MS Access only in the Office Professional versions. MacOSX us
 | #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
 |   | #18 Designing Your Own Database |  #16 Designing Your Own Database
 
-Guides for Access 2016 are available below:
+#### Tutorials for Microsoft Access 2016 by Kennesaw State University
 
-- [Access 2016 Intro to Access](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Intro_to_Access.pdf)
-- [Access 2016 Reports and Queries](http://polaris.umuc.edu/~rlaurie/ifsm201/Access_2016_Reports_and_Queries.pdf)
+- [Access Quick Start Guide](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab")
+- [Intro to Access](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Intro_to_Access.pdf "Right click this link and open in new tab")
+- [Introduction to Forms](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Intro_to_Forms.pdf)
+- [Relational Databases & Subforms](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Relational_Databases_and_Subforms.pdf "Right click this link and open in new tab")
+- [Access 2016 Reports and Queries](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Reports_and_Queries.pdf "Right click this link and open in new tab")
 {: .pdf}
 
-### Watch YouTube Videos
+#### Week 3 Checklist
 
-1. [ERD Systems Analysis](https://youtu.be/FpJXQG7EIcE "Right click this link and open in new tab") 8m
-1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
-1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
-1. [Real Data Warehouse](https://youtu.be/y5-3Pjbk8Zk "Right click this link and open in new tab") 5m
-1. [Benefits of a Data Warehouse](https://youtu.be/KGHbY_Sales "Right click this link and open in new tab") 4m
-{: .vid}
-
-#### Complete Quiz 3 on LEO
-{: .quiz}
+- Complete **Week 3 Discussion**  on LEO (reply post to two other student posts)
+- Complete Quiz 3 on LEO
+- Start Assignment 2 and complete steps 1 through 15. 
+{: .check}
 
 ## Week 4: Enterprise Systems
 {: #Week4 .anchor}
