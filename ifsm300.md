@@ -61,6 +61,22 @@ Please download and print the following before class if you wish to take notes:
 - [PowerPoint Slide Show 1 - Chapters 1 and 7]({{site.baseurl}}/assets/ifsm300/PowerPoint-Week1-Ch1-7.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
+### Watch YouTube Videos
+
+1. [How Kmart Went From Beating Walmart And Target To Bankruptcy](https://youtu.be/V5YBsoZZr8U) 7m
+1. [How Target Is Challenging Amazon](https://youtu.be/g8JbzLWSRog) 7m
+1. [Walmart’s RetailLink](https://youtu.be/SUe-tSabKag) 7m
+1. [Amazon’s Warehouse IT](https://youtu.be/UtBa9yVZBJM) 3m
+1. [Why Is Costco Opening Its Own Chicken Farm?](https://youtu.be/MSvCK_xH84s) 9m
+1. [Brynjolfsson: Productivity paradox](https://youtu.be/6Y9uMW1ZNvI) 4m
+1. [Does IT Matter?](https://youtu.be/hj_mzU3N70g) 17m
+1. [Porter on Competitiveness](https://youtu.be/Ul_kXIFdwQE) 3m
+1. [Porter 5 Force Model](https://youtu.be/ZWQMwnCFIj0) 2m
+1. [EDI = Electronic Data Interchange](https://youtu.be/jV7okF2MVxI) 3m
+1. [DSS Health](https://youtu.be/ZPXCF5e1_HI) 4m
+1. [Gordon, Brynjolfsson debate future of work](https://youtu.be/ofWK5WglgiI) 13m
+{: .vid}
+
 ### Assignment 1 
 
 Microsoft Excel will be used to create a Decision Support System used for MIS. It will be considered a two-week assignment and will be due Week 3. To do this assignment you need to download both the instructions located in the Asgn1-MIS.pdf file and the import data in the Car-Rental-Data.txt file.
@@ -91,24 +107,15 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 |   | #16 Functions  | #16 Functions
 |   | #22 Charts | #23 Charts
 
-### Watch YouTube Videos
+#### Complete Introductions Discussion on LEO
 
-1. [How Kmart Went From Beating Walmart And Target To Bankruptcy](https://youtu.be/V5YBsoZZr8U) 7m
-1. [How Target Is Challenging Amazon](https://youtu.be/g8JbzLWSRog) 7m
-1. [Walmart’s RetailLink](https://youtu.be/SUe-tSabKag) 7m
-1. [Amazon’s Warehouse IT](https://youtu.be/UtBa9yVZBJM) 3m
-1. [Why Is Costco Opening Its Own Chicken Farm?](https://youtu.be/MSvCK_xH84s) 9m
-1. [Brynjolfsson: Productivity paradox](https://youtu.be/6Y9uMW1ZNvI) 4m
-1. [Does IT Matter?](https://youtu.be/hj_mzU3N70g) 17m
-1. [Porter on Competitiveness](https://youtu.be/Ul_kXIFdwQE) 3m
-1. [Porter 5 Force Model](https://youtu.be/ZWQMwnCFIj0) 2m
-1. [EDI = Electronic Data Interchange](https://youtu.be/jV7okF2MVxI) 3m
-1. [DSS Health](https://youtu.be/ZPXCF5e1_HI) 4m
-1. [Gordon, Brynjolfsson debate future of work](https://youtu.be/ofWK5WglgiI) 13m
-{: .vid}
+Reply post to two other student posts
+
+#### Complete Week 1 Discussion on LEO
+
+Reply post to two other student posts
 
 #### Complete Quiz 1 on LEO
-{: .quiz}
 
 ## Week 2: IT Infrastructure
 {: #Week2 .anchor}
@@ -116,20 +123,6 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 What does a business know about how it operates? How can a company leverage information technology to improve its operations?
 
 In the previous week, we have discussed how information systems can help a business achieve a competitive advantage. This week,  you will learn what business processes are and how they are analyzed and improved using process analysis and reengineering. Then you will see how IT, when combined with business processes, can improve an organization’s competitive advantage. The hardware, software, and networking components of the technical infrastructure are combined to provide IT solutions that meet business objectives.
-
-This week you will complete the following:
-
-Read about Business Processes Chapter 8
-
-Read about the IT Infrastructure Chapters 2, 3, and 5
-
-Complete Quiz 2
-
-Complete Week 2 Discussion and reply post to two students
-
-Complete Excel Tutorials
-
-Complete Assignment 1
 
 Readings for this week:
 
@@ -146,6 +139,17 @@ Please download and print the following before class if you wish to take notes:
 
 - [PowerPoint Slide Show 2 - Chapters 8, 2, 3, and 5]({{site.baseurl}}/assets/ifsm300/PowerPoint-Ch8-2-3-5.pdf "Right click this link and open in new tab") 
 {: .pdf}
+
+### Watch YouTube Videos
+
+1. [Module 1: What is Supply Chain Management?](https://youtu.be/Mi1QBxVjZAw) 8m
+1. [Module 9: Business Processes](https://youtu.be/JUInjQvzIkE "Right click this link and open in new tab") 5m
+1. [Document Management System](https://youtu.be/-1udkX8VCTc) 5m
+1. [What is ERP?](https://youtu.be/6qys-562kp4 "Right click this link and open in new tab") 3m
+1. [Why do we need ERP?](https://youtu.be/fH2CEkShyBs) 8m
+1. [Business Process Management](https://youtu.be/iI6T3-7JxdU "Right click this link and open in new tab") 5m
+1. [Business Process Reengineering](https://youtu.be/ee8iGNfem50) 6m
+{: .vid}
 
 ### Assignment 1
 
@@ -173,20 +177,11 @@ __Week 2:__ Please review the Additional Excel tutorials posted so that you will
 
 __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot charts, so just examine the tutorials on this topic. Assignment 1 does not require pivot charts, but if you are Windows user then you may experiment with the concept.
 
-### Watch YouTube Videos
+#### Complete Week 2 Discussion on LEO
 
-1. [Module 1: What is Supply Chain Management?](https://youtu.be/Mi1QBxVjZAw) 8m
-1. [Module 9: Business Processes](https://youtu.be/JUInjQvzIkE "Right click this link and open in new tab") 5m
-1. [Document Management System](https://youtu.be/-1udkX8VCTc) 5m
-1. [What is ERP?](https://youtu.be/6qys-562kp4 "Right click this link and open in new tab") 3m
-1. [Why do we need ERP?](https://youtu.be/fH2CEkShyBs) 8m
-1. [Business Process Management](https://youtu.be/iI6T3-7JxdU "Right click this link and open in new tab") 5m
-1. [Business Process Reengineering](https://youtu.be/ee8iGNfem50) 6m
-{: .vid}
+Reply post to two other student posts
 
-
-#### Complete both Quiz 2 and Week 2 Process Quiz on LEO
-{: .quiz}
+#### Complete Quiz 2 on LEO
 
 
 ## Week 3: Databases
