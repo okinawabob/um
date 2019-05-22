@@ -107,15 +107,13 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 |   | #16 Functions  | #16 Functions
 |   | #22 Charts | #23 Charts
 
-#### Complete Introductions Discussion on LEO
+Week 1 Checklist
 
-Reply post to two other student posts
-
-#### Complete Week 1 Discussion on LEO
-
-Reply post to two other student posts
-
-#### Complete Quiz 1 on LEO
+- Complete **Introductions Discussion** on LEO (reply post to two other student posts)
+- Complete **Week 1 Discussion**  on LEO (reply post to two other student posts)
+- Complete Quiz 1 on LEO
+- Complete Assignment 1 steps 1-22
+{: .check}
 
 ## Week 2: IT Infrastructure
 {: #Week2 .anchor}
@@ -182,6 +180,8 @@ __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot ch
 Reply post to two other student posts
 
 #### Complete Quiz 2 on LEO
+
+#### Complete Assignment 1 and submit Excel file on LEO
 
 
 ## Week 3: Databases
