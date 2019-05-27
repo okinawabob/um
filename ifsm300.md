@@ -212,7 +212,7 @@ Readings for this week:
 
 Please download and print the following before class if you wish to take notes:
 
-- [PowerPoint Slide Show 3 - Chapter 4]({{site.baseurl}}/assets/ifsm300/wk3/wk3-DB.pdf "Right click this link and open in new tab") 
+- [PowerPoint Slide Show 3 - Chapter 4]({{site.baseurl}}/assets/ifsm300/PowerPoint-Week3-Ch4.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
 ### Watch YouTube Videos
@@ -222,6 +222,7 @@ Please download and print the following before class if you wish to take notes:
 1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
 1. [Real Data Warehouse](https://youtu.be/y5-3Pjbk8Zk "Right click this link and open in new tab") 5m
 1. [Benefits of a Data Warehouse](https://youtu.be/KGHbY_Sales "Right click this link and open in new tab") 4m
+1. [SQL vs NoSQL or MySQL vs MongoDB](https://youtu.be/ZS_kXvOeQ5Y) 23m
 {: .vid}
 
 ### Assignment 2
@@ -262,7 +263,6 @@ Windows users have MS Access only in the Office Professional versions. MacOSX us
 
 #### Week 3 Checklist
 
-- Complete **Week 3 Discussion**  on LEO (reply post to two other student posts)
 - Complete Quiz 3 on LEO
 - Start Assignment 2 and complete steps 1 through 15. 
 {: .check}
