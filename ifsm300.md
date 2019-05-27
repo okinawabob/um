@@ -301,11 +301,11 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 
 ### Watch YouTube Videos
 
-1. [What is Supply Chain?](https://youtu.be/Mi1QBxVjZAw "Right click this link and open in new tab") 8m
-1. [W. Edwards Demming - Part 1](https://youtu.be/GHvnIm9UEoQ "Right click this link and open in new tab") 10m
-1. [W. Edwards Demming - Part 2](https://youtu.be/mKFGj8sK5R8 "Right click this link and open in new tab") 9m
-1. [W. Edwards Demming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
-1. [Demming - Fourteen Points](https://deming.org/explore/fourteen-points)  
+1. [Dr. Deming - The 5 Deadly Diseases](https://youtu.be/ehMAwIHGN0Y "Right click this link and open in new tab") 16m
+1. [W. Edwards Deming - Part 1](https://youtu.be/GHvnIm9UEoQ "Right click this link and open in new tab") 10m
+1. [W. Edwards Deming - Part 2](https://youtu.be/mKFGj8sK5R8 "Right click this link and open in new tab") 9m
+1. [W. Edwards Deming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
+1. [Deming - Fourteen Points](https://deming.org/explore/fourteen-points) 9m
 {: .vid}
 
 
