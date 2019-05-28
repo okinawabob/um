@@ -13,7 +13,7 @@ permalink: "/ifsm300/"
 
 If you have a question you can ask in class or email me at:  
 
-<script>AntiSpam("moc", "003msfi+82.1lmr", "liamg", "IFSM300", "")</script>
+<script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "IFSM300", "")</script>
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the URL  
 [http://islandman.org/um/ifsm300/](http://islandman.org/um/ifsm300/). 
@@ -32,9 +32,9 @@ Robert Laurie
 ## Week 1: Informations Systems in Organizations
 {: #Week1 .anchor}
 
-This week, you will learn how businesses develop their strategies for achieving competitive advantage and how information systems can be used for competitive advantage.  In the Week 1 Learning Resources below, there are a number of resources provided to help you understand this week's concepts and to prepare you to complete the first assignment, which will be due next week.  After reading the Business Perspective Course Module and Chapters 1 and 7 in the e-textbook, you will then read about business strategy and strategic planning. 
+This week, you will learn how businesses develop their strategies for achieving competitive advantage and how information systems can be used for competitive advantage.  In the Week 1 Learning Resources below, there are a number of resources provided to help you understand this week's concepts and to prepare you to complete the first assignment, which will be due next week.  After reading the Business Perspective Course Module and Chapters 1 and 7 in the e-textbook, you will then read about business strategy and strategic planning.
 
-### Readings for this week:
+### Readings for week 1
 
 - [Introduction to Information Systems in Organizations]({{site.baseurl}}/assets/ifsm300/1-1-IntroductionInformationSystemsOrganizations.pdf)
 - [eBook Complete:]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) This week read Chapter 1 and 7 from eBook
@@ -45,7 +45,7 @@ This week, you will learn how businesses develop their strategies for achieving 
 - [Globalization and the Digital Divide]({{site.baseurl}}/assets/ifsm300/1-6-Ch11-GlobalizationDigitalDivide.pdf)
 {: .read}
 
-#### Optional Former Term Readings for this week:
+#### Optional former readings for week 1
 
 - [The Organizational Model]({{site.baseurl}}/assets/ifsm300/old/1-1-Organization-Model.pdf)
 - [The Competitive Forces Model]({{site.baseurl}}/assets/ifsm300/old/1-2-Competitive-Forces-Model.pdf)
@@ -56,12 +56,12 @@ This week, you will learn how businesses develop their strategies for achieving 
 - [Productivity Paradox from 1991](http://ccs.mit.edu/papers/CCSWP130/ccswp130.html)
 {: .read}
 
-Please download and print the following before class if you wish to take notes:
+### Print before class for week 1 notes
 
-- [PowerPoint Slide Show 1 - Chapters 1 and 7]({{site.baseurl}}/assets/ifsm300/PowerPoint-Week1-Ch1-7.pdf "Right click this link and open in new tab") 
+- [PowerPoint Slide Show 1 - Chapters 1 and 7]({{site.baseurl}}/assets/ifsm300/PowerPoint-Week1-Ch1-7.pdf "Right click this link and open in new tab")
 {: .pdf}
 
-### Watch YouTube Videos
+### Watch YouTube Videos for week 1
 
 1. [How Kmart Went From Beating Walmart And Target To Bankruptcy](https://youtu.be/V5YBsoZZr8U) 7m
 1. [How Target Is Challenging Amazon](https://youtu.be/g8JbzLWSRog) 7m
@@ -77,7 +77,7 @@ Please download and print the following before class if you wish to take notes:
 1. [Gordon, Brynjolfsson debate future of work](https://youtu.be/ofWK5WglgiI) 13m
 {: .vid}
 
-### Assignment 1 
+### Assignment 1
 
 Microsoft Excel will be used to create a Decision Support System used for MIS. It will be considered a two-week assignment and will be due Week 3. To do this assignment you need to download both the instructions located in the Asgn1-MIS.pdf file and the import data in the Car-Rental-Data.txt file.
 
@@ -88,7 +88,7 @@ Microsoft Excel will be used to create a Decision Support System used for MIS. 
 __Week 1:__ Please review the Excel tutorials which are essential content from IFSM201 if you need a refresher. 
 Complete Steps 1 - 22 this week for the assignment on your computer. However, do not upload your file this week. If you have questions then please post in the Ask your Professor discussion.
 
-### Review [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
+#### Review [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
 
 | [Excel 2010](https://www.gcflearnfree.org/excel2010/) | [Excel 2013](https://www.gcflearnfree.org/excel2013/) | [Excel 2016](https://www.gcflearnfree.org/excel2016/) 
 |---|---|---
@@ -109,10 +109,10 @@ Complete Steps 1 - 22 this week for the assignment on your computer. However, do
 
 #### Week 1 Checklist
 
-- Complete **Introductions Discussion** on LEO (reply post to two other student posts)
-- Complete **Week 1 Discussion**  on LEO (reply post to two other student posts)
-- Complete Quiz 1 on LEO
-- Complete Assignment 1 steps 1-22
+- Complete **Introductions Discussion on LEO** (reply post to two other student posts)
+- Complete **Week 1 Discussion  on LEO** (reply post to two other student posts)
+- Complete **Quiz 1 on LEO**
+- Complete **Assignment 1 steps 1-22**
 {: .check}
 
 ## Week 2: IT Infrastructure
@@ -122,7 +122,7 @@ What does a business know about how it operates? How can a company leverage info
 
 In the previous week, we have discussed how information systems can help a business achieve a competitive advantage. This week,  you will learn what business processes are and how they are analyzed and improved using process analysis and reengineering. Then you will see how IT, when combined with business processes, can improve an organization’s competitive advantage. The hardware, software, and networking components of the technical infrastructure are combined to provide IT solutions that meet business objectives.
 
-Readings for this week:
+### Readings for week 2
 
 - [eBook Chapter 8 Business Processes]({{site.baseurl}}/assets/ifsm300/2-1-Ch8-BusinessProcesses.pdf)
 - [Optimizing Business Processes]({{site.baseurl}}/assets/ifsm300/2-2-OptimizingBusinessProcesses.pdf)
@@ -133,12 +133,12 @@ Readings for this week:
 - [eBook Chapter 5 Networking]({{site.baseurl}}/assets/ifsm300/2-7-Ch5-Networking.pdf)
 {: .read}
 
-Please download and print the following before class if you wish to take notes:
+### Print before class for week 2 notes
 
 - [PowerPoint Slide Show 2 - Chapters 8, 2, 3, and 5]({{site.baseurl}}/assets/ifsm300/PowerPoint-Ch8-2-3-5.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
-### Watch YouTube Videos
+### Watch YouTube Videos for week 2
 
 1. [Module 1: What is Supply Chain Management?](https://youtu.be/Mi1QBxVjZAw) 8m
 1. [Module 9: Business Processes](https://youtu.be/JUInjQvzIkE "Right click this link and open in new tab") 5m
@@ -157,7 +157,7 @@ Microsoft Excel will be used to create a Decision Support System used for MIS. 
 - [Car-Rental-Data.txt]({{site.baseurl}}/assets/ifsm300/asgn1/Car-Rental-Data.txt)
 {: .todo}
 
-__Week 2:__ Please review the Additional Excel tutorials posted so that you will be able to create pivot tables. Then complete all remaining steps 23 - 40 of Assignment 1 and upload the completed Excel file to the assignment folder.
+**Week 2:** Please review the Additional Excel tutorials posted so that you will be able to create pivot tables. Then complete all remaining steps 23 - 40 of Assignment 1 and upload the completed Excel file to the assignment folder.
 
 ### Continue [GCF Excel Tutorials](https://edu.gcfglobal.org/en/topics/excel/)
 
@@ -173,9 +173,9 @@ __Week 2:__ Please review the Additional Excel tutorials posted so that you will
 |   | #28 What-If Analysis  | #28 More with PivotTables
 |   |  | #28 What-If Analysis
 
-__MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot charts, so just examine the tutorials on this topic. Assignment 1 does not require pivot charts, but if you are Windows user then you may experiment with the concept.
+**MacOS users notice:** MS Excel for Mac does not allow the creation of pivot charts, so just examine the tutorials on this topic. Assignment 1 does not require pivot charts, but if you are Windows user then you may experiment with the concept.
 
-#### Tutorials for Microsoft Excel 2016 by Kennesaw State University
+#### Tutorial Guides for Microsoft Excel 2016 by KSU
 
 | Windows  |  MacOS 
 | ---|---
@@ -188,9 +188,9 @@ __MacOS users notice:__ MS Excel for Mac does not allow the creation of pivot ch
 
 #### Week 2 Checklist
 
-- Complete **Week 2 Discussion**  on LEO (reply post to two other student posts)
-- Complete Quiz 2 on LEO
-- Complete Assignment 1 all steps and submit Excel file on LEO
+- Complete **Week 2 Discussion  on LEO** (reply post to two other student posts)
+- Complete **Quiz 2 on LEO**
+- Complete **Assignment 1 all steps and submit Excel file on LEO**
 {: .check}
 
 ## Week 3: Databases
@@ -200,9 +200,9 @@ What does a business know about its customers? Or its products? How could it use
 
 To answer questions like these, businesses collect and use data from many sources. This week you will learn about how data and information are used by organizations, including what the difference is between data and information, how data is created and stored, and how it is used throughout an organization in making business decisions.
 
-Earlier week’s readings explained the importance of competitive advantage, the role IT plays in achieving the business strategy, and how business strategies drive planning for information technology. In many organizations, there is a position designated as a business analyst, the job of which is to help the organization translate business strategies into IT system solutions that improve the functioning of the organization. The business analyst may be a member of the IT department or may be assigned to a functional area (human resources, finance, manufacturing, etc.) of the organization. Throughout this course, you will assume the role of a business analyst and apply the course concepts in assignments. 
+Earlier week’s readings explained the importance of competitive advantage, the role IT plays in achieving the business strategy, and how business strategies drive planning for information technology. In many organizations, there is a position designated as a business analyst, the job of which is to help the organization translate business strategies into IT system solutions that improve the functioning of the organization. The business analyst may be a member of the IT department or may be assigned to a functional area (human resources, finance, manufacturing, etc.) of the organization. Throughout this course, you will assume the role of a business analyst and apply the course concepts in assignments.
 
-Readings for this week:
+### Readings for week 3
 
 - [Data Introduction]({{site.baseurl}}/assets/ifsm300/wk3/3-1-Data.pdf)
 - [eBook Chapter 4 Data and Databases]({{site.baseurl}}/assets/ifsm300/3-2-Ch4-DataAndDatabases.pdf)
@@ -210,12 +210,12 @@ Readings for this week:
 - [How Information Supports Decision Making]({{site.baseurl}}/assets/ifsm300/3-4-HowInformationSupportsDecisionMaking.pdf)
 {: .read}
 
-Please download and print the following before class if you wish to take notes:
+### Print before class for week 3 notes
 
 - [PowerPoint Slide Show 3 - Chapter 4]({{site.baseurl}}/assets/ifsm300/PowerPoint-Week3-Ch4.pdf "Right click this link and open in new tab") 
 {: .pdf}
 
-### Watch YouTube Videos
+### Watch YouTube Videos for week 3
 
 1. [ERD Systems Analysis](https://youtu.be/FpJXQG7EIcE "Right click this link and open in new tab") 8m
 1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
@@ -236,7 +236,7 @@ Windows users have MS Access only in the Office Professional versions. MacOSX us
 
 ### Review [GCF Access Tutorials](https://edu.gcfglobal.org/en/)
 
-|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
+|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/)
 |---|---|---
 | #1 Intro to DataBases  | #3 Intro to DataBases | #1 Intro to DataBases
 | #2 Intro to Objects   | #4 Intro to Objects | #2 Intro to Objects
@@ -252,7 +252,7 @@ Windows users have MS Access only in the Office Professional versions. MacOSX us
 | #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
 |   | #18 Designing Your Own Database |  #16 Designing Your Own Database
 
-#### Tutorials for Microsoft Access 2016 by Kennesaw State University
+#### Tutorial Guides for Microsoft Access 2016 by KSU
 
 - [Access Quick Start Guide](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab")
 - [Intro to Access](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Intro_to_Access.pdf "Right click this link and open in new tab")
@@ -263,51 +263,51 @@ Windows users have MS Access only in the Office Professional versions. MacOSX us
 
 #### Week 3 Checklist
 
-- Complete Quiz 3 on LEO
+- Complete **Quiz 3 on LEO**
 - Start Assignment 2 and complete steps 1 through 15. 
 {: .check}
 
-## Week 4: Enterprise Systems
+## Week 4: Process Improvement Supported by IT
 {: #Week4 .anchor}
 
-This week, you will learn about enterprise systems – what they are and how they are used by businesses to achieve a strategic advantage. To begin, you will read about the attributes of system quality. Then, there are a few articles and a video to enhance your understanding of the major types of enterprise applications. Also the concept of TQM (Total Quality Management ) will be discussed.
+How could a company benefit from finding a better, more efficient way to make their product?  How could apply information technology (IT) help to make some processes more efficient? Could IT also help make the processes more effective?
 
-Readings for this week:
+This week you will have the opportunity to demonstrate your understanding of business processes and how IT supports them and benefits the organization. The reading for this week explains how to document a process, analyze it by looking for ways to improve it and develop a new, improved process. It also explains how IT can bring benefits to the organization in the areas of workflow, communication, and collaboration.
+
+### Readings for week 4
+
+- [Analyzing Process Improvements Supported by IT]({{site.baseurl}}/assets/ifsm300/4-1-AnalyzingProcessImprovementsSupportedIT.pdf)
+- [eBook Chapter 9 The People in Information Systems]({{site.baseurl}}/assets/ifsm300/4-2-Ch9-PeopleInformationSystems.pdf)
+
+#### Optional former readings for week 4
 
 - [Enterprise Applications]({{site.baseurl}}/assets/ifsm300/wk4/4-1-Enterprise_Applications.pdf) This short article covers the concepts involved with enterprise applications. These include: enterprise system, enterprise resource planning (ERP), supply chain management (SCM), and customer relationship management (CRM).
 - [System Quality Attributes](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658094(v=pandp.10)) This reading explains several qualities by which software and systems are assessed.
-- [ERP Definitions and Solutions](https://www.cio.com/article/2439502/enterprise-resource-planning/enterprise-resource-planning-erp-definition-and-solutions.html) This article explains that enterprise resource planning software, or ERP, offers an organization a single computer system to serve all of the needs of all of the departments. 
-- [15 famous ERP disasters, dustups and disappointments](https://www.cio.com/article/2429865/enterprise-resource-planning/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) Here is an enlightening presentation on some of the infamous efforts with ERP and what we can learn from them.
 - [Supply Chain Management As A Competitive Weapon](https://www.manufacturing.net/article/2007/11/supply-chain-management-competitive-weapon) Can supply chain management help your bottom line?
 - [CRM Projects Done Right Mean Business Process Changes](http://www.saleslogistix.com/company/press/BizProc.pdf) This article talks about the relationship between CRM (customer relationship management) system projects and the processes used for sales and marketing.
 {: .read}
 
-Please download and print the following before class if you wish to take notes:
+### Print before class for week 4 notes
 
-- [PowerPoint Slide Show 4 - Chapters 9 and TQM]({{site.baseurl}}/assets/ifsm300/wk4/chap9-People of IT.pdf "Right click this link and open in new tab") 
+- [PowerPoint Slide Show 4 - Chapters 9 and TQM]({{site.baseurl}}/assets/ifsm300/PowerPoint-Week4-Ch9.pdf "Right click this link and open in new tab")
 {: .pdf}
 
-### Assignment 2
+### Watch YouTube Videos for week 4
 
-Microsoft Access will be used to create a database for MIS. It will be considered a two-week assignment and will be due Week 5. Microsoft Access was never ported to MacOS. Therefore, MacOS users should do the database in the UMUC computer lab which utilizes Access 2010.
-
-- [Assignment 2 - MIS Database]({{site.baseurl}}/assets/ifsm300/Asgn2-DB/Asgn2-DB.pdf "Right click this link and open in new tab")
-{: .todo}
-
-#### Complete Quiz 3 on LEO if not already completed
-{: .quiz}
-#### Complete Quiz 4 on LEO covering enterprise systems
-{: .quiz}
-
-### Watch YouTube Videos
-
-1. [Dr. Deming - The 5 Deadly Diseases](https://youtu.be/ehMAwIHGN0Y "Right click this link and open in new tab") 16m
 1. [W. Edwards Deming - Part 1](https://youtu.be/GHvnIm9UEoQ "Right click this link and open in new tab") 10m
 1. [W. Edwards Deming - Part 2](https://youtu.be/mKFGj8sK5R8 "Right click this link and open in new tab") 9m
 1. [W. Edwards Deming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
+1. [Dr. Deming - The 5 Deadly Diseases](https://youtu.be/ehMAwIHGN0Y "Right click this link and open in new tab") 16m
 1. [Deming - Fourteen Points](https://deming.org/explore/fourteen-points) 9m
 {: .vid}
 
+#### Week 4 Checklist
+
+- Practice with the **Input-Process-Output Learning Activity on LEO**
+- Participate in **Week 4 Discussion on LEO**
+- Complete **Quiz 4 on LEO**
+- Complete **Assignment  2 and submit on LEO**
+{: .check}
 
 ## Week 5: Information Systems Development
 {: #Week5 .anchor}
@@ -315,6 +315,12 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 This week, you will learn about how information systems are developed, and how organizations decide whether to develop their systems in-house or outsource the systems development. To begin, you will read Chapter 10 in the e-textbook where you will learn about the Systems Development Life Cycle (SDLC), a widely accepted framework for the design and development of IT systems.  Then, there is a reading on requirements followed by articles on outsourcing and selecting a Software as a Service (SaaS) vendor.
 
 Readings for this week:
+
+#### Optional former readings for week 5
+
+- [ERP Definitions and Solutions](https://www.cio.com/article/2439502/enterprise-resource-planning/enterprise-resource-planning-erp-definition-and-solutions.html) This article explains that enterprise resource planning software, or ERP, offers an organization a single computer system to serve all of the needs of all of the departments. 
+- [15 famous ERP disasters, dustups and disappointments](https://www.cio.com/article/2429865/enterprise-resource-planning/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) Here is an enlightening presentation on some of the infamous efforts with ERP and what we can learn from them.
+{: .read}
 
 - [eBook]({{site.baseurl}}/assets/ifsm300/ebook-300.pdf) Chapter 10 Information Systems Development
 - [System Requirements]({{site.baseurl}}/assets/ifsm300/wk5/Requirements.pdf) Chapter 10 Information Systems Development
