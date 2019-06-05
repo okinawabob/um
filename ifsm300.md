@@ -278,6 +278,7 @@ This week you will have the opportunity to demonstrate your understanding of bus
 
 - [Analyzing Process Improvements Supported by IT]({{site.baseurl}}/assets/ifsm300/4-1-AnalyzingProcessImprovementsSupportedIT.pdf)
 - [eBook Chapter 9 The People in Information Systems]({{site.baseurl}}/assets/ifsm300/4-2-Ch9-PeopleInformationSystems.pdf)
+{: .read}
 
 #### Optional former readings for week 4
 
@@ -314,7 +315,14 @@ This week you will have the opportunity to demonstrate your understanding of bus
 
 This week, you will learn about how information systems are developed, and how organizations decide whether to develop their systems in-house or outsource the systems development. To begin, you will read Chapter 10 in the e-textbook where you will learn about the Systems Development Life Cycle (SDLC), a widely accepted framework for the design and development of IT systems.  Then, there is a reading on requirements followed by articles on outsourcing and selecting a Software as a Service (SaaS) vendor.
 
-Readings for this week:
+### Readings for week 5
+
+- [eBook Chapter 10 Information Systems Development]({{site.baseurl}}/assets/ifsm300/5-1-Ch10-InformationSystemsDevelopment.pdf) 
+- [System Requirements]({{site.baseurl}}/assets/ifsm300/5-2-Requirements.pdf)
+- [Developing Requirements for an IT System]({{site.baseurl}}/assets/ifsm300/5-3-DevelopingRequirements.pdf) 
+- [Build, Buy or Outsource]({{site.baseurl}}/assets/ifsm300/5-4-BuildBuyOutsource.pdf) 
+- [Enterprise Systems]({{site.baseurl}}/assets/ifsm300/6-2-EnterpriseSystems.pdf) 
+{: .read}
 
 #### Optional former readings for week 5
 
@@ -335,14 +343,13 @@ Please download and print the following before class if you wish to take notes:
 
 ### Assignment 3  
 
-- [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/wk5/FinalProject.pdf "Right click this link and open in new tab")
-- Case Study possibilities:
-  - [Saipan Casino Program]({{site.baseurl}}/assets/ifsm300/Asgn3/Casino Case Study.pdf) needs a chip counter at [Saipan](http://imperialpacificsaipan.com/en/)
-  - [Plyco or Video Store Database]({{site.baseurl}}/assets/ifsm300/Asgn3/Case Study Possibilities.pdf)
-  - [Chesapeake IT Consultants]({{site.baseurl}}/assets/ifsm300/Asgn3/Chesapeake IT Consultants Case Study.pdf)
-  - Pick one from above or create your own
-- [Sign up for student account on LucidChart.com](https://www.lucidchart.com/pages/usecase/education) if you have not already done so using your username@umuc.student.edu email account.
-{: .todo}
+- [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/Asgn3/FinalProject-Assignment-Req-2019su.pdf "Right click this link and open in new tab")
+- [Case Study Samples]({{site.baseurl}}/assets/ifsm300/Asgn3/FinalProject-CaseStudy-Samples.pdf)
+- [Sample 1]({{site.baseurl}}/assets/ifsm300/Asgn3/FinalProject-Sample1-AircraftMaintance.pdf)
+- [Sample 2 - Feasibility Study]({{site.baseurl}}/assets/ifsm300/Asgn3/FinalProject-Sample2-MessHall-FeasabilityStudy.pdf)
+- [Sample 2 - Design Document]({{site.baseurl}}/assets/ifsm300/Asgn3/FinalProject-Sample2-MessHall-FeasabilityStudy.pdf)
+- [Lucid CHart Educational Account](https://www.lucidchart.com/pages/usecase/education) if you have not already done so using your username@umuc.student.edu email account.
+{: .pdf}
 
 #### Complete Week 5 Discussion 
 
