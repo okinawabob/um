@@ -412,7 +412,7 @@ Assignment 3
 1. [Critical Chain Project Management vs. Critical Path](https://youtu.be/mpc_FdAt75A) 10m
 {: .vid}
 
-<!-->
+<!--  
 ## Week 7: Globalization and Legal Implications
 {: #Week7 .anchor}
 
@@ -459,8 +459,7 @@ Readings for this week:
 - [HTML5 and CSS3 Fundamentals - Udemy](https://www.udemy.com/html5-fundamentals-for-beginners/)
 - [Web Design for Web Developers - Udemy](https://www.udemy.com/web-design-secrets/)
 - [A blog about Japan, dating, social skills, and travel - Yuta Aoki](http://www.yutaaoki.com/blog/)
-{: .link}
-
+{: .link} 
 -->
 
 ## Week 7: Project Presentations
