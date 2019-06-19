@@ -313,7 +313,9 @@ This week you will have the opportunity to demonstrate your understanding of bus
 ## Week 5: Information Systems Development
 {: #Week5 .anchor}
 
-This week, you will learn about how information systems are developed, and how organizations decide whether to develop their systems in-house or outsource the systems development. To begin, you will read Chapter 10 in the e-textbook where you will learn about the Systems Development Life Cycle (SDLC), a widely accepted framework for the design and development of IT systems.  Then, there is a reading on requirements followed by articles on outsourcing and selecting a Software as a Service (SaaS) vendor.
+Do we need a new system? What tasks should it perform? Who would use it? Where would it be housed? These are questions that a company must answer before purchasing an IT system. Without these answers, what kind of risks would the company run into if they tried to use a newly purchased IT system?
+
+This week we will discuss how companies answer these types of questions. You will learn about how information systems are developed and how organizations decide whether to develop their systems in-house or to outsource the systems development. To begin, you will learn about the Systems Development Life Cycle (SDLC), a widely accepted framework for the design and development of IT systems. Before a system can be developed, we have to know what it is supposed to do. The tasks a system must perform or support are referred to as the requirements. It is also important to define how the system is expected to perform to deliver value to the users and to protect the data it houses. All of these lead to a decision as to whether the organization should build, buy, or outsource its IT solution. In addition to the “what, how, and why” of systems, it is helpful to have an understanding of the roles that people play (i.e., “who” is involved).
 
 ### Readings for week 5
 
@@ -367,9 +369,20 @@ Please download and print the following before class if you wish to take notes:
 ## Week 6: Project Planning
 {: #Week6 .anchor}
 
-This week, you will learn about IT project management and how it relates to the systems development life cycle (SDLC) process. To begin, you will read section III of the Solution Management module. Then there are three short articles to enhance your understanding of IT project management.
+This week, you will learn about IT project management and how it relates to the systems development life cycle (SDLC) process. You've heard the expression “plan the work and work the plan." But what does it take to develop an effective project plan and follow through to a successful completion? What technical and interpersonal skills do project managers need?
 
-Readings for this week:
+This week you will learn about how important an effective project manager is to the success of an IT project and what effective project management is all about.  Major tasks in an IT project include the selection of the system and the IT provider. You will learn about the most important aspects to consider for each of these tasks. Once those selections have been made, the project team will develop a plan for implementing the system, another area that we will cover this week.  You will have the opportunity to demonstrate your understanding of these activities when you develop the final project and present next week.
+
+### Readings for week 6
+
+- [IT Project Management]({{site.baseurl}}/assets/ifsm300/7-1-ProjectManagement.pdf)
+- [Implementing a SaaS Solution]({{site.baseurl}}/assets/ifsm300/6-3-ImplementingSaaS-Solution.pdf) 
+- [Developing a System Proposal]({{site.baseurl}}/assets/ifsm300/6-4-DevelopingSystemProposal.pdf) 
+- [Change Management]({{site.baseurl}}/assets/ifsm300/6-4-ChangeManagement.pdf) 
+- [eBook Chapter 6 Information Systems Security]({{site.baseurl}}/assets/ifsm300/6-1-Ch6-InformationSystemsSecurity.pdf) 
+{: .read}
+
+#### Optional Former Readings for week 6
 
 - [IT Project Management]({{site.baseurl}}/assets/ifsm300/wk6/ITProjectManagement.pdf) Introduction
 - [Solution Management]({{site.baseurl}}/assets/ifsm300/wk6/3-ProjectManagement.pdf) module reading on project management includes term definitions, the project management dilemma, scope management, scope creep, and project manager competencies.
@@ -382,7 +395,7 @@ Readings for this week:
 
 Assignment 3
 
-- [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/wk5/FinalProject.pdf "Right click this link and open in new tab")
+- [Assignment 3 - Final Project]({{site.baseurl}}/assets/ifsm300/Asgn3/FinalProject-Assignment-Req-2019su.pdf "Right click this link and open in new tab")
 - [Sign up for student account on LucidChart.com](https://www.lucidchart.com/pages/usecase/education) if you have not already done so using your username@umuc.student.edu email account.
 - [TeamGantt Project Management Tool](https://www.teamgantt.com/) Can sign up for free (1 project)
   - [Project Scheduling](https://fast.wistia.net/embed/iframe/ffqv52g8z1?popover=true) 1m
@@ -396,10 +409,10 @@ Assignment 3
 ### Watch YouTube Videos
 
 1. [Learn PMP Critical Path In 17 Minutes Flat!](https://youtu.be/t6KVR80B7Dc "Right click this link and open in new tab") 17m
-1. [Demming - Seven Deadly Diseases](https://deming.org/explore/seven-deadly-diseases) 16m
 1. [Critical Chain Project Management vs. Critical Path](https://youtu.be/mpc_FdAt75A) 10m
 {: .vid}
 
+<!-->
 ## Week 7: Globalization and Legal Implications
 {: #Week7 .anchor}
 
@@ -448,7 +461,9 @@ Readings for this week:
 - [A blog about Japan, dating, social skills, and travel - Yuta Aoki](http://www.yutaaoki.com/blog/)
 {: .link}
 
-## Week 8: Project Presentations
+-->
+
+## Week 7: Project Presentations
 {: #Week8 .anchor}
 
 ![Success]({{site.baseurl}}/assets/Wk8.png)
