@@ -142,6 +142,7 @@ GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/bu
 - [How a CPU Works – 8-bit](https://youtu.be/cNN_tTXABUA) 21m
 - [What Are Bits, and Are They Important? (32-Bit vs 64-Bit)](https://youtu.be/ptzGI9VaZmQ) 9m
 - [HDD vs SSD - What is the difference?](https://youtu.be/PKRB6umzeAg) 5m
+- [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://youtu.be/_h30HBYxtws)
 {: .vid}
 
 #### Videos about ALU (Arithmetic Logic Unit) binary operations (Optional):
