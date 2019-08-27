@@ -9,62 +9,101 @@ permalink: "/cmis102/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-![Me]({{site.baseurl}}/assets/MyMug150_2014.gif)This is a classic Face-to-Face class and we meet entirely in person. There will be no online discussions and if you have a question you can ask in class or email me at:  
+![Week 0]({{site.baseurl}}/assets/Wk0.png)This is a hybrid class and we will meet for one class per week and you will need to work through the course material online each week and submit weekly assignments. Most of the content provided covers computing from a programmers point of view to include data types and programming control structures. You weekly assignments will be analysing a described problem and create a solution algorithm to solve the problem sequentially using a flowcharts. You will learn to convert a flowchart to JavaScript code to make a working program.
 
-<script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMST385", "")</script>  
+We will be utilizing [Scratch](https://scratch.mit.edu) to do the flowchart and implement the algorithm. We will also discuss how to convert the algorithm to program code (C or JavaScript or Go).
+
+If you have a question you can ask in class or email me at:  
+
+<script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMIS102", "")</script>  
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the hosting URL  
 [http://islandman.org/um/cmis102/](http://islandman.org/um/cmis102/).
 
 ### So lets get started...
 
-This is a fast paced mathematics course in an 8 week session.
+This is a fast paced course in an 8 week session.
 
-I recommend you allocate approximately 18 hours per week to this course:
+I recommend you allocate approximately 15 hours per week to this course:
 
-- Lecture = 6 hours per week
+- Lecture = 3 hours per week
 - Reading study, video watching, and homework = 12 hours per week
-- Notebook computer running either: Linux, MacOS, or Windows
+- Notebook computer required running either: Linux, MacOS, or Windows
+- Browser installed should be Chrome
 {: .check}
+
+Before the first class, I recommend that you download and print the latest updated version of the of the Syllabus and other Week 1 materials described below which are posted as PDF files. Windows users can use Adobe Acrobat Reader or [PDFXChangeViewer](https://www.tracker-software.com/product/pdf-xchange-viewer)
 
 I recommend that you get started with Week 1 content today, by clicking Week 1 in the navigation bar above or scrolling down.
 
 Robert Laurie
 {: .signature}
 
-## Week 1: Number Theory and the Real Number System
+## Week 1: What is Data?
 {: #Week1 .week}
 
-week1
+![.]({{site.baseurl}}/assets/Wk1.png)This week in lecture we will be discussing the Syllabus, LEO course management system, and investigate Data representation for different number types and character codes. If you enrolled in IFSM201 with me we will expanding coverage in this class to include signed integers, floating point representation for rational numbers, and unicode to write content in any human language. Prior to class, please print and read both PDF files listed below:
 
-## Week 2: Algebra and Problem Solving
+- [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/cmis102/NumSysCode_CMIS102.pdf "Right click this link and open in new tab")
+- [Slide Set 1: Computers and Programming Languages]({{site.baseurl}}/assets/cmis102/01_ComputerLangJS.pdf "Right click this link and open in new tab")
+{: .pdf}
+
+The LEO - Discussions are a kind of collective online discussion. This week you need to utilize five online discussions to introduce yourself and demonstrate that you have learned how to convert between various number systems and codes:
+
+- Post your Introduction in the Discussion >> Introductions Topic
+- Binary to Decimal Conversion
+- Unsigned Binary addition
+- Signed Binary Addition
+- Convert your name from Unicode to Hexadecimal
+
+#### Cyber-Cafe [Optional]
+
+Post your non-course or course related comments or ramblings here. Maybe no one will read them except for me. Computers can be frustrating until you realize they are dumb binary machines and with good software we can fix that. That is what this course is about; How to write good procedural command line software in a programming language.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HtTUsOKjWyQ?wmode=opaque&amp;rel=0" frameborder="0"></iframe>
+
+#### YouTube Video Links:
+
+Watch the following videos to enhance your learning of data representations:
+
+1. [WATCH: Mechanical Binary Counter Video](https://youtu.be/zELAfmp3fXY "Right click this link and open in new tab") 2m
+1. [WATCH: Converting Decimal, Binary and Hexadecimal Video](https://youtu.be/aW3qCcH6Dao "Right click this link and open in new tab") 17m
+1. [WATCH: ASCII Video](https://youtu.be/UPlR4eMMCmI "Right click this link and open in new tab") 8m
+1. [WATCH: Decode unicode: TEDxVienna Video](https://youtu.be/IRdupNXpm8k "Right click this link and open in new tab") 18m
+1. [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
+1. [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
+1. [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m
+1.[Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
+{: .vid}
+
+## Week 2: Program Design and Implementation Tools
 {: #Week2 .week}
 
 week 2
 
-
-
-### YouTube Video Links:
-
-1. [Mathematics and sex &#124; Clio Cresswell &#124; TEDxSydney ](https://youtu.be/H2vN2QXZGnc "Right click this link and open in new tab") 13m
-
-## Week 3: Polynomials, Factoring, and Quadratic Equations
+## Week 3: Developing a Sequential Program
 {: #Week3 .week}
 
   
-## Week 4: Graphing, Functions, and 2-Variable Equations
+## Week 4: Selection Structures
 {: #Week4 .week}
   
 
-## Week 5: Financial Mathematics
+## Week 5: Repetition Structures
 {: #Week5 .week}
 
 
-## Week 7: Statistics
+## Week 6: Arrays
+{: #Week6 .week}
+
+## Week 7: Functions and Code Reuse
 {: #Week7 .week}
 
-## Week 8: Final Exam Time
+## Week 8: Project Presentations
 {: #Week8 .week}
 
-I hope you feel are more comfortable with mathematics after taking this course and you will find it a useful skill when you apply it in life situations. It is your best critical thinking skill to help you make financial decisions. Mathematics is the basis of technology development and understanding physical sciences. If you would like to progress in mathematics, please take the placement test and request MATH107 College Algebra. MATH107 is transferable to all universities and colleges.
+This is the last week of our classes. This week you will be doing the talking doing presentations of your final project.
 
+All work must be completed by Thursday this week. Anything completed after Thursday will not be considered when determining your course grade.
+
+It was a pleasure to have you in the class this session and I wish you much success with your education and career development.
