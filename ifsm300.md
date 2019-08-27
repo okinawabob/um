@@ -29,6 +29,9 @@ I recommend you allocate approximately 15 hours per week to this course or appro
 Robert Laurie
 {: .signature}
 
+<!-- 
+
+
 ## Week 1: Informations Systems in Organizations
 {: #Week1 .anchor}
 
@@ -470,3 +473,4 @@ This week you will do your final project presentations in class and it is mandat
 
 After going through IFSM300 this term I hope that you feel more comfortable with spreadsheets, databases, and project planning. They are important life skills that can be applied in your professional and personal life.
 
+-->
