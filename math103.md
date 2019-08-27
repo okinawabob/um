@@ -3,7 +3,7 @@ layout: umuc
 title: "MATH103"
 subtitle: "College Mathematics"
 image: "/assets/UMUC-Asia-600x69.png"
-permalink: "/103/"
+permalink: "/math103/"
 ---
 
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
@@ -49,6 +49,10 @@ I recommend that you get started with Week 1 content today, by clicking Week 1 i
 
 Robert Laurie
 {: .signature}
+
+
+<!--  
+
 
 ## Week 1: Number Theory and the Real Number System
 {: #Week1 .anchor}
@@ -445,8 +449,9 @@ Your calculator may have a Statistics (STAT) mode that would do the standard dev
 
 The Final Exam is the last class of the term. The Final Exam is comprehensive and any material covered in this eight week course may be on the Final Exam. The Final Exam is closed book, but you are permitted to bring in pencils, eraser, calculator, [Formula Sheet]({{site.baseurl}}/assets/math103/Math103FormulaSheetP1.pdf "Right click this link and open in new tab") and [z-Score Tables]({{site.baseurl}}/assets/math103/Math103FormulaSheetP23.pdf "Right click this link and open in new tab"). An example [Final Exam]({{site.baseurl}}/assets/math103/Math%20103%20Practice%20Final%20Exam.pdf "Right click this link and open in new tab") and [Answers]({{site.baseurl}}/assets/math103/Math%20103%20Practice%20Final%20Exam%20Solutions.pdf "Right click this link and open in new tab") can be downloaded and viewed here.  
 
-Please bring your notebook contining homework, which I will examine for borderline grade cases. 
+Please bring your notebook continuing homework, which I will examine for borderline grade cases. 
 Please bring your Tests 1, 2, and 3 to me during the final exam time. I re-examine these tests when determining final grades if you are within a few points of the next grade in the course.  
 
 I hope you feel are more comfortable with mathematics after taking this course and you will find it a useful skill when you apply it in life situations. It is your best critical thinking skill to help you make financial decisions. Mathematics is the basis of technology development and understanding physical sciences. If you would like to progress in mathematics, please take the placement test and request MATH107 College Algebra. MATH107 is transferable to all universities and colleges.
 
+-->
