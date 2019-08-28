@@ -1,7 +1,7 @@
 ---
 layout: umuc
 title: "CMIS102"
-subtitle: "Intro to Computer Programming"
+subtitle: "Problem Solving and Algorithms"
 image: "/assets/UMUC-Asia-600x69.png"
 permalink: "/cmis102/"
 ---
@@ -9,9 +9,9 @@ permalink: "/cmis102/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-![Week 0]({{site.baseurl}}/assets/Wk0.png)This is a hybrid class and we will meet for one class per week and you will need to work through the course material online each week and submit weekly assignments. Most of the content provided covers computing from a programmers point of view to include data types and programming control structures. You weekly assignments will be analysing a described problem and create a solution algorithm to solve the problem sequentially using a flowcharts. You will learn to convert a flowchart to JavaScript code to make a working program.
+![Week 0]({{site.baseurl}}/assets/Wk0.png)This is a hybrid class and we will meet for one class per week and you will need to work through the course material online each week and submit weekly assignments. Most of the content provided covers computing from a programmers point of view to include data types and programming control structures. You weekly assignments will be analyzing a described problem and create a solution algorithm to solve the problem sequentially using a flowcharts. You will learn to convert a flowchart to code to make a working program. For this class we will use the Go language (Golang) developed by Google. It is a new and very powerful language that is designed for modern multi-core processors and networking. Go is primarily a command line compiled language that is best used with the [Visual Studio Code] editor. 
 
-We will be utilizing [Scratch](https://scratch.mit.edu) to do the flowchart and implement the algorithm. We will also discuss how to convert the algorithm to program code (C or JavaScript or Go).
+We will be utilizing [Scratch](https://scratch.mit.edu) to do the flowchart algorithm and you may implement the program solution using scratch.
 
 If you have a question you can ask in class or email me at:  
 
@@ -55,10 +55,13 @@ The LEO - Discussions are a kind of collective online discussion. This week you 
 - Unsigned Binary addition
 - Signed Binary Addition
 - Convert your name from Unicode to Hexadecimal
+{: .check}
 
 #### Cyber-Cafe [Optional]
 
 Post your non-course or course related comments or ramblings here. Maybe no one will read them except for me. Computers can be frustrating until you realize they are dumb binary machines and with good software we can fix that. That is what this course is about; How to write good procedural command line software in a programming language.
+
+Programming can be fun and frustrating at times too, but a good lucrative career. The following video is what my first programming job was like. Computers are much better now.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HtTUsOKjWyQ?wmode=opaque&amp;rel=0" frameborder="0"></iframe>
 
@@ -72,14 +75,22 @@ Watch the following videos to enhance your learning of data representations:
 1. [WATCH: Decode unicode: TEDxVienna Video](https://youtu.be/IRdupNXpm8k "Right click this link and open in new tab") 18m
 1. [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
 1. [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
-1. [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m
-1.[Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
+1. [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m  
+1. [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
 {: .vid}
 
-## Week 2: Program Design and Implementation Tools
+## Week 2: Program Design and Tools
 {: #Week2 .week}
 
-week 2
+
+### Visual Studio Code Editor YouTube videos
+
+1. [Web Page with Visual Studio Code](https://youtu.be/o_qAFQslASM)
+1. [Visual Studio Code - Getting Started with Git(Hub)](https://youtu.be/NTY5VELbCWI)
+1. [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs)
+1. [5 Awesome Visual Studio Code Extensions for Writing HTML](https://youtu.be/bJiIzz8mFMs)
+
+https://www.youtube.com/watch?v=BF99zhQZoOc&list=PLSak_q1UXfPocMZFm_L6Ix215A6B0zS8N
 
 ## Week 3: Developing a Sequential Program
 {: #Week3 .week}
