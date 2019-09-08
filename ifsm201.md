@@ -421,8 +421,15 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
 
-## Week 6: Ethics, Privacy,  and Security
+## Week 6: Introduction to computer programmng
 {: #Week6 .anchor}
+
+ ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
+
+
+
+## Week 7: Ethics, Privacy,  and Security
+{: #Week7 .anchor}
 
 ![.]({{site.baseurl}}/assets/ifsm201/Wk6.png)This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
 
@@ -490,7 +497,6 @@ Work through Assignment 5 - Reserach Presentation as described in the attached 
 
 Submit only **Asgn5-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class. 
 
-
 #### Quiz 5 must be completed before our next class
 
 The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
@@ -501,18 +507,9 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week.
 
-<!--
 
-## Week 7: Future created by Technology
-{: #Week7 .anchor}
-
- ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
-
- -->
-
-## Week 7: Research Presentations
-{: #Week7 .anchor}
-
+## Week 8: Research Presentations
+{: #Week8 .anchor}
 
 ![.]({{site.baseurl}}/assets/ifsm201/Wk8.png)This is the last week of our class. You will be doing the talking doing presentations about your research topic.
 
