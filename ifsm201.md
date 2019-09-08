@@ -486,9 +486,9 @@ This week you will apply PowerPoint skills to Assignment 5 - Research Presentati
 |  | #20 Animating | #18 Arranging obj.
 |  |   | #19 Animating
 
-### Activities this week 
+### Activities this week  
 
-#### Assignment 5: Research Presentation
+#### Assignment 5: Research Presentation 
 
 Work through Assignment 5 - Reserach Presentation as described in the attached file:  
 
