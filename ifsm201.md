@@ -544,5 +544,3 @@ Digital Media and Web Technology junior level courses that may appeal to Busines
 - CMST290 =Introduction to Interactive Design
 - CMST385 = Web Design and Technology 1 (prereq CMST290)
 - CMST386 = Web Design and Technology 2 (prereq CMST385)
-
-
