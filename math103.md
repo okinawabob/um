@@ -50,10 +50,6 @@ I recommend that you get started with Week 1 content today, by clicking Week 1 i
 Robert Laurie
 {: .signature}
 
-
-<!--  
-
-
 ## Week 1: Number Theory and the Real Number System
 {: #Week1 .anchor}
 
@@ -454,4 +450,3 @@ Please bring your Tests 1, 2, and 3 to me during the final exam time. I re-exami
 
 I hope you feel are more comfortable with mathematics after taking this course and you will find it a useful skill when you apply it in life situations. It is your best critical thinking skill to help you make financial decisions. Mathematics is the basis of technology development and understanding physical sciences. If you would like to progress in mathematics, please take the placement test and request MATH107 College Algebra. MATH107 is transferable to all universities and colleges.
 
--->
