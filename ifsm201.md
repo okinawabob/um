@@ -427,7 +427,8 @@ There are no required discussions this week.
 
  ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)This week we will examine the topic of computer programming. The online tool Scratch will be discussed as a means to design program sequencing and implementation. An optional assignment 6 will be proposed which can be utilized to replace your lowest assignment or quiz score. The Python programming language will also be discussed in examples and you are welcome to code assignment 6 in Python if you prefer instead of using Scratch. However, Scratch allows you to create and program multimedia for very appealing programs. If you are curious about programming then please consider taking the first step by enrolling in CMIS102 for Fall 2. 
 
-[Slide Set 8 - Programming](({{site.baseurl}}/assets/ifsm201/SlideSet-8-Programming-py.pdf))
+[Slide Set 8 - Programming](({{site.baseurl}}/assets/ifsm201/SlideSet-8-Programming-py.pdf))  
+
 [Assignment 6 - Programming in Scratch]({{site.baseurl}}/assets/ifsm201/A6-Prog-Scratch.pdf)
 
 Links for Scratch programming:
