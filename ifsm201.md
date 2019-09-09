@@ -418,13 +418,36 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 
 **No Quiz** this week.  Finish up your **Academic Integrity Tutorial** with a score of 90% or higher. You should be doing it with the Chrome browser and print the certificate as a PDF file and upload to LEO in the appropriate assignment folder. Save a copy for later use as you may have to do the same tutorial for other classes with UMUC.
 
-If you have any questions about the class or assignments feel free to post in the 
-LEO Discussion > Ask your Professor. There are no required discussions this week. 
+If you have any questions about the class or assignments feel free to post in the  
+*LEO Discussion > Ask your Professor*  
+There are no required discussions this week. 
 
 ## Week 6: Introduction to computer programmng
 {: #Week6 .anchor}
 
- ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)
+ ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)This week we will examine the topic of computer programming. The online tool Scratch will be discussed as a means to design program sequencing and implementation. An optional assignment 6 will be proposed which can be utilized to replace your lowest assignment or quiz score. The Python programming language will also be discussed in examples and you are welcome to code assignment 6 in Python if you prefer instead of using Scratch. However, Scratch allows you to create and program multimedia for very appealing programs. If you are curious about programming then please consider taking the first step by enrolling in CMIS102 for Fall 2. 
+
+[Slide Set 8 - Programming](({{site.baseurl}}/assets/ifsm201/SlideSet-8-Programming-py.pdf))
+[Assignment 6 - Programming in Scratch]({{site.baseurl}}/assets/ifsm201/A6-Prog-Scratch.pdf)
+
+Links for Scratch programming:
+
+- <https://scratch.mit.edu/> and sign up for an online account
+- <https://www.coursera.org/learn/intro-programming> is a good tutorial
+- [YouTube Scratch Video tutorial starting with music](https://www.youtube.com/playlist?list=PLHqz-wcqDQIExCWk_EgaiZ6hLt4QX2Rxn)
+- [YouTube Scratch Video animation tutorials](https://www.youtube.com/playlist?list=PL0-84-yl1fUki_zQ1ouwGN8t3spCTLnpS)
+- [Udemy Course covering Scratch](https://www.udemy.com/scratch-game-programming/)
+- [Free Scratch Book](https://inventwithscratch.com/book/)
+
+Links for Python Programming:
+- [Thonny Python IDE with Python 3](https://thonny.org/)
+- [Introducing Thonny](https://youtu.be/nwIgxrXP-X4)
+- [Udemy: Learn the Building Blocks of Python for Absolute Beginners](https://www.udemy.com/course/python-fundamental-basics/)
+- [YouTube: Python Programming Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
+
+If you have any questions about the class or assignments feel free to post in the  
+*LEO Discussion > Ask your Professor*  
+There are no required discussions this week. 
 
 
 
