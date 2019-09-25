@@ -449,6 +449,10 @@ Links for Python Programming:
 ### Python code examples 
 
 You can run these code examples using either <https://thonny.org/> or <https://repl.it>
+
+Viewable with a repl.it account at <https://repl.it/@iwakunibob/coconuts>
+
+<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/coconuts?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
   
 ```python
 # How many Macaws are needed to carry a coconut?
@@ -463,6 +467,7 @@ nMacawQty = math.ceil(nCoconutWt/fCarryWt)
 # Display results with description string
 print(nMacawQty, "macaws needed to carry one coconut")
 ```
+Viewable with a repl.it account at <https://repl.it/@iwakunibob/coconuts>
 
 ```python
 # Temperature Convertor
