@@ -446,6 +446,22 @@ Links for Python Programming:
 - [Udemy: Learn the Building Blocks of Python for Absolute Beginners](https://www.udemy.com/course/python-fundamental-basics/)
 - [YouTube: Python Programming Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
 
+### Python code Example How many macaws are required to carry a coconut?
+
+```python
+# How many Macaws are needed to carry a coconut?
+# Author: Robert Laurie
+import math #Required to use math.ceil function
+fCarryRatio = 1/3  #float Carry ratio is 1/3 of weight
+nCoconutWt = 1450  #int Coconut weight = 1450 grams
+nMacawWt = 900     #int Macaw bird weight = 900 grams
+fCarryWt = nMacawWt * fCarryRatio   #float Calculation
+# help(math.ceil) can get info about a function
+nMacawQty = math.ceil(nCoconutWt/fCarryWt)
+# Display results with description string
+print(nMacawQty, "macaws needed to carry one coconut")
+```
+
 If you have any questions about the class or assignments feel free to post in the  
 *LEO Discussion > Ask your Professor*  
 There are no required discussions this week. 
