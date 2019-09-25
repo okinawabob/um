@@ -447,6 +447,8 @@ Links for Python Programming:
 - [YouTube: Python Programming Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
 
 ### Python code examples 
+
+You can run these code examples using either <https://thonny.org/> or <https://repl.it>
   
 ```python
 # How many Macaws are needed to carry a coconut?
