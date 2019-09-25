@@ -446,21 +446,37 @@ Links for Python Programming:
 - [Udemy: Learn the Building Blocks of Python for Absolute Beginners](https://www.udemy.com/course/python-fundamental-basics/)
 - [YouTube: Python Programming Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
 
-### Python code examples 
+### Python is a common popular general purpose language
 
 You can run these code examples using either <https://thonny.org/> or <https://repl.it>
 
-Viewable with a repl.it account at <https://repl.it/@iwakunibob/coconuts>
+#### Python Coconut program viewable at <https://repl.it/@iwakunibob/coconuts>
 
 <iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/coconuts?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-Viewable with a repl.it account at <https://repl.it/@iwakunibob/temperatures>
+#### Python Temperature program viewable at <https://repl.it/@iwakunibob/temperatures>
 
 <iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/temperatures?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-Viewable with a repl.it account at <https://repl.it/@iwakunibob/diceroll>
+#### Python Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroll>
 
 <iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/diceroll?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+### JavaScript is very popular Language web browser language
+
+#### JS Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroller-js>
+
+<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/diceroller-js?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+- JavaScript program for Temperature converter [available here]({{site.baseurl}}/assets/ifsm201/js/Temperature.html)
+- JavaScript GUI program for Casino chip counting [available here]({{site.baseurl}}/assets/ifsm201/js/casino.html)
+- JavaScript GUI program for Risk Game Dice Roller program [available here](http://islandman.org/risk/index.html).
+
+### Go is a new compiled and very fast language created by Google
+
+#### Go Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroller-go>
+
+<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/diceroller-go?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 If you have any questions about the class or assignments feel free to post in the  
 *LEO Discussion > Ask your Professor*  

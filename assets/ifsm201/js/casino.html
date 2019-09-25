@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Casino Chip Counter - GUI</title>
+		<link rel="stylesheet" href="casino.css" type="text/css"/>
+		<script type="text/javascript">
+			
+			var nReceiptNum = 1;
+			
+			function addReceipt() {
+				document.frmCasino.txtTotalReceipts.value = parseInt(document.frmCasino.txtTotalReceipts.value)
+					+ parseInt(document.frmCasino.txtReceipt.value);
+				document.frmCasino.txaReceiptsDisplay.value += "Receipt " + (nReceiptNum++) + " = $"
+					+ document.frmCasino.txtReceipt.value + "\n";
+			}
+			
+			function changeResidency() {
+				if(document.frmCasino.mnuRes.selectedIndex == 1) // USA
+					document.frmCasino.txtSSN.disabled = false;
+				else if(document.frmCasino.mnuRes.selectedIndex == 2) // CNMI
+					document.frmCasino.txtSSN.disabled = false;
+				else if(document.frmCasino.mnuRes.selectedIndex == 3) // Foreign
+				{
+					document.frmCasino.txtSSN.disabled = true;
+					document.frmCasino.txtSSN.value = "";
+				}
+				else {
+					alert("Select a Residency");
+					document.frmCasino.txtSSN.disabled = true;
+					document.frmCasino.txtSSN.value = "";
+				}
+			}
+			
+			function changeChips() {
+				var ChipValue = document.getElementById("txtChipValue");
+				document.frmCasino.txtChipQty.value = 
+					parseInt(document.frmCasino.txtChip5.value)
+					+ parseInt(document.frmCasino.txtChip20.value)
+					+ parseInt(document.frmCasino.txtChip50.value)
+					+ parseInt(document.frmCasino.txtChip100.value)
+					+ parseInt(document.frmCasino.txtChip500.value);
+				document.frmCasino.txtChipValue.value =
+					(parseInt(document.frmCasino.txtChip5.value) * 5
+					+ parseInt(document.frmCasino.txtChip20.value) * 20
+					+ parseInt(document.frmCasino.txtChip50.value) * 50
+					+ parseInt(document.frmCasino.txtChip100.value) * 100
+					+ parseInt(document.frmCasino.txtChip500.value) * 500).toFixed(2);
+			}
+			
+			function CalculateCashOut() {
+				var fTaxRate = 0;
+				document.frmCasino.txtWinnings.value = (parseInt(document.frmCasino.txtChipValue.value)
+					- parseInt(document.frmCasino.txtTotalReceipts.value)).toFixed(2);
+				if (parseInt(document.frmCasino.txtWinnings.value) > 0) {					
+					if (document.frmCasino.mnuRes.selectedIndex == 1) {
+						if (document.frmCasino.txtSSN.value == "") {
+							alert("You must enter a\nSocial Security Number");
+							return;
+						}
+						fTaxRate = 0.20;						
+					}
+					else if (document.frmCasino.mnuRes.selectedIndex == 2) {
+						if (document.frmCasino.txtSSN.value == "") {
+							alert("You must enter a\nSocial Security Number");
+							return;
+						}
+						fTaxRate = 0.10;						
+					}
+					else if (document.frmCasino.mnuRes.selectedIndex == 0) {
+						alert("You must select a residency");
+						document.frmCasino.txtSSN.value == ""
+					}					
+					else {
+						document.frmCasino.txtSSN.value == ""
+						fTaxRate = 0.0;	
+					}
+					document.frmCasino.txtTax.value = (parseFloat(document.frmCasino.txtWinnings.value) * fTaxRate).toFixed(2);
+					document.frmCasino.txtCashOut.value = (parseFloat(document.frmCasino.txtChipValue.value)
+						- parseFloat(document.frmCasino.txtTax.value)).toFixed(2);
+				}
+				else {
+					document.frmCasino.txtTax.value = 0;
+					document.frmCasino.txtCashOut.value = parseFloat(document.frmCasino.txtChipValue.value).toFixed(2);
+				}
+				return;
+			}
+		</script>
+	</head>
+	<body>
+		<h1>Tinian Dynasty Casino - Chip Counter</h1>
+		<form name="frmCasino" id="frmCasino" action="#">
+			<fieldset id="fsDataEntry">
+				<legend>Customer Data Input</legend>
+				<p>Enter Receipt Value:</p>
+				<p>
+					<input name="txtReceipt" size="10" tabindex="1" type="text">
+					<input name="btnReceipt" tabindex="2" type="button" value="Enter Receipt" onclick="addReceipt()">
+				</p>
+				<hr/>
+				<p>Enter Chip Quantities:</p>
+				<p>
+					<input name="txtChip5" size="3" tabindex="3" type="text" value="0" onkeyup="changeChips()">
+					Black = $5
+				</p>
+				<p>
+					<input name="txtChip20" size="3" tabindex="4" type="text" value="0" onkeyup="changeChips()">
+					Blue = $20
+				</p>
+				<p>
+					<input name="txtChip50" size="3" tabindex="5" type="text" value="0" onkeyup="changeChips()">
+					Red = $50
+				</p>
+				<p>
+					<input name="txtChip100" size="3" tabindex="6" type="text" value="0" onkeyup="changeChips()"">
+					Green = $100
+				</p>
+				<p>
+					<input name="txtChip500" size="3" tabindex="7" type="text" value="0" onkeyup="changeChips()"">
+					Gold = $500
+				</p>
+				<hr/>
+				<p>Residency:</p>
+				<p>
+					<select name="mnuRes" onchange="changeResidency()">
+						<option selected="selected">- Choose One -</option>
+						<option>USA (Guam included)</option>
+						<option>CNMI (Saipan, Tinian)</option>
+						<option>Foreign (International)</option>
+					</select>
+				</p>
+
+				<p>Social Security Number:</p>
+				<p>
+					<input name="txtSSN" maxlength="9" size="9" tabindex="11" type="text" value="" disabled="disabled">
+				</p>
+				<p id="buttons">
+					<input name="btnCalculate" type="button" value="Calculate Cash Out" onclick="CalculateCashOut()">
+					<input name="btnReset" type="reset" value="Clear"/>
+				</p>
+			</fieldset>
+			<fieldset id="fsResults">
+				<legend>
+					Gambling Results
+				</legend>
+				<p>
+					Receipts Total:<input name="txtTotalReceipts" id="txtTotalReceipts" type="text" value="0" size="10" readonly="readonly"/>
+				</p>
+				<p id="txaLabel">Receipts Entered:</p>
+				<p><textarea name="txaReceiptsDisplay" cols="20" rows="8" readonly="readonly"></textarea></p>
+				<hr/>
+				<p>
+					Chip Quantity: <input readonly="readonly" name="txtChipQty" size="10" type="text"/>
+				</p>
+				<p>
+					Winnings: <input readonly="readonly" name="txtWinnings" size="10" type="text"/>
+				</p>
+				<p>
+					Chip Value: <input readonly="readonly" name="txtChipValue" size="10" type="text"/>
+				</p>
+				<p>
+					Tax Withheld: <input readonly="readonly" name="txtTax" size="10" type="text"/>
+				</p>
+				<p>
+					Cash Out: <input readonly="readonly" name="txtCashOut" size="10" type="text"/>
+				</p>
+			</fieldset>
+		</form>
+	</body>
+</html>
