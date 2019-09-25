@@ -420,7 +420,7 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 
 If you have any questions about the class or assignments feel free to post in the  
 *LEO Discussion > Ask your Professor*  
-There are no required discussions this week. 
+There are no required discussions this week.
 
 ## Week 6: Introduction to computer programmng
 {: #Week6 .anchor}
@@ -453,63 +453,14 @@ You can run these code examples using either <https://thonny.org/> or <https://r
 Viewable with a repl.it account at <https://repl.it/@iwakunibob/coconuts>
 
 <iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/coconuts?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-  
-```python
-# How many Macaws are needed to carry a coconut?
-# Author: Robert Laurie
-import math #Required to use math.ceil function
-fCarryRatio = 1/3  #float Carry ratio is 1/3 of weight
-nCoconutWt = 1450  #int Coconut weight = 1450 grams
-nMacawWt = 900     #int Macaw bird weight = 900 grams
-fCarryWt = nMacawWt * fCarryRatio   #float Calculation
-# help(math.ceil) can get info about a function
-nMacawQty = math.ceil(nCoconutWt/fCarryWt)
-# Display results with description string
-print(nMacawQty, "macaws needed to carry one coconut")
-```
-Viewable with a repl.it account at <https://repl.it/@iwakunibob/coconuts>
 
-```python
-# Temperature Convertor
-# Author: Robert Laurie
-print('Temperature Convertor')
-sUnit = input("Enter Unit (C/F): ")
-if sUnit == 'c' or sUnit == 'C':
-    sInp = input("Enter °C: ")
-    fCels = float(sInp)
-    fFahr = 1.8 * fCels + 32
-    print(fCels,'°C = ',fFahr,'°F')
-elif sUnit == 'f' or sUnit == 'F':
-    sInp = input("Enter °F: ")
-    fFahr = float(sInp)
-    fCels = (fFahr - 32)/1.8
-    print(fFahr,'°F = ',fCels,'°C')
-else:
-    print("You must enter F or C")
-print("Done")
-```
+Viewable with a repl.it account at <https://repl.it/@iwakunibob/temperatures>
 
-```python
-# Dice Roller
-# Author: Robert Laurie
-import random as rd, time as tm #Modules used
-sInp = input("How many rolls? ")
-nCnt=[0,0,0,0,0,0,0,0,0,0,0,0,0] #Roll counters list
-nTimeStart = tm.time() #Execution timer start time
-for nI in range(int(sInp)): #for loop structure
-    nSm = rd.randint(1,6) + rd.randint(1,6) #Roll 2 Dice
-    nCnt[nSm] = nCnt[nSm] + 1 #Increment list element
-print("Roll two dice", sInp,"times results")
-nScale = max(nCnt) // 15 # Scale bar graph ♦
-if nScale == 0: nScale = 1
-print("Each ♦ represents", nScale, "rolls",'\n'+'─'*35)
-for nI in range(2, 13, 1): #for loop structure
-    sBr = '♦'*(nCnt[nI]//nScale) # Create bar
-    print("Roll{:3d} ={:7d} {}".format(nI, nCnt[nI], sBr))
-nTime = (tm.time() - nTimeStart)*1000 # Runtime
-print('─'*35,"\nRun time = {:6.3f} mSec".format(nTime))
-```
+<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/temperatures?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+Viewable with a repl.it account at <https://repl.it/@iwakunibob/diceroll>
+
+<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/diceroll?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 If you have any questions about the class or assignments feel free to post in the  
 *LEO Discussion > Ask your Professor*  
