@@ -446,8 +446,8 @@ Links for Python Programming:
 - [Udemy: Learn the Building Blocks of Python for Absolute Beginners](https://www.udemy.com/course/python-fundamental-basics/)
 - [YouTube: Python Programming Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
 
-### Python code Example How many macaws are required to carry a coconut?
-
+### Python code examples 
+  
 ```python
 # How many Macaws are needed to carry a coconut?
 # Author: Robert Laurie
@@ -462,11 +462,51 @@ nMacawQty = math.ceil(nCoconutWt/fCarryWt)
 print(nMacawQty, "macaws needed to carry one coconut")
 ```
 
+```python
+# Temperature Convertor
+# Author: Robert Laurie
+print('Temperature Convertor')
+sUnit = input("Enter Unit (C/F): ")
+if sUnit == 'c' or sUnit == 'C':
+    sInp = input("Enter °C: ")
+    fCels = float(sInp)
+    fFahr = 1.8 * fCels + 32
+    print(fCels,'°C = ',fFahr,'°F')
+elif sUnit == 'f' or sUnit == 'F':
+    sInp = input("Enter °F: ")
+    fFahr = float(sInp)
+    fCels = (fFahr - 32)/1.8
+    print(fFahr,'°F = ',fCels,'°C')
+else:
+    print("You must enter F or C")
+print("Done")
+```
+
+```python
+# Dice Roller
+# Author: Robert Laurie
+import random as rd, time as tm #Modules used
+sInp = input("How many rolls? ")
+nCnt=[0,0,0,0,0,0,0,0,0,0,0,0,0] #Roll counters list
+nTimeStart = tm.time() #Execution timer start time
+for nI in range(int(sInp)): #for loop structure
+    nSm = rd.randint(1,6) + rd.randint(1,6) #Roll 2 Dice
+    nCnt[nSm] = nCnt[nSm] + 1 #Increment list element
+print("Roll two dice", sInp,"times results")
+nScale = max(nCnt) // 15 # Scale bar graph ♦
+if nScale == 0: nScale = 1
+print("Each ♦ represents", nScale, "rolls",'\n'+'─'*35)
+for nI in range(2, 13, 1): #for loop structure
+    sBr = '♦'*(nCnt[nI]//nScale) # Create bar
+    print("Roll{:3d} ={:7d} {}".format(nI, nCnt[nI], sBr))
+nTime = (tm.time() - nTimeStart)*1000 # Runtime
+print('─'*35,"\nRun time = {:6.3f} mSec".format(nTime))
+```
+
+
 If you have any questions about the class or assignments feel free to post in the  
 *LEO Discussion > Ask your Professor*  
 There are no required discussions this week. 
-
-
 
 ## Week 7: Ethics, Privacy,  and Security
 {: #Week7 .anchor}
