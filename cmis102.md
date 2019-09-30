@@ -78,15 +78,37 @@ Watch the following videos to enhance your learning of data representations:
 ## Week 2: Program Design and Tools
 {: #Week2 .week}
 
+This week PowerPoint slides and activity wil focus on learning HTML. The HTML language is a document description language and Assignment 1 requires creating three HTML documents and hosting them on your Github web host. These activities will be your first steps in computer coding.
 
-### Visual Studio Code Editor YouTube videos
+Please download and print the following two documents in color before class this week:
+
+- [Slide Set 2: HTML Introduction]({{site.baseurl}}/assets/cmis102/02_HTML_Introduction.pdf "Right click this link and open in new tab")
+- [Assignment 1: Computer Coding]({{site.baseurl}}/assets/cmis102/CMIS102A01.pdf "Right click this link and open in new tab")
+
+Course content covering HTML5 can be found at [w3schools.com/html](https://www.w3schools.com/html/). Please work through the tutorial content for HTML Introduction through HTML Colors. Then attempt to complete Assignment 1 using online or offline tools.
+
+
+### Online cloud based editor [Repl.it](https://repl.it/)
+
+Sign up for a [Repl.it](https://repl.it/) account. You may use your Github.com account or an email address to set up this account.
+
+After you have created an account and confirmed it via email you will then create your first project by Create a new repl selecting **HTML, CSS, JS**. 
+This will create the required default HTML code for you. 
+
+Watch and take notes for these 9 videos [HTML Tutorials - using repl.it](https://www.youtube.com/playlist?list=PL2cGEaSEhir6QbCn1oKARAnVAHZhwgSDT)
+
+Please work through Assignment 1 utilizing Repl.it creating a separate Repl for each part or Assignment 1.
+
+### Offline code editor recommendation is [Visual Studio Code](https://code.visualstudio.com/) 
+
+VS Code is an open source editor project created by Microsoft and available for Windows, MacOS, or Linux. It can be utilized without being online when writing code and can be used for many computer programming languages.
+
+#### Visual Studio Code Editor YouTube videos
 
 1. [Web Page with Visual Studio Code](https://youtu.be/o_qAFQslASM)
 1. [Visual Studio Code - Getting Started with Git(Hub)](https://youtu.be/NTY5VELbCWI)
 1. [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs)
-1. [5 Awesome Visual Studio Code Extensions for Writing HTML](https://youtu.be/bJiIzz8mFMs)
-
-https://www.youtube.com/watch?v=BF99zhQZoOc&list=PLSak_q1UXfPocMZFm_L6Ix215A6B0zS8N
+1. [5 Awesome Visual Studio Code Extensions for Writing HTML](https://youtu.be/Z5RkLrSDlFA)
 
 ## Week 3: Developing a Sequential Program
 {: #Week3 .week}
