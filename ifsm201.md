@@ -406,6 +406,19 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 - Work through [Assignment 4: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf). You must upload a file to make a submission on LEO. Create a Word document with your website URL and describe your experience with the website project. Also paste your URL and comments in the comment area when you submit and upload this file. I created a sample website at <http://iwakunibob.github.io>
 {: .check}
 
+##### Student Websites 
+
+| Person| URL
++---+----
+| Abbey | <https://abenally0628.github.io>
+| Mayumi | <https://wreathstudiomayumi.github.io/>
+| Maurice | <https://mo7perez.github.io/>
+| Rick | <https://yoohootoo.github.io/>
+| Sam | <https://samuelhtommy.github.io/>
+| Mami | <https://mamimuramoto.github.io/>
+| David | <https://globber92d.github.io>
+
+
 #### Discussion for Week 5
 
 - The Discussion for this week will be converting a 32-bit IPV4 address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address. As with all discussion you will need to reply post to two other student's posts.
