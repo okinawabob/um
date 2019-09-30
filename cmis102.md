@@ -9,16 +9,22 @@ permalink: "/cmis102/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-![Week 0]({{site.baseurl}}/assets/Wk0.png)This is a hybrid class and we will meet for one class per week and you will need to work through the course material online each week and submit weekly assignments. Most of the content provided covers computing from a programmers point of view to include data types and programming control structures. You weekly assignments will be analyzing a described problem and create a solution algorithm to solve the problem sequentially using a flowcharts. You will learn to convert a flowchart to code to make a working program. For this class we will use the Go language (Golang) developed by Google. It is a new and very powerful language that is designed for modern multi-core processors and networking. Go is primarily a command line compiled language that is best used with the [Visual Studio Code] editor. 
+![Week 0]({{site.baseurl}}/assets/Wk0.png)This is a hybrid class and we will meet for one class per week and you will need to work through the course material online each week and submit weekly assignments. Most of the content provided covers computing from a programmers point of view to include data types and programming control structures. You weekly assignments will be analyzing a described problem and create a solution algorithm to solve the problem sequentially using a flowcharts. You will learn to convert a flowchart to code to make a working program.
+
+We will learn the [JavaScript language](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1) which is one of the most popular interpreted languages in use today. The JavaScript interpreter is contained within all modern browsers and easy to access within an HTML document. JavaScript is the primary scripting language used for website development and also the JS in many WebApp frameworks such as: Node.js, React.js, Backbone.js, Vue.js, Hexo, and Gatsby. It is a great choice for beginners because it is loosely data typed and utilizes an interpreter which will abort when it encounters a line of code it doesn't understand. Please utilize the [Google Chrome](https://www.google.com/chrome/) browser for the class.
 
 We will be utilizing [Scratch](https://scratch.mit.edu) to do the flowchart algorithm and you may implement the program solution using scratch.
+
+A great cloud based solution to utilize for the class is https://repl.it/ and I highly recommend you get an account with them. If you have a github.com account from IFSM201 you can link it as your login or sign up using an email address. 
+
+If you prefer to work offline then I recommend the [Visual Studio Code](https://code.visualstudio.com/) editor.
 
 If you have a question you can ask in class or email me at:  
 
 <script>AntiSpam("moc", "tsmc+82.1lmr", "liamg", "CMIS102", "")</script>  
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the hosting URL  
-[http://islandman.org/um/cmis102/](http://islandman.org/um/cmis102/).
+[islandman.org/um/cmis102/](http://islandman.org/um/cmis102/).
 
 ### So lets get started...
 
@@ -28,7 +34,6 @@ I recommend you allocate approximately 15 hours per week to this course:
 
 - Lecture = 3 hours per week
 - Reading study, video watching, and homework = 12 hours per week
-- Notebook computer required running either: Linux, MacOS, or Windows
 - Browser installed should be Chrome
 {: .check}
 
@@ -47,15 +52,6 @@ Robert Laurie
 - [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/cmis102/NumSysCode_CMIS102.pdf "Right click this link and open in new tab")
 - [Slide Set 1: Computers and Programming Languages]({{site.baseurl}}/assets/cmis102/01_ComputerLangJS.pdf "Right click this link and open in new tab")
 {: .pdf}
-
-The LEO - Discussions are a kind of collective online discussion. This week you need to utilize five online discussions to introduce yourself and demonstrate that you have learned how to convert between various number systems and codes:
-
-- Post your Introduction in the Discussion >> Introductions Topic
-- Binary to Decimal Conversion
-- Unsigned Binary addition
-- Signed Binary Addition
-- Convert your name from Unicode to Hexadecimal
-{: .check}
 
 #### Cyber-Cafe [Optional]
 
