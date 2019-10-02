@@ -65,30 +65,56 @@ Programming can be fun and frustrating at times too, but a good lucrative career
 
 Watch the following videos to enhance your learning of data representations:
 
-1. [WATCH: Mechanical Binary Counter Video](https://youtu.be/zELAfmp3fXY "Right click this link and open in new tab") 2m
-1. [WATCH: Converting Decimal, Binary and Hexadecimal Video](https://youtu.be/aW3qCcH6Dao "Right click this link and open in new tab") 17m
-1. [WATCH: ASCII Video](https://youtu.be/UPlR4eMMCmI "Right click this link and open in new tab") 8m
-1. [WATCH: Decode unicode: TEDxVienna Video](https://youtu.be/IRdupNXpm8k "Right click this link and open in new tab") 18m
-1. [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
-1. [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
-1. [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m  
-1. [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
+- [WATCH: Mechanical Binary Counter Video](https://youtu.be/zELAfmp3fXY "Right click this link and open in new tab") 2m
+- [WATCH: Converting Decimal, Binary and Hexadecimal Video](https://youtu.be/aW3qCcH6Dao "Right click this link and open in new tab") 17m
+- [WATCH: ASCII Video](https://youtu.be/UPlR4eMMCmI "Right click this link and open in new tab") 8m
+- [WATCH: Decode unicode: TEDxVienna Video](https://youtu.be/IRdupNXpm8k "Right click this link and open in new tab") 18m
+- [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
+- [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
+- [Binary Subtraction with Two's Complement](https://youtu.be/emBrPAwutvA) 4m  
+- [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
 {: .vid}
 
 ## Week 2: Program Design and Tools
 {: #Week2 .week}
 
-This week PowerPoint slides and activity wil focus on learning HTML. The HTML language is a document description language and Assignment 1 requires creating three HTML documents and hosting them on your Github web host. These activities will be your first steps in computer coding.
+This weeks PowerPoint slides and activities wil focus on learning HTML5. The HTML language is a document description language and Assignment 1 requires creating three HTML documents and hosting them on your Github pages account. These activities will be your first steps in computer coding. You could do the coding using your editor in GitHub pages or try either of the code editors suggested below.
 
 Please download and print the following two documents in color before class this week:
 
 - [Slide Set 2: HTML Introduction]({{site.baseurl}}/assets/cmis102/02_HTML_Introduction.pdf "Right click this link and open in new tab")
 - [Assignment 1: Computer Coding]({{site.baseurl}}/assets/cmis102/CMIS102A01.pdf "Right click this link and open in new tab")
+{: .pdf}
 
-Course content covering HTML5 can be found at [w3schools.com/html](https://www.w3schools.com/html/). Please work through the tutorial content for HTML Introduction through HTML Colors. Then attempt to complete Assignment 1 using online or offline tools.
+Watch the videos to help you get started writing HTML code using a text editor. As an alternative text editor you could also use [Notepad++](https://notepad-plus-plus.org/downloads/) featured here if you are a windows user which is used in these videos, but Visual Studio Code has more features.
 
+- [HTML5 Tutorial For Beginners - part 1 - Getting Started](https://youtu.be/9gTw2EDkaDQ) 8m
+- [HTML5 Tutorial For Beginners - part 2 - Text](https://youtu.be/YcApt9RgiT0) 6m
+- [HTML5 Tutorial For Beginners - part 3 - Images and Hyperlinks](https://youtu.be/CGSdK7FI9MY) 6m
+{: .vid}
 
-### Online cloud based editor [Repl.it](https://repl.it/)
+After watching these videos and reviewing Slide Set 2 then do Assignment 1.
+
+For Part B you will need to select colors using RGB codes. You need to select colors that have high contrast between text color and background color. A sites with color samples and RGB codes is: <http://www.rapidtables.com/web/color/RGB_Color.htm>
+
+Verify your HTML code is valid and works by submitting it to the online validation service at <https://validator.w3.org/>. If the code validates and displays as you wish then submit hyperlinks for your three HTML files using LEO for Assignment 1 submissions. I will be validating your code...
+
+A good reference web site is <http://www.w3schools.com/tags/default.asp>.  
+I also recommend working through their HTML tutorial from HTML Introduction to HTML Color at <http://www.w3schools.com/tags/default.asp>
+
+### Course Editor Tools
+
+#### [Visual Studio Code](https://code.visualstudio.com) Editor
+
+Visual Studio Code](https://code.visualstudio.com) is an open source editor project created by Microsoft and available for Windows, MacOS, or Linux. It can be utilized without being online when writing code and can be used for many computer programming languages. It also integrates well with GIT to synchronize code with GitHub pages.
+
+- [Web Page with Visual Studio Code](https://youtu.be/o_qAFQslASM)
+- [Visual Studio Code - Getting Started with Git(Hub)](https://youtu.be/NTY5VELbCWI)
+- [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs)
+- [5 Awesome Visual Studio Code Extensions for Writing HTML](https://youtu.be/Z5RkLrSDlFA)
+{: .vid}
+
+#### Online cloud based editor [Repl.it](https://repl.it/)
 
 Sign up for a [Repl.it](https://repl.it/) account. You may use your Github.com account or an email address to set up this account.
 
@@ -99,16 +125,15 @@ Watch and take notes for these 9 videos [HTML Tutorials - using repl.it](https:/
 
 Please work through Assignment 1 utilizing Repl.it creating a separate Repl for each part or Assignment 1.
 
-### Offline code editor recommendation is [Visual Studio Code](https://code.visualstudio.com/) 
+#### Graphics editors
 
-VS Code is an open source editor project created by Microsoft and available for Windows, MacOS, or Linux. It can be utilized without being online when writing code and can be used for many computer programming languages.
+If you would like to try a more advanced graphics editor I would recommend [GIMP](https://www.gimp.org/) which is free and cross platform or [PhotoFiltre version 6](http://photofiltre.free.fr/download_en.htm) which is windows only. 
 
-#### Visual Studio Code Editor YouTube videos
+This week you should host the following files in your GitHub pages website and provide links in LEO to these pages as a submission for Assignment 1:
 
-1. [Web Page with Visual Studio Code](https://youtu.be/o_qAFQslASM)
-1. [Visual Studio Code - Getting Started with Git(Hub)](https://youtu.be/NTY5VELbCWI)
-1. [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs)
-1. [5 Awesome Visual Studio Code Extensions for Writing HTML](https://youtu.be/Z5RkLrSDlFA)
+freedom.html    (part A)
+combustion.html  (part B)
+index.html    (Part C) 
 
 ## Week 3: Developing a Sequential Program
 {: #Week3 .week}
