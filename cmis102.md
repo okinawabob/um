@@ -131,9 +131,10 @@ If you would like to try a more advanced graphics editor I would recommend [GIMP
 
 This week you should host the following files in your GitHub pages website and provide links in LEO to these pages as a submission for Assignment 1:
 
-freedom.html    (part A)
-combustion.html  (part B)
-index.html    (Part C) 
+- freedom.html    (part A)
+- combustion.html  (part B)
+- index.html    (Part C) 
+{: .todo}
 
 ## Week 3: Developing a Sequential Program
 {: #Week3 .week}
