@@ -78,7 +78,7 @@ Watch the following videos to enhance your learning of data representations:
 ## Week 2: Program Design and Tools
 {: #Week2 .week}
 
-This weeks PowerPoint slides and activities wil focus on learning HTML5. The HTML language is a document description language and Assignment 1 requires creating three HTML documents and hosting them on your Github pages account. These activities will be your first steps in computer coding. You could do the coding using your editor in GitHub pages or try either of the code editors suggested below.
+Bring a notebook computer and USB thumb drive this week and every week for transferring files. This weeks PowerPoint slides and activities will focus on learning HTML5. The HTML language is a document description language and Assignment 1 requires creating three HTML documents and hosting them on your Github pages account. These activities will be your first steps in computer coding. You could do the coding using your editor in GitHub pages or try either of the code editors suggested below.
 
 Please download and print the following two documents in color before class this week:
 
@@ -99,8 +99,8 @@ For Part B you will need to select colors using RGB codes. You need to select co
 
 Verify your HTML code is valid and works by submitting it to the online validation service at <https://validator.w3.org/>. If the code validates and displays as you wish then submit hyperlinks for your three HTML files using LEO for Assignment 1 submissions. I will be validating your code...
 
-A good reference web site is <http://www.w3schools.com/tags/default.asp>.  
-I also recommend working through their HTML tutorial from HTML Introduction to HTML Color at <http://www.w3schools.com/tags/default.asp>
+A good reference web site for HTML is <http://www.w3schools.com/tags/default.asp>.  
+I also recommend working through their HTML tutorial from HTML-Introduction to HTML-Color at <https://www.w3schools.com/html/>
 
 ### Course Editor Tools
 
@@ -129,6 +129,8 @@ Please work through Assignment 1 utilizing Repl.it creating a separate Repl for 
 
 If you would like to try a more advanced graphics editor I would recommend [GIMP](https://www.gimp.org/) which is free and cross platform or [PhotoFiltre version 6](http://photofiltre.free.fr/download_en.htm) which is windows only. 
 
+### Week 1 Deliverables
+
 This week you should host the following files in your GitHub pages website and provide links in LEO to these pages as a submission for Assignment 1:
 
 - freedom.html    (part A)
@@ -139,10 +141,42 @@ This week you should host the following files in your GitHub pages website and p
 ## Week 3: Developing a Sequential Program
 {: #Week3 .week}
 
-  
+Please bring your notebook computer and also a USB (Thumb) Drive, which you may need to print items in the UMUC computer lab. Please store a copy of your most recent code to the USB (Thumb) Drive as a backup and for printing and demonstration purposes.
+
+This Week 3 class we will focus on sequential programming structures and you will design and code two JavaScript programs.
+Print and read through the following PDF files posted as Slide Set 3 and Assignment 2:
+
+- [Slide Set 3: Sequential Structure Programming]({{site.baseurl}}/assets/cmis102/03_SequentialProgrammingJS.pdf)
+- [Assignment 2: Sequential Structure Programs (Due Week 4 class)]({{site.baseurl}}/assets/cmis102/CMIS102A02.pdf)
+{: .pdf}
+
+Slide Set 3 and the readings describes the program development process to include analysis, design, implementation, and verification. Important concepts are structured programming principles and the use of flowcharts to describe the sequential processing. 
+
+We will build on the concepts learned last week by making an HTML document that encapsulates JavaScript program code within the HTML documents as described in Slide Set 3. You will gain practical hands-on experience in program design and implementation phases with Assignment 2.
+
+[thenewboston - JavaScript](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82) videos listed below will help you get writing JavaScript code encapsulated HTML code with a text editor:
+
+- [Introduction to JavaScript](https://youtu.be/yQaAGmHNn9s) 7m
+- [JavaScript Comments and Statements](https://youtu.be/yUyJ1gcaraM) 5m
+- [JavaScript Variables](https://youtu.be/og4Zku5VVl0) 7m
+- [JavaScript Different Types of Variables](https://youtu.be/sY8qiSaAi9g) 7m
+- [JavaScript Using Variables with Strings](https://youtu.be/QLpghQ2MMfs) 5m
+
+[Learn the Web - JavaScript Syntax](https://learn-the-web.algonquindesign.ca/topics/javascript-syntax/) utilizes HTML5 code standards in their code and links to the JavaScript program.
+
+A good reference web site forJavaScript is <https://www.w3schools.com/jsref/jsref_reference.asp>.  
+I also recommend working through their JavaScript tutorial from JS-Introduction to JS-Assignment at <https://www.w3schools.com/js/default.asp>. To facilitate data input we will utilize window.prompt() so please read this section <https://www.w3schools.com/js/js_popup.asp>. To convert string data to numbers you will need to utilize [parseInt](https://www.w3schools.com/jsref/jsref_parseint.asp) or [parseFloat](https://www.w3schools.com/jsref/jsref_parsefloat.asp) so review these as well. 
+
+[Scratch](https://scratch.mit.edu/) is a great program for prototyping procedural programs using flowchart methodology. It has great graphical features and can be utilized for the development of your assignments.
+
+Assignment 1 is due in class this week and you will need to verify your web pages work in the UMUC computer lab. Please bring your code on a USB Drive. 
+
+Assignment 2 is due next week and you will need to write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their 2 URL's on LEO under assignment 2.
+
 ## Week 4: Selection Structures
 {: #Week4 .week}
   
+
 
 ## Week 5: Repetition Structures
 {: #Week5 .week}
