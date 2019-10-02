@@ -161,6 +161,7 @@ We will build on the concepts learned last week by making an HTML document that 
 - [JavaScript Variables](https://youtu.be/og4Zku5VVl0) 7m
 - [JavaScript Different Types of Variables](https://youtu.be/sY8qiSaAi9g) 7m
 - [JavaScript Using Variables with Strings](https://youtu.be/QLpghQ2MMfs) 5m
+{: .vid}
 
 [Learn the Web - JavaScript Syntax](https://learn-the-web.algonquindesign.ca/topics/javascript-syntax/) utilizes HTML5 code standards in their code and links to the JavaScript program.
 
