@@ -207,14 +207,11 @@ Watch these videos before class. which cover how to write JavaScript code encaps
 - [Beginner JavaScript Tutorial - 17 - Complex Conditions](https://youtu.be/aQf-zeuHijU) 8m
 {: .vid}
 
-### Week 4 Checklist
-
-Be sure to complete all of the activities for this week including:
+### Week 4 Duties
 
 - Complete Assignment 3
   - Do Design Phase before class
   - Do Implementation Phase after Design
-- Post questions  in Discussion
 
 For this assignment, you write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their URL's on LEO. Also create links to these two programs from you home page.
 
