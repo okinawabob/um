@@ -45,7 +45,7 @@ Robert Laurie
 {: .signature}
 
 ## Week 1: What is Data?
-{: #Week1 .week}
+{: #Week1 .anchor}
 
 ![.]({{site.baseurl}}/assets/Wk1.png)This week in lecture we will be discussing the Syllabus, LEO course management system, and investigate Data representation for different number types and character codes. If you enrolled in IFSM201 with me we will expanding coverage in this class to include signed integers, floating point representation for rational numbers, and unicode to write content in any human language. Prior to class, please print and read both PDF files listed below:
 
@@ -75,15 +75,19 @@ Watch the following videos to enhance your learning of data representations:
 - [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
 {: .vid}
 
+### Week 1 Duties
+
+Complete all conversion problems at the end of the document covered this week in class.
+
 ## Week 2: Program Design and Tools
-{: #Week2 .week}
+{: #Week2 .anchor}
 
 Bring a notebook computer and USB thumb drive this week and every week for transferring files. This weeks PowerPoint slides and activities will focus on learning HTML5. The HTML language is a document description language and Assignment 1 requires creating three HTML documents and hosting them on your Github pages account. These activities will be your first steps in computer coding. You could do the coding using your editor in GitHub pages or try either of the code editors suggested below.
 
 Please download and print the following two documents in color before class this week:
 
 - [Slide Set 2: HTML Introduction]({{site.baseurl}}/assets/cmis102/02_HTML_Introduction.pdf "Right click this link and open in new tab")
-- [Assignment 1: Computer Coding]({{site.baseurl}}/assets/cmis102/CMIS102A01.pdf "Right click this link and open in new tab")
+- [Assignment 1: Computer Coding]({{site.baseurl}}/assets/cmis102/CMIS102A01d.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Watch the videos to help you get started writing HTML code using a text editor. As an alternative text editor you could also use [Notepad++](https://notepad-plus-plus.org/downloads/) featured here if you are a windows user which is used in these videos, but Visual Studio Code has more features.
@@ -129,7 +133,7 @@ Please work through Assignment 1 utilizing Repl.it creating a separate Repl for 
 
 If you would like to try a more advanced graphics editor I would recommend [GIMP](https://www.gimp.org/) which is free and cross platform or [PhotoFiltre version 6](http://photofiltre.free.fr/download_en.htm) which is windows only. 
 
-### Week 1 Deliverables
+### Week 2 Duties
 
 This week you should host the following files in your GitHub pages website and provide links in LEO to these pages as a submission for Assignment 1:
 
@@ -139,7 +143,7 @@ This week you should host the following files in your GitHub pages website and p
 {: .todo}
 
 ## Week 3: Developing a Sequential Program
-{: #Week3 .week}
+{: #Week3 .anchor}
 
 Please bring your notebook computer and also a USB (Thumb) Drive, which you may need to print items in the UMUC computer lab. Please store a copy of your most recent code to the USB (Thumb) Drive as a backup and for printing and demonstration purposes.
 
@@ -147,7 +151,7 @@ This Week 3 class we will focus on sequential programming structures and you wil
 Print and read through the following PDF files posted as Slide Set 3 and Assignment 2:
 
 - [Slide Set 3: Sequential Structure Programming]({{site.baseurl}}/assets/cmis102/03_SequentialProgrammingJS.pdf)
-- [Assignment 2: Sequential Structure Programs (Due Week 4 class)]({{site.baseurl}}/assets/cmis102/CMIS102A02.pdf)
+- [Assignment 2: Sequential Structure Programs (Due Week 4 class)]({{site.baseurl}}/assets/cmis102/CMIS102A02d.pdf)
 {: .pdf}
 
 Slide Set 3 and the readings describes the program development process to include analysis, design, implementation, and verification. Important concepts are structured programming principles and the use of flowcharts to describe the sequential processing. 
@@ -161,6 +165,8 @@ We will build on the concepts learned last week by making an HTML document that 
 - [JavaScript Variables](https://youtu.be/og4Zku5VVl0) 7m
 - [JavaScript Different Types of Variables](https://youtu.be/sY8qiSaAi9g) 7m
 - [JavaScript Using Variables with Strings](https://youtu.be/QLpghQ2MMfs) 5m
+- [Beginner JavaScript Tutorial - 12 - Math Operators](https://youtu.be/ZH5qZB0UucQ) 6m
+- [Beginner JavaScript Tutorial - 13 - Assignment Operators](https://youtu.be/VfBr32W-hRA) 4m
 {: .vid}
 
 [Learn the Web - JavaScript Syntax](https://learn-the-web.algonquindesign.ca/topics/javascript-syntax/) utilizes HTML5 code standards in their code and links to the JavaScript program.
@@ -170,27 +176,60 @@ I also recommend working through their JavaScript tutorial from JS-Introduction 
 
 [Scratch](https://scratch.mit.edu/) is a great program for prototyping procedural programs using flowchart methodology. It has great graphical features and can be utilized for the development of your assignments.
 
-Assignment 1 is due in class this week and you will need to verify your web pages work in the UMUC computer lab. Please bring your code on a USB Drive. 
+### Week 3 Duties
 
-Assignment 2 is due next week and you will need to write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their 2 URL's on LEO under assignment 2.
+Assignment 2 is due this week and you will need to write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their 2 URL's on LEO under assignment 2.
 
 ## Week 4: Selection Structures
-{: #Week4 .week}
+{: #Week4 .anchor}
   
+This week we will focus on the selection programming structure that provides the ability of a program to make decisions based on a True or False criteria. Please examine Slide Set 4 and Assignment 3 and create the Program Design document for each part before class this week. Use a word processor to create the Specifications Section, Algorithm Design, and Known Test Data sections. Create input and output displays for desired output for the known test data. Use Scratch, PowerPoint, or another graphics program to make flowcharts. Another interesting option is the Google Chrome plugin draw.io
+Make sure that you use diamonds for the flowchart symbol for a selection structure with assertion displayed and two arrows out labeled True or False. Embed the flow chart in your Program Design document or attach as file.
 
+Check your JavaScript code by copying pasting the contents contained in the <script> element to the text area at 
+<https://jshint.com> during the implementation process and before submission. Note that not all errors are accurate for browser JavaScript so just take it as advice. Ignore radix errors for parseInt( ) and can be a form of eval errors for document.write( ).
+
+Use the browser Error Console throughout the implementation process to view errors. This will identify syntax errors as the code is run. Use window.alert(variableName) to display the value of variables during the implementation process to identify logic errors after all syntax errors are cleared.
+
+Create links to your web pages that contain the JavaScript code for each part of this assignment. Make sure all links work for the program implementation files. If they do not you will receive a zero.
+
+Print and examine Slide Set 4, and create the Program Design document for all parts of Assignment 3 described below:
+
+- [Slide Set 4: Selection Structure Programming]({{site.baseurl}}/assets/cmis102/04_SelectionStructureJS.pdf)
+- [Assignment 3: Selection Structure Programs]({{site.baseurl}}/assets/cmis102/CMIS102A03d.pdf)
+{: .pdf}
+
+Watch these videos before class. which cover how to write JavaScript code encapsulated HTML code with a selection structure:
+
+- [Beginner JavaScript Tutorial - 14 - if Statement](https://youtu.be/5gjr15aWp24) 8m
+- [Beginner JavaScript Tutorial - 15 - if/else Statement](https://youtu.be/FKyrQYkihGw) 7m
+- [Beginner JavaScript Tutorial - 16 - Nesting and Fridays](https://youtu.be/ebjo8_u82mI) 6m
+- [Beginner JavaScript Tutorial - 17 - Complex Conditions](https://youtu.be/aQf-zeuHijU) 8m
+{: .vid}
+
+### Week 4 Checklist
+
+Be sure to complete all of the activities for this week including:
+
+- Complete Assignment 3
+  - Do Design Phase before class
+  - Do Implementation Phase after Design
+- Post questions  in Discussion
+
+For this assignment, you write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their URL's on LEO. Also create links to these two programs from you home page.
 
 ## Week 5: Repetition Structures
-{: #Week5 .week}
+{: #Week5 .anchor}
 
 
 ## Week 6: Arrays
-{: #Week6 .week}
+{: #Week6 .anchor}
 
 ## Week 7: Functions and Code Reuse
-{: #Week7 .week}
+{: #Week7 .anchor}
 
 ## Week 8: Project Presentations
-{: #Week8 .week}
+{: #Week8 .anchor}
 
 This is the last week of our classes. This week you will be doing the talking doing presentations of your final project.
 
