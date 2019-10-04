@@ -417,12 +417,13 @@ There are no required discussions this week.
 ### Links for Scratch programming
 
 - <https://scratch.mit.edu/> and sign up for an online account
+- [Free Scratch Book](https://inventwithscratch.com/book/)
 - <https://www.coursera.org/learn/intro-programming> is a good tutorial
+- [Udemy Course covering Scratch](https://www.udemy.com/scratch-game-programming/)
+{: .link}
 - [YouTube Scratch Video tutorial starting with music](https://www.youtube.com/playlist?list=PLHqz-wcqDQIExCWk_EgaiZ6hLt4QX2Rxn)
 - [YouTube Scratch Video animation tutorials](https://www.youtube.com/playlist?list=PL0-84-yl1fUki_zQ1ouwGN8t3spCTLnpS)
-- [Udemy Course covering Scratch](https://www.udemy.com/scratch-game-programming/)
-- [Free Scratch Book](https://inventwithscratch.com/book/)
-{: .link}
+{: .vid}
 
 ### Links for Python Programming
 
