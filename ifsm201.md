@@ -188,7 +188,9 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ![.]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the *Operating System* software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
 
 I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class:
+
 - [Slide Set 2: Software and Spreadsheets]({{site.baseurl}}/assets/ifsm201/SlideSet-2-Software-Spreadsheet.pdf "Right click this link and open in new tab")
+- [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz.
@@ -271,7 +273,7 @@ Please work through the Excel tutorials for the version of Excel that you intend
 #### Academic Integrity Tutorial must be completed before Week 6
 
 - Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. The Academic Integrity Tutorial hyperlink is at: <http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm>. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder.
-{: .check}
+{: .todo}
 
 If you have any questions about the class or assignments feel free to post in the
 LEO Discussion > Ask your Professor. There are no required discussions this week.
@@ -300,7 +302,7 @@ MS Access is only available in the Office Professional versions. MacOSX users wi
 
 Work through the listed tutorials for the version of Microsoft Access you intend to use for this assignment [GCF LearnFree Microsoft Access Tutorials](https://edu.gcfglobal.org/en/topics/access/)
 
-|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/) 
+|  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/)
 |---|---|---
 | #1 Intro to DataBases  | #3 Intro to DataBases | #1 Intro to DataBases
 | #2 Intro to Objects   | #4 Intro to Objects | #2 Intro to Objects
@@ -373,12 +375,12 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ### Assignment 4: Create a Website
 
 - Work through [Assignment 4: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf). You must upload a file to make a submission on LEO. Create a Word document with your website URL and describe your experience with the website project. Also paste your URL and comments in the comment area when you submit and upload this file. I created a sample website at <http://iwakunibob.github.io>
-{: .check}
+{: .todo}
 
 ##### Student Websites
 
-| Person| URL
-+---+----
+| Person| URL 
+|---|----
 | Abbey | <https://abenally0628.github.io>
 | Mayumi | <https://wreathstudiomayumi.github.io/>
 | Maurice | <https://mo7perez.github.io/>
@@ -390,7 +392,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ### Discussion for Week 5
 
 - The Discussion for this week will be converting a 32-bit IPV4 address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address. As with all discussion you will need to reply post to two other student's posts.
-{: .check}
+{: .todo}
 
 ### Academic Integrity Tutorial must be completed before Week 6
 
