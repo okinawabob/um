@@ -59,7 +59,7 @@ Begin this week with the reading about the power of data and information. The We
 
 The *file extension* is important in Microsoft Windows, because it determines which application will open the file. Unfortunately, Microsoft hides file extensions by default, but it is useful to view the file extensions of known file types within Windows Explorer file display pane. If you are using windows please search through help to learn how to view the file extensions. Find and uncheck the check box labeled Hide extensions of known file types. You will now be able to see the difference between filename.docx file and filename.pdf file.
 
-### YouTube Video Links
+## YouTube Video Links
 
 Watch the following videos to enhance your learning of data representations:
 
@@ -69,13 +69,9 @@ Watch the following videos to enhance your learning of data representations:
 1. [WATCH: Decode unicode: TEDxVienna Video](https://youtu.be/IRdupNXpm8k "Right click this link and open in new tab") 18m
 {: .vid}
 
-### Activities this week
+### 5 Discussion topics must be completed before our next class
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Discussions*** are a kind of collective online discussion that is visible to all students. The discussion activates this week will provide you with an understanding of digital data, which is fundamental to understanding How computers work.
-
-#### 5 Discussion topics must be completed before our next class
-
-This week you need to utilize five online discussion topics to introduce yourself and demonstrate that you have learned how to convert between various number systems and codes:
+The ***<abbr title="Learning Experience Online">LEO</abbr> Discussions*** are a kind of collective online discussion that is visible to all students. The discussion activates this week will provide you with an understanding of digital data, which is fundamental to understanding How computers work. This week you need to utilize five online discussion topics to introduce yourself and demonstrate that you have learned how to convert between various number systems and codes:
 
 - Post your Introduction in the Discussion >> Introductions Topic
 - Post in the Number System and Codes Conversion Discussion
@@ -83,15 +79,15 @@ This week you need to utilize five online discussion topics to introduce yoursel
   - Binary to Hexadecimal conversion Topic
   - Hexadecimal to Binary Conversion Topic
   - Convert your name from ASCII to Hexadecimal Topic
-  {: .check}
-{: .check}
+  {: .todo}
+{: .todo}
 
 For each discussion topic you will need to make a post and reply to two other students! You must be logged into LEO to post, reply, and view discussions.
 
-#### Quiz 1 must be completed before our next class
+### Quiz 1 must be completed before our next class
 
-- **Quiz 1 Data, Information, Knowledge** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
-{: .check}
+- The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. This week's Quiz covers content from the readings in the two PDF files  [Number Systems and Codes]({{site.baseurl}}/assets/ifsm201/READ-1-NumberSystemsCodes.pdf "Right click this link and open in new tab") and [Data and Information Handout]({{site.baseurl}}/assets/ifsm201/READ-1-DataInformation.pdf "Right click this link and open in new tab"). The first week you will be permitted to take the quiz twice and the highest score will be recorded.  The questions will change for each quiz round. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for each quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+{: .todo}
 
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor.
@@ -172,22 +168,15 @@ Please work through the tutorials at GCF LearnFree.org if you intend to use Micr
 | #19 Working with headers and footers  | #23 Tables  | #23 Tables
 | #21 Working with Tables   |   |
 
-### Activities this week 
+### Assignment 1: Word Processing (Computer Shopping)
 
-#### Assignment 1: Word Processing (Computer Shopping)
+- Work through [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Asgn1-WordProcessing.pdf "Right click this link and open in new tab") as described in this file.  Submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
+{: .todo}
 
-Work through Assignment 1 - Word Processing as described in the attached file:  
-
-- [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Asgn1-WordProcessing.pdf "Right click this link and open in new tab")
-{: .check}
-
-Submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
-
-
-#### Quiz 2 must be completed before our next class
+### Quiz 2 must be completed before our next class
 
 - **Quiz 2 Computer Hardware and Word Processing** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for the quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
-{: .check}
+{: .todo}
 
 If you have any questions about the class or assignments feel free to post in the
 LEO Discussion > Ask your Professor. There are no required discussions this week.
@@ -265,25 +254,22 @@ Please work through the Excel tutorials for the version of Excel that you intend
 |   | #16 Functions  | #16 Functions
 |   | #22 Charts | #23 Charts
 
-### Activities this week
-
-#### Assignment 2: Spreadsheets (Personal Budget)
+### Assignment 2: Spreadsheets (Personal Budget)
 
 - Work through Assignment 2 - Spreadsheets as described in the attached PDF documents below.  Submit only Asgn2-*YourName*.xlsx file and verify this by ***not hiding* extensions of known file types** on your computer and open the file in MS Excel. The file **Asgn2-*YourName*.xlsx** Must be uploaded and submitted on **<abbr title="Learning Experience Online">LEO</abbr> Assignments** before next class. The assignment will be graded based on doing all described steps and meeting the described requirements.
   - [Assignment 2 - Personal Budget]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget.pdf "Right click this link and open in new tab")
   - [Assignment 2 - Budget Sample.pdf]({{site.baseurl}}/assets/ifsm201/Asgn2-Budget-Sample.pdf "Right click this link and open in new tab")
   {: .pdf}
-{: .check}
+{: todo}
 
 #### Quiz 3 must be completed before our next class
 
-- **Quiz 3 Software and Spreadsheets** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for the quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
-{: .check}
+- The **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for the quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
+{: .todo}
 
 #### Academic Integrity Tutorial must be completed before Week 6
 
-- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. The Academic Integrity Tutorial hyperlink is at: <http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm> 
-After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder.
+- Begin working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. The Academic Integrity Tutorial hyperlink is at: <http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm>. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder.
 {: .check}
 
 If you have any questions about the class or assignments feel free to post in the
@@ -302,7 +288,7 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 MS Access is only available in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft has never ported the Access database application to MacOS. Therefore, if you would like to utilize MS Access to do Assignment 3 you will likely need to utilize the UMUC Computer Lab/Testing Center to utilize MS Access 2010. However, if you have Microsoft Access on your home computer and wish to try it there then go to the appropriate version of Access for tutorials.
 
-#### Tutorials for Microsoft Access 2016 by Kennesaw State University
+### Tutorials for Microsoft Access 2016 by Kennesaw State University
 
 - [Access Quick Start Guide](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab")
 - [Intro to Access](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Access_2016_PC_Intro_to_Access.pdf "Right click this link and open in new tab")
@@ -329,32 +315,31 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 | #15 Designing Your Own Database | #16 Creating Forms | #14 Creating Forms
 |   | #18 Designing Your Own Database |  #16 Designing Your Own Database
 
-### Activities this week 
 
-#### Week 4 Discussion - Your life is somewhere in a database
+### Week 4 Discussion - Your life is somewhere in a database
 
 - This week you need to create a post as a new thread and reply to two other students post. The topic : Should States Share Criminal Databases?
-{: .check}
+{: .todo}
 
-#### Assignment 3: Relational Database
+### Assignment 3: Relational Database
 
 - Work through [Assignment 3: Relational Database]({{site.baseurl}}/assets/ifsm201/Asgn3-RelationalDB.pdf) and upload your Access file filename.accdb and two specified PDF files in LEO assignment folder
-{: .check}
+{: .todo}
 
-#### [SQL coding for a Simple Database - khanacademy.org](https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql)
+### [SQL coding for a Simple Database - khanacademy.org](https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql)
 
 - This interactive tutorial will introduce you to the basic structure of a database and the first set of SQL commands that are used to create and manipulate a database. You will not have to download any software - the tutorial and activities are completed totally online. You may work through the tutorial as many times as you wish. This content is on Quiz 4 Databases so you will need to do the tutorial before taking the quiz. You are encouraged to take notes or even print some of the screens that display the various SQL commands, how they are used, and the result of executing those commands. This will be your first experience with writing computer code and if you like it then I encourage you to enroll in CMIS102 or CMST385.
- {: .check}
+ {: .todo}
 
-#### Quiz 4 must be completed before our next class
+### Quiz 4 must be completed before our next class
 
-- The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The fourth week you will be permitted to take the quiz twice.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
-{: .check} 
+- The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. This week's Quiz covers content from the readings in the two PDF files [Databases - Knowledge Management - Business Intelligence]({{site.baseurl}}/assets/ifsm201/4-Databases-KnowledgeManagement-BusinessIntelligence.pdf) and [CRM, Data Warehouses and Data Mining/Analytics]({{site.baseurl}}/assets/ifsm201/4-CRM-DataWarehouses-DataMining-Analytics.pdf).
+{: .todo}
 
-#### Academic Integrity Tutorial must be completed before Week 6
+### Academic Integrity Tutorial must be completed before Week 6
 
 - Continue working through the Academic Integrity Tutorial this week. This tutorial is not due until Week 6, but you must score a 90% or higher on-  the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to convert  the certificate into a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
-{: .check}
+{: .todo}
 
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week. 
@@ -527,16 +512,14 @@ This week you will apply PowerPoint skills to Assignment 5 - Research Presentati
 Work through Assignment 5 - Reserach Presentation as described in the attached file:  
 
 - [Asgn5-Presentation.pdf]({{site.baseurl}}/assets/ifsm201/Asgn5-Presentation.pdf "Right click this link and open in new tab")
-{: .check}
+{: .pdf}
 
-Submit only **Asgn5-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class. 
+Submit only **Asgn5-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class.
 
 ### Quiz 5 must be completed before our next class
 
-The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
-
-- Quiz 5: Computer Ethics, Privacy, and Security
-{: .check}
+- The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. This week's Quiz covers content from the readings in the three PDF files [Ethics]({{site.baseurl}}/assets/ifsm201/READ-6-Ethics.pdf "Right click this link and open in new tab"), [Privacy]({{site.baseurl}}/assets/ifsm201/READ-6-Privacy.pdf "Right click this link and open in new tab"), and [Security]({{site.baseurl}}/assets/ifsm201/READ-6-Security.pdf "Right click this link and open in new tab").
+{: .todo}
 
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week.
