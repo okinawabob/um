@@ -512,9 +512,9 @@ This week you will apply PowerPoint skills to Assignment 5 - Research Presentati
 |  | #20 Animating | #18 Arranging obj.
 |  |   | #19 Animating
 
-### Assignment 5: Research Presentation 
+### Assignment 5: Research Presentation
 
-Work through the [Assignment 5 - Research Presentation]({{site.baseurl}}/assets/ifsm201/Asgn5-Presentation.pdf "Right click this link and open in new tab") as described and prepare for a 10 minute in class presentation.  Submit only **Asgn5-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class.
+- Work through the [Assignment 5 - Research Presentation]({{site.baseurl}}/assets/ifsm201/Asgn5-Presentation.pdf "Right click this link and open in new tab") as described and prepare for a 10 minute in class presentation.  Submit only **Asgn5-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class.
 {: .todo}
 
 ### Quiz 5 must be completed before our next class
