@@ -423,7 +423,7 @@ There are no required discussions this week.
 {: .link}
 - [YouTube Scratch Video tutorial starting with music](https://www.youtube.com/playlist?list=PLHqz-wcqDQIExCWk_EgaiZ6hLt4QX2Rxn)
 - [YouTube Scratch Video animation tutorials](https://www.youtube.com/playlist?list=PL0-84-yl1fUki_zQ1ouwGN8t3spCTLnpS)
-{: .vid}
+{: .link}
 
 ### Links for Python Programming
 
@@ -464,6 +464,7 @@ We will also discuss PowerPoint as a Presentation Graphics tool which you will n
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
 
 - [Slide Set 7: Ethics, Privacy, Security]({{site.baseurl}}/assets/ifsm201/SlideSet-7-Ethics-Privacy-Security.pdf "Right click this link and open in new tab")
+- [Assignment 5 - Presentation.pdf]({{site.baseurl}}/assets/ifsm201/Asgn5-Presentation.pdf "Right click this link and open in new tab")
 - [READ Ethics]({{site.baseurl}}/assets/ifsm201/READ-6-Ethics.pdf "Right click this link and open in new tab")
 - [READ Privacy]({{site.baseurl}}/assets/ifsm201/READ-6-Privacy.pdf "Right click this link and open in new tab")
 - [READ Security]({{site.baseurl}}/assets/ifsm201/READ-6-Security.pdf "Right click this link and open in new tab")
