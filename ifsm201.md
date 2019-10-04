@@ -465,21 +465,13 @@ You can run these code examples using either <https://thonny.org/> or <https://r
 
 #### Python Coconut program viewable at <https://repl.it/@iwakunibob/coconuts>
 
-<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/coconuts?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
 #### Python Temperature program viewable at <https://repl.it/@iwakunibob/temperatures>
 
-<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/temperatures?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
 #### Python Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroll>
-
-<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/diceroll?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 ### JavaScript is very popular Language web browser language
 
 #### JS Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroller-js>
-
-<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/diceroller-js?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 - JavaScript program for Temperature converter [available here]({{site.baseurl}}/assets/ifsm201/js/Temperature.html)
 - JavaScript GUI program for Casino chip counting [available here]({{site.baseurl}}/assets/ifsm201/js/casino.html)
