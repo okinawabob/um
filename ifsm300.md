@@ -29,9 +29,6 @@ I recommend you allocate approximately 15 hours per week to this course or appro
 Robert Laurie
 {: .signature}
 
-<!-- 
-
-
 ## Week 1: Informations Systems in Organizations
 {: #Week1 .anchor}
 
@@ -415,7 +412,6 @@ Assignment 3
 1. [Critical Chain Project Management vs. Critical Path](https://youtu.be/mpc_FdAt75A) 10m
 {: .vid}
 
-<!--  
 ## Week 7: Globalization and Legal Implications
 {: #Week7 .anchor}
 
@@ -464,13 +460,10 @@ Readings for this week:
 - [A blog about Japan, dating, social skills, and travel - Yuta Aoki](http://www.yutaaoki.com/blog/)
 {: .link} 
 
-
-## Week 7: Project Presentations
+## Week 8: Project Presentations
 {: #Week8 .anchor}
 
 ![Success]({{site.baseurl}}/assets/Wk8.png)
 This week you will do your final project presentations in class and it is mandatory that you attend class and remain for the whole class. Please upload all content you intend to present and wish me to grade to Leo prior to noon of the day of your class presentation.  
 
 After going through IFSM300 this term I hope that you feel more comfortable with spreadsheets, databases, and project planning. They are important life skills that can be applied in your professional and personal life.
-
--->
