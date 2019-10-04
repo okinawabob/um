@@ -19,7 +19,7 @@ permalink: "/ifsm201/"
 
 I will post handouts and hyperlinks to videos for the class on this web page which is accessible at the hosting  <abbr title="Uniform Resource Locator">URL</abbr>: <http://islandman.org/um/ifsm201/>
 
-You will be required to submit all assignments online using LEO, and emailed submissions will not be accepted. Consider this hybrid class as good training for taking an online class in the future. 
+You will be required to submit all assignments online using LEO, and emailed submissions will not be accepted. Consider this hybrid class as good training for taking an online class in the future.
 
 The Microsoft Office Professional Suite 365, 2010, 2013, 2016, or 20169 is recommended for assignments because it is available in the UMUC computer lab/testing centers. One issue with Microsoft Office is that the adaptive ribbon User Interface changes significantly with each version so it is sometimes difficult to find the command you want when switching between versions. Another issue is that only Microsoft Professional version has the Microsoft Access database application and Microsoft never ported MS Access to its MacOS version of MS Office. For the database assignment we will do the assignment in the UMUC computer lab which has MS Access.
 
@@ -27,7 +27,7 @@ LEO Course Resources contain a link to GCFLearnfree.org, a project of the Goodw
 
 Alternatively, you may use the free LibreOffice, which is available at <http://www.libreoffice.org/download/libreoffice-fresh/> and functions equally well on Windows 7-10, MacOSX, and Linux. Good documentation is available at <http://www.libreoffice.org/get-help/documentation/> and I recommend you download and read the LibreOffice Getting Started Guide if you chose to use this freeware software. LibreOffice is a fork of OpenOffice open-source software and is more actively developed. However, if you use LibreOffice you need to submit all files in the native MS Office formats: *.docx, *.xlsx, *.accdb, or *.pptx for this and future online classes. Please do not submit documents using the MacOS pages or numbers file formats as your instructor cannot read them and you will receive a zero on the assignment.
 
-Please bring a USB Drive that is 1 GigaByte or greater to class this week and every week. It is best if the USB Drive attaches to your key ring to avoid loss. You may use the UMUC computer lab to work on your assignments. Keep all files on your USB Drive if you intend to use the UMUC computer lab or your home computer to do your assignments. You may want to install LibreOffice to your USB Drive using <https://portableapps.com/>, which will allow it to run on any Windows computer including the ones in UMUC Computer Lab. 
+Please bring a USB Drive that is 1 GigaByte or greater to class this week and every week. It is best if the USB Drive attaches to your key ring to avoid loss. You may use the UMUC computer lab to work on your assignments. Keep all files on your USB Drive if you intend to use the UMUC computer lab or your home computer to do your assignments. You may want to install LibreOffice to your USB Drive using <https://portableapps.com/>, which will allow it to run on any Windows computer including the ones in UMUC Computer Lab.
 
 If you have a technical problem in your LEO class, contact Help@UMUC at <http://help.umuc.edu/> or by phone at 1-888-360-UMUC (8682). Help@UMUC is available 24 hours a day, 7 days a week.
 
@@ -51,8 +51,6 @@ Robert Laurie
 
 Information is data that has meaning; it tells a story. So how do you go from just gathering data to making some meaning of what you have gathered? What does data analysis mean?
 
-### Content this week
-
 Begin this week with the reading about the power of data and information. The Week 1 Quiz will contain questions based on these two readings. Prior to class, please print and read both PDF files listed below:
 
 - [READ Number Systems and Codes Handout]({{site.baseurl}}/assets/ifsm201/READ-1-NumberSystemsCodes.pdf "Right click this link and open in new tab")
@@ -61,7 +59,7 @@ Begin this week with the reading about the power of data and information. The We
 
 The *file extension* is important in Microsoft Windows, because it determines which application will open the file. Unfortunately, Microsoft hides file extensions by default, but it is useful to view the file extensions of known file types within Windows Explorer file display pane. If you are using windows please search through help to learn how to view the file extensions. Find and uncheck the check box labeled Hide extensions of known file types. You will now be able to see the difference between filename.docx file and filename.pdf file.
 
-#### YouTube Video Links:
+### YouTube Video Links
 
 Watch the following videos to enhance your learning of data representations:
 
@@ -80,7 +78,7 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Discussions*** are a 
 This week you need to utilize five online discussion topics to introduce yourself and demonstrate that you have learned how to convert between various number systems and codes:
 
 - Post your Introduction in the Discussion >> Introductions Topic
-- Post in the Number System and Codes Conversion Discussion >> 
+- Post in the Number System and Codes Conversion Discussion
   - Binary to Decimal Conversion Topic
   - Binary to Hexadecimal conversion Topic
   - Hexadecimal to Binary Conversion Topic
@@ -105,10 +103,8 @@ LEO Discussion > Ask your Professor.
 
 Additionally, we will also discuss our first software application which is Word Processing. Actually, I don't really care which Word Processor you utilize. However, you must submit *.docx documents throughout the course which are the standard Microsoft Word 2007-19 file format.
 
-### Content this week 
-
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the PDF file prior to class: 
-- [Slide Set 1: Hardware and Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Hardware-Word.pdf "Right click this link and open in new tab") 
+- [Slide Set 1: Hardware and Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Hardware-Word.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the [Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps
@@ -126,7 +122,7 @@ Throughout this course, we will be using free tutorials and educational resource
 [18](https://edu.gcfglobal.org/en/computerbasics/creating-a-safe-workspace/1/)
 [19](https://edu.gcfglobal.org/en/computerbasics/basic-troubleshooting-techniques/1/)
 [20](https://edu.gcfglobal.org/en/computerbasics/how-to-use-your-computers-builtin-help/1/)
-[22](https://edu.gcfglobal.org/en/computerbasics/bringing-your-files-with-you/1/) available at <https://edu.gcfglobal.org/en/computerbasics/>. 
+[22](https://edu.gcfglobal.org/en/computerbasics/bringing-your-files-with-you/1/) available at <https://edu.gcfglobal.org/en/computerbasics/>.
 
 If you are a hunt and peck typist, GCF LearnFree has has a tutorial to improve your typing skills as well with their [Typing tutorial](https://edu.gcfglobal.org/en/typing/ "Right click this link and open in new tab") available at <https://edu.gcfglobal.org/en/typing/>
 
@@ -136,7 +132,7 @@ GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/bu
 [3](https://edu.gcfglobal.org/en/buying-computers/what-is-a-chromebook/1/)
 [4](https://edu.gcfglobal.org/en/buying-computers/how-to-decide-when-to-get-a-new-computer/1/) available at <https://edu.gcfglobal.org/en/buying-computers/> and is the activity for Assignment&nbsp;1.
 
-#### Videos about Computer Hardware:
+### Videos about Computer Hardware:
 
 - [How a CPU is made at AMD](https://youtu.be/YhsKCnDD3F8) 10m
 - [How a CPU Works – 8-bit](https://youtu.be/cNN_tTXABUA) 21m
@@ -145,7 +141,7 @@ GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/bu
 - [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://youtu.be/_h30HBYxtws)
 {: .vid}
 
-#### Videos about ALU (Arithmetic Logic Unit) binary operations (Optional):
+### Videos about ALU (Arithmetic Logic Unit) binary operations (Optional):
 
 - [How To Do Binary Addition](https://youtu.be/ypqYoFbPfTk) 4m
 - [Two's Complement, and Binary Signed Magnitude](https://youtu.be/Z3mswCN2FJs) 4m
@@ -153,7 +149,7 @@ GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/bu
 - [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
 {: .vid}
 
-#### Tutorials for Microsoft Word 2016 by Kennesaw State University
+### Tutorials for Microsoft Word 2016 by Kennesaw State University
 
 | Windows  |  MacOS 
 | ---|---
@@ -163,7 +159,7 @@ GCF LearnFree also has 4-step [Buying Computers](https://edu.gcfglobal.org/en/bu
 
 Please work through the tutorials at GCF LearnFree.org if you intend to use Microsoft Word as your word processor. Choose the link for the version of Word you are using at the top row of the table below:
 
-| [Word 2010](https://edu.gcfglobal.org/en/word2010/) | [Word 2013](https://edu.gcfglobal.org/en/word2013/) | [Word 2016](https://edu.gcfglobal.org/en/word2016/) 
+| [Word 2010](https://edu.gcfglobal.org/en/word2010/) | [Word 2013](https://edu.gcfglobal.org/en/word2013/) | [Word 2016](https://edu.gcfglobal.org/en/word2016/)
 |---|---|---
 | #1 Getting Started with Word  | #4 Getting to Know Word | #1 Getting Started with Word
 | #2 Text Basics   | #5 Creating and Opening Documents | #3 Creating and Opening Documents
@@ -193,7 +189,7 @@ Submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensi
 - **Quiz 2 Computer Hardware and Word Processing** found at **<abbr title="Learning Experience Online">LEO</abbr> Quizzes** contain multiple choice questions. You must be logged into LEO to take the quiz and they are timed so allocate 90 minutes for the quiz. If you walk away and the quiz times out you will receive a zero on that quiz.
 {: .check}
 
-If you have any questions about the class or assignments feel free to post in the 
+If you have any questions about the class or assignments feel free to post in the
 LEO Discussion > Ask your Professor. There are no required discussions this week.
 
 ## Week 3: Software and Spreadsheets
@@ -201,31 +197,28 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 
 ![.]({{site.baseurl}}/assets/ifsm201/Wk3.png) This week you will cover software - both system software (operating systems and utilities) and application software. First, you will look at the relationship between the hardware studied last week and the *Operating System* software that enables the hardware to function in a way that supports the user. Next, you will look more closely at the operating system and the utilities that are essential to make a computer function. Finally, you will review software application packages that are most commonly used for personal and work computer-related functions.
 
-### Content this week 
-
-I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class: 
+I will utilize PowerPoint slides for lecture and discussion. Please print the PDF files prior to class:
 - [Slide Set 2: Software and Spreadsheets]({{site.baseurl}}/assets/ifsm201/SlideSet-2-Software-Spreadsheet.pdf "Right click this link and open in new tab")
 {: .pdf}
 
-A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz. 
+A computer can run only one type of Operating System at a time and the two most common OS's for personal computers are Microsoft Windows and Apple MacOS. Linux has many variants and is most common on servers, but can also run on personal compters. For the smart phone devices the two most common operating systems are Google's Android OS and Apples iOS.  You should work through the GCF LearnFree.org tutorials for the operating system that you most commonly use on your personal computer before taking the Quiz.
 
-- [Windows on GCF LearnFree.org](https://edu.gcfglobal.org/en/topics/windows/)
 - [MacOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/macosbasics/)
 - [Android on GCF LearnFree.org](https://edu.gcfglobal.org/en/androidbasics/)
 - [iOS on GCF LearnFree.org](https://edu.gcfglobal.org/en/iphonebasics/)
 {: .link}
 
-#### Links to interesting websites:
+### Links to interesting websites
 
 - [OS Marketshare](https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=10&amp;qpcustomd=0)
-- [linux Wiki](https://en.wikipedia.org/wiki/Linux) 
+- [linux Wiki](https://en.wikipedia.org/wiki/Linux)
 - [distrowatch.com](http://distrowatch.com/)
 - [inuxsurvival.com](http://linuxsurvival.com/)
 - [Free Linux course on edX](https://www.edx.org/course/introduction-to-linux)
 - [Virtual Box - Free virtual machine](https://www.virtualbox.org/)
 {: .link}
 
-#### Videos about computer software:
+### Videos about computer software
 
 - [10 Reasons why Linux is Better Than MacOS or Windows](https://youtu.be/qH3v41JmyIg) 11m
 - [Windows 10 Spying - Privacy and Security](https://youtu.be/u1kGMCfb2xw) 36m
@@ -234,18 +227,19 @@ A computer can run only one type of Operating System at a time and the two most 
 - [The mind behind Linux, Linus Torvalds](https://youtu.be/o8NPllzkFhE) 22m
 {: .vid}
 
-#### UMUC suggested readings about spreadsheets
-  - [Spreadsheet Cell References (Excel or Calc)]({{site.baseurl}}assets/ifsm201/Asgn2-SS_Spreadsheet-RelativeAbsoluteReferences.pdf)
-  - [What Is the Purpose of Using a Spreadsheet?](https://smallbusiness.chron.com/purpose-using-spreadsheet-54262.html)
-  - [Why People Use Spreadsheets in a Workplace](https://smallbusiness.chron.com/people-use-spreadsheets-workplace-52568.html)
-  - [How Do Companies Use Spreadsheets?](https://smallbusiness.chron.com/companies-use-spreadsheets-54058.html)
-  - [The Advantages & Disadvantages of Spreadsheets](https://smallbusiness.chron.com/advantages-disadvantages-spreadsheets-26551.html)
-  - [Spreadsheets Vs. Databases](https://smallbusiness.chron.com/spreadsheets-vs-databases-53907.html)
-  {: .read}
+### UMUC suggested readings about spreadsheets
 
-#### Tutorials for Microsoft Excel 2016 by Kennesaw State University
+- [Spreadsheet Cell References (Excel or Calc)]({{site.baseurl}}assets/ifsm201/Asgn2-SS_Spreadsheet-RelativeAbsoluteReferences.pdf)
+- [What Is the Purpose of Using a Spreadsheet?](https://smallbusiness.chron.com/purpose-using-spreadsheet-54262.html)
+- [Why People Use Spreadsheets in a Workplace](https://smallbusiness.chron.com/people-use-spreadsheets-workplace-52568.html)
+- [How Do Companies Use Spreadsheets?](https://smallbusiness.chron.com/companies-use-spreadsheets-54058.html)
+- [The Advantages & Disadvantages of Spreadsheets](https://smallbusiness.chron.com/advantages-disadvantages-spreadsheets-26551.html)
+- [Spreadsheets Vs. Databases](https://smallbusiness.chron.com/spreadsheets-vs-databases-53907.html)
+{: .read}
 
-| Windows  |  MacOS 
+### Tutorials for Microsoft Excel 2016 by Kennesaw State University
+
+| Windows  |  MacOS
 | ---|---
 | [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_MAC_Quick_Start_Guide.pdf "Right click this link and open in new tab")
 | [Introduction to Excel]({https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_PC_Introduction_to_Excel.pdf "Right click this link and open in new tab") | [Introduction to Excel](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Excel_2016_Mac_Intro_to_Excel.pdf "Right click this link and open in new tab")
@@ -292,18 +286,13 @@ Please work through the Excel tutorials for the version of Excel that you intend
 After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder.
 {: .check}
 
-If you have any questions about the class or assignments feel free to post in the 
-LEO Discussion > Ask your Professor. There are no required discussions this week. 
+If you have any questions about the class or assignments feel free to post in the
+LEO Discussion > Ask your Professor. There are no required discussions this week.
 
-  
 ## Week 4: Databases
 {: #Week4 .anchor}
   
-![.]({{site.baseurl}}/assets/ifsm201/Wk4.png)This week you will be looking at the basic concepts or components used in the construction of database, read about different database structures, and investigate specific security issues related to use of databases.  In addition, the relationships between Customer Relationship Management (CRM), data warehouses, and data mining will be introduced. 
-
-### Content this week
-
-This week we will be discussing Databases in preparation for Assignment 3. I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files and read the first two documents prior to class and before taking Quiz 4.
+![.]({{site.baseurl}}/assets/ifsm201/Wk4.png)This week you will be looking at the basic concepts or components used in the construction of database, read about different database structures, and investigate specific security issues related to use of databases.  In addition, the relationships between Customer Relationship Management (CRM), data warehouses, and data mining will be introduced. This week we will be discussing Databases in preparation for Assignment 3. I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files and read the first two documents prior to class and before taking Quiz 4.
 
 - [Slide Set 3: Databases]({{site.baseurl}}/assets/ifsm201/SlideSet-3-Databases.pdf)
 - [Databases - Knowledge Management - Business Intelligence]({{site.baseurl}}/assets/ifsm201/4-Databases-KnowledgeManagement-BusinessIntelligence.pdf)
@@ -354,8 +343,8 @@ Work through the listed tutorials for the version of Microsoft Access you intend
 
 #### [SQL coding for a Simple Database - khanacademy.org](https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql)
 
- - This interactive tutorial will introduce you to the basic structure of a database and the first set of SQL commands that are used to create and manipulate a database. You will not have to download any software - the tutorial and activities are completed totally online. You may work through the tutorial as many times as you wish. This content is on Quiz 4 Databases so you will need to do the tutorial before taking the quiz. You are encouraged to take notes or even print some of the screens that display the various SQL commands, how they are used, and the result of executing those commands. This will be your first experience with writing computer code and if you like it then I encourage you to enroll in CMIS102 or CMST385.
- {: .check} 
+- This interactive tutorial will introduce you to the basic structure of a database and the first set of SQL commands that are used to create and manipulate a database. You will not have to download any software - the tutorial and activities are completed totally online. You may work through the tutorial as many times as you wish. This content is on Quiz 4 Databases so you will need to do the tutorial before taking the quiz. You are encouraged to take notes or even print some of the screens that display the various SQL commands, how they are used, and the result of executing those commands. This will be your first experience with writing computer code and if you like it then I encourage you to enroll in CMIS102 or CMST385.
+ {: .check}
 
 #### Quiz 4 must be completed before our next class
 
@@ -373,18 +362,14 @@ LEO Discussion > Ask your Professor. There are no required discussions this week
 ## Week 5: Networking and Internet
 {: #Week5 .anchor}
 
-![.]({{site.baseurl}}/assets/ifsm201/Wk5.png)This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document  [Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf).
-
-### Content this week
-
-This week we will be discussing Databases in preparation for Assignment 3. I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files and read the first two documents prior to class and before taking Quiz 4.
+![.]({{site.baseurl}}/assets/ifsm201/Wk5.png)This week you will develop an understanding of Informations Systems infrastructure with computer networks, the Internet, and World Wide Web. Prior to class please read the document  [Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf). I will utilize PowerPoint slides for lecture and discussion. Please print the following PDF files and read the first two documents prior to class and before taking Quiz 4.
 
 - [READ Information Sharing Networks]({{site.baseurl}}/assets/ifsm201/READ-5-InformationSharingNetworks.pdf)
 - [Slide Set 6: Networking and Markdown]({{site.baseurl}}/assets/ifsm201/SlideSet-6-Networking-MD.pdf)
 - [Assignment 4: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf)
 {: .pdf}
 
-#### Interesting videos and websites to view:
+### Interesting videos and websites to view
 
 - [MDN How does the Internet work?](https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work)
 - [PhotoFiltre 6 Free for Windows](http://photofiltre.free.fr) [download](http://photofiltre.free.fr/utils/pf-setup-en-653.exe)
@@ -399,14 +384,12 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 - [Apple Photos Tutorial - Basic Editing](https://youtu.be/bfGONt6Ec70) 6m
 {: .vid}
 
-### Activities this week
-
-#### Assignment 4: Create a Website
+### Assignment 4: Create a Website
 
 - Work through [Assignment 4: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf). You must upload a file to make a submission on LEO. Create a Word document with your website URL and describe your experience with the website project. Also paste your URL and comments in the comment area when you submit and upload this file. I created a sample website at <http://iwakunibob.github.io>
 {: .check}
 
-##### Student Websites 
+##### Student Websites
 
 | Person| URL
 +---+----
@@ -418,13 +401,12 @@ This week we will be discussing Databases in preparation for Assignment 3. I wil
 | Mami | <https://mamimuramoto.github.io/>
 | David | <https://globber92d.github.io>
 
-
-#### Discussion for Week 5
+### Discussion for Week 5
 
 - The Discussion for this week will be converting a 32-bit IPV4 address in binary form to the standard dot separated four octet format and then entering  it in a browser to see where it goes as a fixed IP address. As with all discussion you will need to reply post to two other student's posts.
 {: .check}
 
-#### Academic Integrity Tutorial must be completed before Week 6
+### Academic Integrity Tutorial must be completed before Week 6
 
 - Finish working through the Academic Integrity Tutorial this week. This tutorial is due next week and but you must score a 90% or higher on the Academic Integrity Tutorial quiz to pass which may take several attempts at this quiz. After receiving 90% or above you need to download the certificate as a PDF file and upload to its assignment folder. The [Academic Integrity Tutorial](http://www.umuc.edu/current-students/learning-resources/academic-integrity/tutorial/index.cfm)
 {: .check}
@@ -435,16 +417,16 @@ If you have any questions about the class or assignments feel free to post in th
 *LEO Discussion > Ask your Professor*  
 There are no required discussions this week.
 
-## Week 6: Introduction to computer programmng
+## Week 6: Introduction to computer programming
 {: #Week6 .anchor}
 
- ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)This week we will examine the topic of computer programming. The online tool Scratch will be discussed as a means to design program sequencing and implementation. An optional assignment 6 will be proposed which can be utilized to replace your lowest assignment or quiz score. The Python programming language will also be discussed in examples and you are welcome to code assignment 6 in Python if you prefer instead of using Scratch. However, Scratch allows you to create and program multimedia for very appealing programs. If you are curious about programming then please consider taking the first step by enrolling in CMIS102 for Fall 2. 
+ ![.]({{site.baseurl}}/assets/ifsm201/Wk7.png)This week we will examine the topic of computer programming. The online tool Scratch will be discussed as a means to design program sequencing and implementation. An optional assignment 6 will be proposed which can be utilized to replace your lowest assignment or quiz score. The Python programming language will also be discussed in examples and you are welcome to code assignment 6 in Python if you prefer instead of using Scratch. However, Scratch allows you to create and program multimedia for very appealing programs. If you are curious about programming then please consider taking the first step by enrolling in CMIS102 for Fall 2.
 
-[Slide Set 8 - Programming]({{site.baseurl}}/assets/ifsm201/SlideSet-8-Programming-py.pdf)
+- [Slide Set 8 - Programming]({{site.baseurl}}/assets/ifsm201/SlideSet-8-Programming-py.pdf)
+- [Assignment 6 - Programming in Scratch]({{site.baseurl}}/assets/ifsm201/A6-Prog-Scratch.pdf)
+{: .pdf}
 
-[Assignment 6 - Programming in Scratch]({{site.baseurl}}/assets/ifsm201/A6-Prog-Scratch.pdf)
-
-Links for Scratch programming:
+### Links for Scratch programming
 
 - <https://scratch.mit.edu/> and sign up for an online account
 - <https://www.coursera.org/learn/intro-programming> is a good tutorial
@@ -452,40 +434,36 @@ Links for Scratch programming:
 - [YouTube Scratch Video animation tutorials](https://www.youtube.com/playlist?list=PL0-84-yl1fUki_zQ1ouwGN8t3spCTLnpS)
 - [Udemy Course covering Scratch](https://www.udemy.com/scratch-game-programming/)
 - [Free Scratch Book](https://inventwithscratch.com/book/)
+{: .link}
 
-Links for Python Programming:
+### Links for Python Programming
+
+- You can run these code examples using either <https://thonny.org/> or <https://repl.it>
 - [Thonny Python IDE with Python 3](https://thonny.org/)
 - [Introducing Thonny](https://youtu.be/nwIgxrXP-X4)
 - [Udemy: Learn the Building Blocks of Python for Absolute Beginners](https://www.udemy.com/course/python-fundamental-basics/)
 - [YouTube: Python Programming Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
+- Python Coconut program viewable at <https://repl.it/@iwakunibob/coconuts>
+- Python Temperature program viewable at <https://repl.it/@iwakunibob/temperatures>
+- Python Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroll>
+{: .link}
 
-### Python is a common popular general purpose language
+### JavaScript is very popular web programming language
 
-You can run these code examples using either <https://thonny.org/> or <https://repl.it>
-
-#### Python Coconut program viewable at <https://repl.it/@iwakunibob/coconuts>
-
-#### Python Temperature program viewable at <https://repl.it/@iwakunibob/temperatures>
-
-#### Python Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroll>
-
-### JavaScript is very popular Language web browser language
-
-#### JS Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroller-js>
-
+- JS Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroller-js>
 - JavaScript program for Temperature converter [available here]({{site.baseurl}}/assets/ifsm201/js/Temperature.html)
 - JavaScript GUI program for Casino chip counting [available here]({{site.baseurl}}/assets/ifsm201/js/casino.html)
 - JavaScript GUI program for Risk Game Dice Roller program [available here](http://islandman.org/risk/index.html).
+{: .link}
 
 ### Go is a new compiled and very fast language created by Google
 
-#### Go Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroller-go>
-
-<iframe height="400px" width="100%" src="https://repl.it/@iwakunibob/diceroller-go?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+- Go Dice Roller program viewable at <https://repl.it/@iwakunibob/diceroller-go>
+{: .link}
 
 If you have any questions about the class or assignments feel free to post in the  
 *LEO Discussion > Ask your Professor*  
-There are no required discussions this week. 
+There are no required discussions this week.
 
 ## Week 7: Ethics, Privacy,  and Security
 {: #Week7 .anchor}
@@ -493,8 +471,6 @@ There are no required discussions this week.
 ![.]({{site.baseurl}}/assets/ifsm201/Wk6.png)This week you will begin explore issues that are directly related to the use of computers and access to the internet.  Some topics are related to using the computer and computer resources in the workplace including user access agreements and employee and professional associations codes of conduct. Other topics address personal use of computers, specifically issues related to the legal use of software and issues that are specific to social networking.
 
 We will also discuss PowerPoint as a Presentation Graphics tool which you will need to utilize for Assignment 5.
-
-### Content this week
 
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the following PDF files prior to class so you can take notes on them:
 
@@ -504,7 +480,7 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 - [READ Security]({{site.baseurl}}/assets/ifsm201/READ-6-Security.pdf "Right click this link and open in new tab")
 {: .pdf}
 
-#### Videos about Computer Ethics, Privacy, and Security:
+### Videos about Computer Ethics, Privacy, and Security
 
 - [Legal Rights & Ethical Responsibilities](https://https://youtu.be/9Zg4-hb4WYo) 7m
 - [Illegally Downloaded Music](https://youtu.be/Af0wXeN6_FY) 3m
@@ -513,10 +489,11 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 - [How to Protect Your Computer From Viruses and Hackers](https://youtu.be/SbqC2k4vbXY) 12m
 - [How to protect your online privacy - From noob to pro](https://youtu.be/gFsRXfifcYg) 15m
 - [This is how Google is spying on everything you do](https://youtu.be/dTF8_DwDjW4) 10m
+{: .vid}
 
-#### Tutorials for PowerPoint 2016 by Kennesaw State University
+### Tutorials for PowerPoint 2016 by Kennesaw State University
 
-| Windows  |  MacOS 
+| Windows  |  MacOS
 | ---|---
 | [Quick Start Guide to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_PC_Quick_Start_Guide.pdf "Right click this link and open in new tab") | [Quick Start Guide to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_Mac_Quick_Start_Guide.pdf "Right click this link and open in new tab")
 | [Introduction to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_PC_%20Introduction_to_PowerPoint.pdf "Right click this link and open in new tab") | [Introduction to PowerPoint](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/PowerPoint_2016_Mac_%20Introduction_to_PowerPoint.pdf "Right click this link and open in new tab")
@@ -524,7 +501,7 @@ I will utilize PowerPoint slides for lecture and discussion. The slide sets will
 
 This week you will apply PowerPoint skills to Assignment 5 - Research Presentation. Choose the link for the version of PowerPoint you are using. The sites are a product of the Goodwill Community Foundation (GCF) LearnFree.org.
 
-| [PowerPoint 2010](https://edu.gcfglobal.org/en/powerpoint2010/) | [PowerPoint 2013](https://edu.gcfglobal.org/en/powerpoint2013/) | [PowarPoint 2016](https://edu.gcfglobal.org/en/powerpoint2016/) 
+| [PowerPoint 2010](https://edu.gcfglobal.org/en/powerpoint2010/) | [PowerPoint 2013](https://edu.gcfglobal.org/en/powerpoint2013/) | [PowarPoint 2016](https://edu.gcfglobal.org/en/powerpoint2016/)
 |---|---|---
 | #1 Getting Started | #4 Getting to Know | #1 Getting Started
 | #2 Slide Basics | #5 Creating pres. | #3 Creating pres.
@@ -545,9 +522,7 @@ This week you will apply PowerPoint skills to Assignment 5 - Research Presentati
 |  | #20 Animating | #18 Arranging obj.
 |  |   | #19 Animating
 
-### Activities this week  
-
-#### Assignment 5: Research Presentation 
+### Assignment 5: Research Presentation 
 
 Work through Assignment 5 - Reserach Presentation as described in the attached file:  
 
@@ -556,7 +531,7 @@ Work through Assignment 5 - Reserach Presentation as described in the attached 
 
 Submit only **Asgn5-*YourName*.pptx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS PowerPoint. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before 1pm for Last class. 
 
-#### Quiz 5 must be completed before our next class
+### Quiz 5 must be completed before our next class
 
 The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain both multiple choice and True/False questions. The second week you will be permitted to take the quiz only once.  You must be logged into LEO to take the quiz and they are timed so allocate 60 minutes. If you walk away and the quiz times out you will receive a zero on that quiz.
 
@@ -565,7 +540,6 @@ The ***<abbr title="Learning Experience Online">LEO</abbr> Quizzes*** contain bo
 
 If you have any questions about the class or assignments feel free to post in the 
 LEO Discussion > Ask your Professor. There are no required discussions this week.
-
 
 ## Week 8: Research Presentations
 {: #Week8 .anchor}
@@ -586,10 +560,12 @@ UMUC has several different Computer Majors and Minors 
 - Information Systems Management = IFSM [video](https://youtu.be/juDx6Sz9jV0)
 - Digital Media and Web Technology = CMST
 - Computer Networks and Cybersecurity = CMIT
+{: .check}
 
 Most UMUC majors will need to take:
 
 - IFSM300 = Information Systems in Organizations (prereq IFSM201)
+{: .check}
 
 Informations Systems Management and Computer Science courses:
 
@@ -597,9 +573,11 @@ Informations Systems Management and Computer Science courses:
 - CMIS141 = Introduction to Programming (prereq CMIS102)
 - CMIS242 = Intermediate Programming (prereq CMIS141)
 - CMIS320 = Relational Database Concepts (prereq CMIS102)
+{: .check}
 
 Digital Media and Web Technology junior level courses that may appeal to Business, IFSM, or CMST majors:
 
 - CMST290 =Introduction to Interactive Design
 - CMST385 = Web Design and Technology 1 (prereq CMST290)
 - CMST386 = Web Design and Technology 2 (prereq CMST385)
+{: .check}
