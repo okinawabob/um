@@ -101,6 +101,7 @@ Additionally, we will also discuss our first software application which is Word 
 
 I will utilize PowerPoint slides for lecture and discussion. The slide sets will be posted as PDF documents with four slides per page in color. Please print the PDF file prior to class: 
 - [Slide Set 1: Hardware and Word Processing]({{site.baseurl}}/assets/ifsm201/SlideSet-1-Hardware-Word.pdf "Right click this link and open in new tab")
+- [Assignment1-WordProcessing]({{site.baseurl}}/assets/ifsm201/Asgn1-WordProcessing.pdf "Right click this link and open in new tab")
 {: .pdf}
 
 Throughout this course, we will be using free tutorials and educational resources available at [Goodwill Community Foundation (GCF)](https://edu.gcfglobal.org/en/ "Right click this link and open in new tab"). To better understand computers, please click the link below and work through the [Computer Basics Tutorial](https://edu.gcfglobal.org/en/computerbasics/ "Right click this link and open in new tab") Steps
@@ -170,7 +171,7 @@ Please work through the tutorials at GCF LearnFree.org if you intend to use Micr
 
 ### Assignment 1: Word Processing (Computer Shopping)
 
-- Work through [Assignment1-WordProcessing.pdf]({{site.baseurl}}/assets/ifsm201/Asgn1-WordProcessing.pdf "Right click this link and open in new tab") as described in this file.  Submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
+- Work through [Assignment1-WordProcessing]({{site.baseurl}}/assets/ifsm201/Asgn1-WordProcessing.pdf "Right click this link and open in new tab") and submit only **Asgn1-*YourName*.docx** file and verify this by not hiding extensions of known file types on your computer and open the file in MS Word. Must be uploaded and submitted on ***<abbr title="Learning Experience Online">LEO</abbr> Assignments*** before next class. The assignment will be graded based on described requirements.
 {: .todo}
 
 ### Quiz 2 must be completed before our next class
