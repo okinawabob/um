@@ -90,7 +90,9 @@ Please download and print the following two documents in color before class this
 - [Assignment 1: Computer Coding]({{site.baseurl}}/assets/cmis102/CMIS102A01d.pdf "Right click this link and open in new tab")
 {: .pdf}
 
-Watch the videos to help you get started writing HTML code using a text editor. As an alternative text editor you could also use [Notepad++](https://notepad-plus-plus.org/downloads/) featured here if you are a windows user which is used in these videos, but Visual Studio Code has more features.
+We will be using JavaScript as the programming language for this class so it has the added advantage that all your work efforts can be hosted on a website. I recommend GitHub pages as your free web host. Actually, I use it myself and utilize islandman.org as my custom domain name. If you had me in IFSM201 you can continue using the GitHub account your created and continue developing your website in Markdown or HTML. However, for this week I would like you to experience HTML code for Assignment 1. If you need to create a new GitHub account then please follow along with this [Assignment: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf) handout that we utilized in IFSM201. I created a sample website at <http://iwakunibob.github.io>. The YouTube video [GitHub Hosting in 5 minutes | Free Static Web Hosting | Quick Code](https://youtu.be/hXorYP_HQtM) also walks you through this same process.
+
+Watch the videos to help you get started writing HTML code using a text editor. As an alternative text editor you could also use [Notepad++](https://notepad-plus-plus.org/downloads/) featured here if you are a windows user which is used in these videos, but [Visual Studio Code](https://code.visualstudio.com) has more features and is my recommended code editor listed below. If you get weary of watching YouTube advertisements you may want to try the [Brave browser](https://brave.com/).
 
 - [HTML5 Tutorial For Beginners - part 1 - Getting Started](https://youtu.be/9gTw2EDkaDQ) 8m
 - [HTML5 Tutorial For Beginners - part 2 - Text](https://youtu.be/YcApt9RgiT0) 6m
@@ -120,12 +122,12 @@ Visual Studio Code](https://code.visualstudio.com) is an open source editor proj
 
 #### Online cloud based editor [Repl.it](https://repl.it/)
 
-Sign up for a [Repl.it](https://repl.it/) account. You may use your Github.com account or an email address to set up this account.
+If you prefer working online, Yyou can sign up for a free [Repl.it](https://repl.it/) account. You may use your Github.com account or an email address to set up this account.
 
 After you have created an account and confirmed it via email you will then create your first project by Create a new repl selecting **HTML, CSS, JS**. 
 This will create the required default HTML code for you. 
 
-Watch and take notes for these 9 videos [HTML Tutorials - using repl.it](https://www.youtube.com/playlist?list=PL2cGEaSEhir6QbCn1oKARAnVAHZhwgSDT)
+Watch and take notes for these 9 videos [HTML Tutorials - using repl.it](https://www.youtube.com/playlist?list=PL2cGEaSEhir6QbCn1oKARAnVAHZhwgSDT) if you would like to use repl.it
 
 Please work through Assignment 1 utilizing Repl.it creating a separate Repl for each part or Assignment 1.
 
