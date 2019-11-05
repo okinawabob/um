@@ -114,11 +114,16 @@ I also recommend working through their HTML tutorial from HTML-Introduction to H
 
 Visual Studio Code](https://code.visualstudio.com) is an open source editor project created by Microsoft and available for Windows, MacOS, or Linux. It can be utilized without being online when writing code and can be used for many computer programming languages. It also integrates well with GIT to synchronize code with GitHub pages.
 
-- [Web Page with Visual Studio Code](https://youtu.be/o_qAFQslASM)
-- [Visual Studio Code - Getting Started with Git(Hub)](https://youtu.be/NTY5VELbCWI)
-- [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs)
-- [5 Awesome Visual Studio Code Extensions for Writing HTML](https://youtu.be/Z5RkLrSDlFA)
+- [Web Page with Visual Studio Code](https://youtu.be/o_qAFQslASM) 11m
+- [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs) 22m
+- [5 Awesome Visual Studio Code Extensions for Writing HTML](https://youtu.be/Z5RkLrSDlFA) 9m
+- [Visual Studio Code: How to use git and github](https://youtu.be/Fk12ELJ9Bww) 17m
 {: .vid}
+
+- [Emmet Quick Reference HTML & CSS](http://islandman.org/umuc/cmst385/EmmetCheatSheet.pdf)
+- [Git download for your OS](https://git-scm.com/downloads)
+{: .link}
+
 
 #### Online cloud based editor [Repl.it](https://repl.it/)
 
