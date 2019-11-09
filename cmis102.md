@@ -218,8 +218,10 @@ JavaScript eBook links that maybe helpful
 
 - [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
-
-
+    1. [Basics > Comments, Variables, Types, Equality](https://gitbookio.gitbooks.io/javascript/content/basics/)
+    2. [Numbers > Creation, Basic Operators, Advanced Operators](https://gitbookio.gitbooks.io/javascript/content/numbers/)
+    3. [Strings > Creation, Concatenation, Lengths](https://gitbookio.gitbooks.io/javascript/content/strings/)
+{: .link}
 
 ### Week 4 Duties
 
