@@ -214,6 +214,13 @@ Watch these videos before class. which cover how to write JavaScript code encaps
 - [Beginner JavaScript Tutorial - 17 - Complex Conditions](https://youtu.be/aQf-zeuHijU) 8m
 {: .vid}
 
+JavaScript eBook links that maybe helpful
+
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1
+- [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
+
+
+
 ### Week 4 Duties
 
 - Complete Assignment 3
