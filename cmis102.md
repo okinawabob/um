@@ -179,9 +179,19 @@ We will build on the concepts learned last week by making an HTML document that 
 [Learn the Web - JavaScript Syntax](https://learn-the-web.algonquindesign.ca/topics/javascript-syntax/) utilizes HTML5 code standards in their code and links to the JavaScript program.
 
 A good reference web site forJavaScript is <https://www.w3schools.com/jsref/jsref_reference.asp>.  
-I also recommend working through their JavaScript tutorial from JS-Introduction to JS-Assignment at <https://www.w3schools.com/js/default.asp>. To facilitate data input we will utilize window.prompt() so please read this section <https://www.w3schools.com/js/js_popup.asp>. To convert string data to numbers you will need to utilize [parseInt](https://www.w3schools.com/jsref/jsref_parseint.asp) or [parseFloat](https://www.w3schools.com/jsref/jsref_parsefloat.asp) so review these as well. 
+Working through their [JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Introduction to JS-Assignment.  
+To facilitate data input we will utilize window.prompt() so please read this section <https://www.w3schools.com/js/js_popup.asp>. To convert string data to numbers you will need to utilize [parseInt](https://www.w3schools.com/jsref/jsref_parseint.asp) or [parseFloat](https://www.w3schools.com/jsref/jsref_parsefloat.asp) so review these as well. 
 
 [Scratch](https://scratch.mit.edu/) is a great program for prototyping procedural programs using flowchart methodology. It has great graphical features and can be utilized for the development of your assignments.
+
+JavaScript eBook links that maybe helpful
+
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1
+- [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
+    1. [Basics > Comments, Variables, Types, Equality](https://gitbookio.gitbooks.io/javascript/content/basics/)
+    2. [Numbers > Creation, Basic Operators, Advanced Operators](https://gitbookio.gitbooks.io/javascript/content/numbers/)
+    3. [Strings > Creation, Concatenation, Lengths](https://gitbookio.gitbooks.io/javascript/content/strings/)
+{: .link}
 
 ### Week 3 Duties
 
@@ -200,13 +210,15 @@ Use the browser Error Console throughout the implementation process to view erro
 
 Create links to your web pages that contain the JavaScript code for each part of this assignment. Make sure all links work for the program implementation files. If they do not you will receive a zero.
 
-Print and examine Slide Set 4, and create the Program Design document for all parts of Assignment 3 described below:
+Work through their [JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Booleans to JS-Conditionals.  
+
+### Print and examine Slide Set 4, and create the Program Design document for all parts of Assignment 3 described below:
 
 - [Slide Set 4: Selection Structure Programming]({{site.baseurl}}/assets/cmis102/04_SelectionStructureJS.pdf)
 - [Assignment 3: Selection Structure Programs]({{site.baseurl}}/assets/cmis102/CMIS102A03d.pdf)
 {: .pdf}
 
-Watch these videos before class. which cover how to write JavaScript code encapsulated HTML code with a selection structure:
+### Watch these videos before class. which cover how to write JavaScript code encapsulated HTML code with a selection structure:
 
 - [Beginner JavaScript Tutorial - 14 - if Statement](https://youtu.be/5gjr15aWp24) 8m
 - [Beginner JavaScript Tutorial - 15 - if/else Statement](https://youtu.be/FKyrQYkihGw) 7m
@@ -214,13 +226,11 @@ Watch these videos before class. which cover how to write JavaScript code encaps
 - [Beginner JavaScript Tutorial - 17 - Complex Conditions](https://youtu.be/aQf-zeuHijU) 8m
 {: .vid}
 
-JavaScript eBook links that maybe helpful
+### JavaScript eBook links that maybe helpful
 
 - [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
-    1. [Basics > Comments, Variables, Types, Equality](https://gitbookio.gitbooks.io/javascript/content/basics/)
-    2. [Numbers > Creation, Basic Operators, Advanced Operators](https://gitbookio.gitbooks.io/javascript/content/numbers/)
-    3. [Strings > Creation, Concatenation, Lengths](https://gitbookio.gitbooks.io/javascript/content/strings/)
+    1. [Conditional Logic - If, Else, Comparators, Concatenate](https://gitbookio.gitbooks.io/javascript/content/conditional/)
 {: .link}
 
 ### Week 4 Duties
