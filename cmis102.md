@@ -179,7 +179,7 @@ We will build on the concepts learned last week by making an HTML document that 
 [Learn the Web - JavaScript Syntax](https://learn-the-web.algonquindesign.ca/topics/javascript-syntax/) utilizes HTML5 code standards in their code and links to the JavaScript program.
 
 A good reference web site forJavaScript is <https://www.w3schools.com/jsref/jsref_reference.asp>.  
-Working through their [JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Introduction to JS-Assignment.  
+Work through their [JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Introduction to JS-Assignment.  
 To facilitate data input we will utilize window.prompt() so please read this section <https://www.w3schools.com/js/js_popup.asp>. To convert string data to numbers you will need to utilize [parseInt](https://www.w3schools.com/jsref/jsref_parseint.asp) or [parseFloat](https://www.w3schools.com/jsref/jsref_parsefloat.asp) so review these as well. 
 
 [Scratch](https://scratch.mit.edu/) is a great program for prototyping procedural programs using flowchart methodology. It has great graphical features and can be utilized for the development of your assignments.
