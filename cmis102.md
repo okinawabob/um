@@ -256,9 +256,9 @@ Please print Assignment 4 and Slide Set 5, before coming to class. The slide set
 
 ### Watch these videos before class. which cover how to write JavaScript code ewith a repitition structure:
 
-- [Beginner JavaScript Tutorial - 20 - while Loop](https://youtu.be/QPFW_0blw9w)
-- [Beginner JavaScript Tutorial - 19 - for Loop](https://youtu.be/Coxgr66EwRk)
-- [Beginner JavaScript Tutorial - 21 - do while](https://youtu.be/7Eb7D_IOaog)
+- [Beginner JavaScript Tutorial - 20 - while Loop](https://youtu.be/QPFW_0blw9w) 6m
+- [Beginner JavaScript Tutorial - 19 - for Loop](https://youtu.be/Coxgr66EwRk) 6m
+- [Beginner JavaScript Tutorial - 21 - do while](https://youtu.be/7Eb7D_IOaog) 6m
 {: .vid}
 
 ### JavaScript eBooks and links that maybe helpful for Week 5
@@ -269,15 +269,9 @@ Please print Assignment 4 and Slide Set 5, before coming to class. The slide set
     1. [Loops - For, While, Do...While](https://gitbookio.gitbooks.io/javascript/content/loops/)
 {: .link}
 
-Content
-Be sure to complete all of the activities for this week including:
-
-Read all Books 24x7 topics
-Read though both Modules on Loops
-Complete and submit Assignment 3
-Work through Assignment 4 this week and submit next week
-Post any questions in the Week 5 Questions and Comments Discussion
-For this assignment, you write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their 2 URL's here. Also create links to these two programs from you home page. You can also download Assignment 4 Handout by clicking here.
+Check your JavaScript code by copying and pasting the contents contained in the script element to the text area at
+<https://jshint.com> during the implementation process and before submission. Note that not all errors are accurate for browser JavaScript so just take it as advice. Ignore radix errors for parseInt( ) and can be a form of eval errors for document.write( ).
+You should also validate the HTML code using <https://validator.w3.org/> and styles using <https://jigsaw.w3.org/css-validator/>.
 
 ### Week 5 Duties
 
