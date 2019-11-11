@@ -203,7 +203,7 @@ Assignment 2 is due this week and you will need to write HTML and JavaScript cod
 This week we will focus on the selection programming structure that provides the ability of a program to make decisions based on a True or False criteria. Please examine Slide Set 4 and Assignment 3 and create the Program Design document for each part before class this week. Use a word processor to create the Specifications Section, Algorithm Design, and Known Test Data sections. Create input and output displays for desired output for the known test data. Use Scratch, PowerPoint, or another graphics program to make flowcharts. Another interesting option is the Google Chrome plugin draw.io
 Make sure that you use diamonds for the flowchart symbol for a selection structure with assertion displayed and two arrows out labeled True or False. Embed the flow chart in your Program Design document or attach as file.
 
-Check your JavaScript code by copying pasting the contents contained in the <script> element to the text area at 
+Check your JavaScript code by copying and pasting the contents contained in the script> element to the text area at
 <https://jshint.com> during the implementation process and before submission. Note that not all errors are accurate for browser JavaScript so just take it as advice. Ignore radix errors for parseInt( ) and can be a form of eval errors for document.write( ).
 
 Use the browser Error Console throughout the implementation process to view errors. This will identify syntax errors as the code is run. Use window.alert(variableName) to display the value of variables during the implementation process to identify logic errors after all syntax errors are cleared.
