@@ -186,6 +186,7 @@ We will build on the concepts learned last week by making an HTML document that 
 - Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from **JS-Introduction** to **JS-Assignment**.  
     - Data input we will utilize window.prompt() so please read this section <https://www.w3schools.com/js/js_popup.asp>. 
     - To convert string data to numbers you will need to utilize [parseInt](https://www.w3schools.com/jsref/jsref_parseint.asp) or [parseFloat](https://www.w3schools.com/jsref/jsref_parsefloat.asp). 
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First HTML 5 Programming, 2011](https://learning.oreilly.com/library/view/head-first-html5/9781449314712/) - Read Chapter 1 and 2
 - [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
     1. [Basics > Comments, Variables, Types, Equality](https://gitbookio.gitbooks.io/javascript/content/basics/)
