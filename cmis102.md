@@ -203,8 +203,9 @@ Assignment 2 is due this week and you will need to write HTML and JavaScript cod
 This week we will focus on the selection programming structure that provides the ability of a program to make decisions based on a True or False criteria. Please examine Slide Set 4 and Assignment 3 and create the Program Design document for each part before class this week. Use a word processor to create the Specifications Section, Algorithm Design, and Known Test Data sections. Create input and output displays for desired output for the known test data. Use Scratch, PowerPoint, or another graphics program to make flowcharts. Another interesting option is the Google Chrome plugin draw.io
 Make sure that you use diamonds for the flowchart symbol for a selection structure with assertion displayed and two arrows out labeled True or False. Embed the flow chart in your Program Design document or attach as file.
 
-Check your JavaScript code by copying and pasting the contents contained in the script> element to the text area at
+Check your JavaScript code by copying and pasting the contents contained in the script element to the text area at
 <https://jshint.com> during the implementation process and before submission. Note that not all errors are accurate for browser JavaScript so just take it as advice. Ignore radix errors for parseInt( ) and can be a form of eval errors for document.write( ).
+You should also validate the HTML code using <https://validator.w3.org/> and styles using <https://jigsaw.w3.org/css-validator/>.
 
 Use the browser Error Console throughout the implementation process to view errors. This will identify syntax errors as the code is run. Use window.alert(variableName) to display the value of variables during the implementation process to identify logic errors after all syntax errors are cleared.
 
@@ -243,6 +244,48 @@ For this assignment, you write HTML and JavaScript code to make a web pages that
 ## Week 5: Repetition Structures
 {: #Week5 .anchor}
 
+This week we will focus on Repetition Structures which allows your programs to loop. They are often used to process enormous amounts of structured data with relatively little program code. Please read and work through all reading material described below and watch videos before class this week. We will need to use the Math.random() and Math.floor() JavaScript functions this week in class, which is part of the Math object and will be used to program your guessing game in Assignment 4 Part B.
+
+Please print Assignment 4 and Slide Set 5, before coming to class. The slide sets are posted as PDF documents with four slides per page in color.
+
+### Print and examine Slide Set 5, and create the Program Design document for all parts of Assignment 4 described below:
+
+- [Slide Set 5: Repetition Structure Programming]({{site.baseurl}}/assets/cmis102/05_RepetitionStructureJS3.pdf)
+- [Assignment 4: Repetition Structure Programs]({{site.baseurl}}/assets/cmis102/CMIS102A04d.pdf)
+{: .pdf}
+
+### Watch these videos before class. which cover how to write JavaScript code ewith a repitition structure:
+
+- [Beginner JavaScript Tutorial - 20 - while Loop](https://youtu.be/QPFW_0blw9w)
+- [Beginner JavaScript Tutorial - 19 - for Loop](https://youtu.be/Coxgr66EwRk)
+- [Beginner JavaScript Tutorial - 21 - do while](https://youtu.be/7Eb7D_IOaog)
+{: .vid}
+
+### JavaScript eBooks and links that maybe helpful for Week 5
+
+- Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Loop For to JS-Loop While.  
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1 - Loops
+- [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
+    1. [Loops - For, While, Do...While](https://gitbookio.gitbooks.io/javascript/content/loops/)
+{: .link}
+
+Content
+Be sure to complete all of the activities for this week including:
+
+Read all Books 24x7 topics
+Read though both Modules on Loops
+Complete and submit Assignment 3
+Work through Assignment 4 this week and submit next week
+Post any questions in the Week 5 Questions and Comments Discussion
+For this assignment, you write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their 2 URL's here. Also create links to these two programs from you home page. You can also download Assignment 4 Handout by clicking here.
+
+### Week 5 Duties
+
+- Complete Assignment 4
+  - Do Design Phase before class
+  - Do Implementation Phase after Design
+
+For this assignment, you write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their URL's on LEO. Also create links to these two programs from you home page.
 
 ## Week 6: Arrays
 {: #Week6 .anchor}
@@ -253,8 +296,8 @@ For this assignment, you write HTML and JavaScript code to make a web pages that
 ## Week 8: Project Presentations
 {: #Week8 .anchor}
 
-This is the last week of our classes. This week you will be doing the talking doing presentations of your final project.
+![.]({{site.baseurl}}/assets/ifsm201/Wk8.png)This is the last week of our class. Our Tuesday class this week will be your last chance to get assistance with your code and final assignment.
 
-All work must be completed by Thursday this week. Anything completed after Thursday will not be considered when determining your course grade.
+All work must be submitted by Thursday this week. Anything completed after Thursday will not be considered when determining your course grade.
 
-It was a pleasure to have you in the class this session and I wish you much success with your education and career development.
+It was a pleasure to have you in the class this session and I hope to see you all in CMIS141 next term. The CMIS141 course will be covering the Java programming language which will be used for application development. I wish you much success with your education and career development.
