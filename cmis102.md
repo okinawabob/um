@@ -229,7 +229,7 @@ Create links to your web pages that contain the JavaScript code for each part of
 
 - Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Booleans to JS-Conditionals.  
 - [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1
-- [HTML 5 Programming]({{site.baseurl}}/assets/cmis102/HTML5Programming.pdf)
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First HTML 5 Programming, 2011](https://learning.oreilly.com/library/view/head-first-html5/9781449314712/) - Read Chapter 1 and 2
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
     1. [Conditional Logic - If, Else, Comparators, Concatenate](https://gitbookio.gitbooks.io/javascript/content/conditional/)
 {: .link}
