@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Counter Controlled Loop</title>
+  </head>
+<body> 
+	<script>
+			var nScore=0, nScoreTotal=0, nCount=0;
+			while(nCount < 5)
+			{
+				nScore=parseInt(window.prompt("Enter Score",""));
+				nScoreTotal = nScoreTotal + nScore;
+				nCount = nCount + 1;
+				document.write("Score " + nCount + " = " + nScore + "<br>");
+			}
+			document.write("<h2>The Average Score = "+ nScoreTotal/5 +"</h2>");
+    </script>
+    <p>Click Reload to run the script again</p> 
+  </body> 
+</html>

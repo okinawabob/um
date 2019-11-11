@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Sentinal Controlled Loop</title>
+  </head>
+<body>  
+		<script>
+			var fScore, fScoreTotal=0;
+			var nCount=0;
+			fScore = parseFloat(window.prompt("Enter Score (-1 to end)",""));
+			while(fScore >= 0)
+			{
+				fScoreTotal = fScoreTotal + fScore;
+				nCount = nCount + 1;
+				document.writeln("Score " + nCount + " = " + fScore + "<br>");
+				fScore = parseFloat(window.prompt("Enter Score (-1 to end)",""));
+			}
+			document.writeln("<h2>The Average Score = "
+         + fScoreTotal/nCount +"</h2>");
+		</script>
+     <p>Click Reload to run the script again</p> 
+  </body> 
+</html>
