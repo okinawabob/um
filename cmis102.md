@@ -75,6 +75,11 @@ Watch the following videos to enhance your learning of data representations:
 - [Multiplying in Binary](https://youtu.be/xHWKYFhhtJQ) 5m
 {: .vid}
 
+### eBook readings that maybe helpful for Week 1
+
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - Read Chapter 1 if you like for background
+{: .link}
+
 ### Week 1 Duties
 
 Complete all conversion problems at the end of the document covered this week in class.
@@ -89,6 +94,11 @@ Please download and print the following two documents in color before class this
 - [Slide Set 2: HTML Introduction]({{site.baseurl}}/assets/cmis102/02_HTML_Introduction.pdf "Right click this link and open in new tab")
 - [Assignment 1: Computer Coding]({{site.baseurl}}/assets/cmis102/CMIS102A01d.pdf "Right click this link and open in new tab")
 {: .pdf}
+
+### eBook readings that maybe helpful for Week 2
+
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 2.1 through 2.9 covering HTML5](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch02.html)
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 4.1 through 4.2 covering inline styles](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch04.html)
 
 We will be using JavaScript as the programming language for this class so it has the added advantage that all your work efforts can be hosted on a website. I recommend GitHub pages as your free web host. Actually, I use it myself and utilize islandman.org as my custom domain name. If you had me in IFSM201 you can continue using the GitHub account your created and continue developing your website in Markdown or HTML. However, for this week I would like you to experience HTML code for Assignment 1. If you need to create a new GitHub account then please follow along with this [Assignment: Create a Website]({{site.baseurl}}/assets/ifsm201/Asgn4-Markdown.pdf) handout that we utilized in IFSM201. I created a sample website at <http://iwakunibob.github.io>. The YouTube video [GitHub Hosting in 5 minutes: Free Static Web Hosting](https://youtu.be/hXorYP_HQtM) also walks you through this same process.
 
@@ -124,7 +134,7 @@ Visual Studio Code](https://code.visualstudio.com) is an open source editor proj
 - [Git download for your OS](https://git-scm.com/downloads)
 {: .link}
 
-
+<!--
 #### Online cloud based editor [Repl.it](https://repl.it/)
 
 If you prefer working online, Yyou can sign up for a free [Repl.it](https://repl.it/) account. You may use your Github.com account or an email address to set up this account.
@@ -135,6 +145,7 @@ This will create the required default HTML code for you.
 Watch and take notes for these 9 videos [HTML Tutorials - using repl.it](https://www.youtube.com/playlist?list=PL2cGEaSEhir6QbCn1oKARAnVAHZhwgSDT) if you would like to use repl.it
 
 Please work through Assignment 1 utilizing Repl.it creating a separate Repl for each part or Assignment 1.
+-->
 
 #### Graphics editors
 
@@ -165,6 +176,15 @@ Slide Set 3 and the readings describes the program development process to includ
 
 We will build on the concepts learned last week by making an HTML document that encapsulates JavaScript program code within the HTML documents as described in Slide Set 3. You will gain practical hands-on experience in program design and implementation phases with Assignment 2.
 
+### JavaScript eBooks and links that maybe helpful for Week 3
+
+- A good reference web site forJavaScript is <https://www.w3schools.com/jsref/jsref_reference.asp>  
+- Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from **JS-Introduction** to **JS-Assignment**.  
+    - Data input we will utilize window.prompt() so please read this section <https://www.w3schools.com/js/js_popup.asp>. 
+    - To convert string data to numbers you will need to utilize [parseInt](https://www.w3schools.com/jsref/jsref_parseint.asp) or [parseFloat](https://www.w3schools.com/jsref/jsref_parsefloat.asp). 
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 6.1 through 6.6 covering JavaScript](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch06.html)
+{: .link}
+
 [thenewboston - JavaScript](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82) videos listed below will help you get writing JavaScript code encapsulated HTML code with a text editor:
 
 - [Introduction to JavaScript](https://youtu.be/yQaAGmHNn9s) 7m
@@ -180,20 +200,6 @@ We will build on the concepts learned last week by making an HTML document that 
 
 [Scratch](https://scratch.mit.edu/) is a great program for prototyping procedural programs using flowchart methodology. It has great graphical features and can be utilized for the development of your assignments.
 
-### JavaScript eBooks and links that maybe helpful for Week 3
-
-- A good reference web site forJavaScript is <https://www.w3schools.com/jsref/jsref_reference.asp>  
-- Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from **JS-Introduction** to **JS-Assignment**.  
-    - Data input we will utilize window.prompt() so please read this section <https://www.w3schools.com/js/js_popup.asp>. 
-    - To convert string data to numbers you will need to utilize [parseInt](https://www.w3schools.com/jsref/jsref_parseint.asp) or [parseFloat](https://www.w3schools.com/jsref/jsref_parsefloat.asp). 
-- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First HTML 5 Programming, 2011](https://learning.oreilly.com/library/view/head-first-html5/9781449314712/) - Read Chapter 1 and 2
-- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1
-- [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
-    1. [Basics > Comments, Variables, Types, Equality](https://gitbookio.gitbooks.io/javascript/content/basics/)
-    2. [Numbers > Creation, Basic Operators, Advanced Operators](https://gitbookio.gitbooks.io/javascript/content/numbers/)
-    3. [Strings > Creation, Concatenation, Lengths](https://gitbookio.gitbooks.io/javascript/content/strings/)
-{: .link}
-
 ### Week 3 Duties
 
 Assignment 2 is due this week and you will need to write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their 2 URL's on LEO under assignment 2.
@@ -204,11 +210,12 @@ Assignment 2 is due this week and you will need to write HTML and JavaScript cod
 This week we will focus on the selection programming structure that provides the ability of a program to make decisions based on a True or False criteria. Please examine Slide Set 4 and Assignment 3 and create the Program Design document for each part before class this week. Use a word processor to create the Specifications Section, Algorithm Design, and Known Test Data sections. Create input and output displays for desired output for the known test data. Use Scratch, PowerPoint, or another graphics program to make flowcharts. Another interesting option is the Google Chrome plugin draw.io
 Make sure that you use diamonds for the flowchart symbol for a selection structure with assertion displayed and two arrows out labeled True or False. Embed the flow chart in your Program Design document or attach as file.
 
-Check your JavaScript code by copying and pasting the contents contained in the script element to the text area at
-<https://jshint.com> during the implementation process and before submission. Note that not all errors are accurate for browser JavaScript so just take it as advice. Ignore radix errors for parseInt( ) and can be a form of eval errors for document.write( ).
+<!-- Check your JavaScript code by copying and pasting the contents contained in the script element to the text area at
+<https://jshint.com> during the implementation process and before submission. Note that not all errors are accurate for browser JavaScript so just take it as advice. Ignore radix errors for parseInt( ) and can be a form of eval errors for document.write( ). 
+-->
 You should also validate the HTML code using <https://validator.w3.org/> and styles using <https://jigsaw.w3.org/css-validator/>.
 
-Use the browser Error Console throughout the implementation process to view errors. This will identify syntax errors as the code is run. Use window.alert(variableName) to display the value of variables during the implementation process to identify logic errors after all syntax errors are cleared.
+Use the browser Error Console throughout the implementation process to view errors. This will identify syntax errors as the code is run. Use window.alert(variableName) to display the value of variables during the implementation process to identify logic errors after all syntax errors are cleared. The error console is available in the Developer Tools of most browsers.
 
 Create links to your web pages that contain the JavaScript code for each part of this assignment. Make sure all links work for the program implementation files. If they do not you will receive a zero.
 
@@ -218,6 +225,15 @@ Create links to your web pages that contain the JavaScript code for each part of
 - [Assignment 3: Selection Structure Programs]({{site.baseurl}}/assets/cmis102/CMIS102A03d.pdf)
 {: .pdf}
 
+### JavaScript eBooks and links that maybe helpful for Week 4
+
+- Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Booleans to JS-Conditionals.  
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 6.7 covering JavaScript if](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch06.html)
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 7.1 to 7.6 covering JavaScript if](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch07.html)
+- [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
+    1. [Conditional Logic - If, Else, Comparators, Concatenate](https://gitbookio.gitbooks.io/javascript/content/conditional/)
+{: .link}
+
 ### Watch these videos before class. which cover how to write JavaScript code encapsulated HTML code with a selection structure:
 
 - [Beginner JavaScript Tutorial - 14 - if Statement](https://youtu.be/5gjr15aWp24) 8m
@@ -225,15 +241,6 @@ Create links to your web pages that contain the JavaScript code for each part of
 - [Beginner JavaScript Tutorial - 16 - Nesting and Fridays](https://youtu.be/ebjo8_u82mI) 6m
 - [Beginner JavaScript Tutorial - 17 - Complex Conditions](https://youtu.be/aQf-zeuHijU) 8m
 {: .vid}
-
-### JavaScript eBooks and links that maybe helpful for Week 4
-
-- Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Booleans to JS-Conditionals.  
-- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1
-- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First HTML 5 Programming, 2011](https://learning.oreilly.com/library/view/head-first-html5/9781449314712/) - Read Chapter 1 and 2
-- [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
-    1. [Conditional Logic - If, Else, Comparators, Concatenate](https://gitbookio.gitbooks.io/javascript/content/conditional/)
-{: .link}
 
 ### Week 4 Duties
 
@@ -266,13 +273,14 @@ Please print Assignment 4 and Slide Set 5, before coming to class. The slide set
 ### JavaScript eBooks and links that maybe helpful for Week 5
 
 - Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Loop For to JS-Loop While.  
-- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [Head First JavaScript Programming, 2014](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/) - Read Chapter 1 - Loops
+### JavaScript eBooks and links that maybe helpful for Week 4
+
+- Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Booleans to JS-Conditionals.  
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 8.1-8.4, 8.6-8,8 covering JavaScript loops](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch08.html)
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
-    1. [Loops - For, While, Do...While](https://gitbookio.gitbooks.io/javascript/content/loops/)
+    1. [Conditional Logic - If, Else, Comparators, Concatenate](https://gitbookio.gitbooks.io/javascript/content/conditional/)
 {: .link}
 
-Check your JavaScript code by copying and pasting the contents contained in the script element to the text area at
-<https://jshint.com> during the implementation process and before submission. Note that not all errors are accurate for browser JavaScript so just take it as advice. Ignore radix errors for parseInt( ) and can be a form of eval errors for document.write( ).
 You should also validate the HTML code using <https://validator.w3.org/> and styles using <https://jigsaw.w3.org/css-validator/>.
 
 ### Week 5 Duties
@@ -283,13 +291,13 @@ You should also validate the HTML code using <https://validator.w3.org/> and sty
 
 For this assignment, you write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their URL's on LEO. Also create links to these two programs from you home page.
 
-## Week 6: Arrays
+## Week 6: Functions and Code Reuse
 {: #Week6 .anchor}
 
-## Week 7: Functions and Code Reuse
+## Week 7: Arrays
 {: #Week7 .anchor}
 
-## Week 8: Project Presentations
+## Week 8: Final Project Presentations
 {: #Week8 .anchor}
 
 ![.]({{site.baseurl}}/assets/ifsm201/Wk8.png)This is the last week of our class. Our Tuesday class this week will be your last chance to get assistance with your code and final assignment.
