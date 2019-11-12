@@ -273,9 +273,6 @@ Please print Assignment 4 and Slide Set 5, before coming to class. The slide set
 ### JavaScript eBooks and links that maybe helpful for Week 5
 
 - Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Loop For to JS-Loop While.  
-### JavaScript eBooks and links that maybe helpful for Week 4
-
-- Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Booleans to JS-Conditionals.  
 - [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 8.1-8.4, 8.6-8,8 covering JavaScript loops](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch08.html)
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
     1. [Conditional Logic - If, Else, Comparators, Concatenate](https://gitbookio.gitbooks.io/javascript/content/conditional/)
