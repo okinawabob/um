@@ -225,6 +225,14 @@ Create links to your web pages that contain the JavaScript code for each part of
 - [Assignment 3: Selection Structure Programs]({{site.baseurl}}/assets/cmis102/CMIS102A03d.pdf)
 {: .pdf}
 
+### Watch these videos before class. which cover how to write JavaScript code encapsulated HTML code with a selection structure:
+
+- [Beginner JavaScript Tutorial - 14 - if Statement](https://youtu.be/5gjr15aWp24) 8m
+- [Beginner JavaScript Tutorial - 15 - if/else Statement](https://youtu.be/FKyrQYkihGw) 7m
+- [Beginner JavaScript Tutorial - 16 - Nesting and Fridays](https://youtu.be/ebjo8_u82mI) 6m
+- [Beginner JavaScript Tutorial - 17 - Complex Conditions](https://youtu.be/aQf-zeuHijU) 8m
+{: .vid}
+
 ### JavaScript eBooks and links that maybe helpful for Week 4
 
 - Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Booleans to JS-Conditionals.  
@@ -233,14 +241,6 @@ Create links to your web pages that contain the JavaScript code for each part of
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
     1. [Conditional Logic - If, Else, Comparators, Concatenate](https://gitbookio.gitbooks.io/javascript/content/conditional/)
 {: .link}
-
-### Watch these videos before class. which cover how to write JavaScript code encapsulated HTML code with a selection structure:
-
-- [Beginner JavaScript Tutorial - 14 - if Statement](https://youtu.be/5gjr15aWp24) 8m
-- [Beginner JavaScript Tutorial - 15 - if/else Statement](https://youtu.be/FKyrQYkihGw) 7m
-- [Beginner JavaScript Tutorial - 16 - Nesting and Fridays](https://youtu.be/ebjo8_u82mI) 6m
-- [Beginner JavaScript Tutorial - 17 - Complex Conditions](https://youtu.be/aQf-zeuHijU) 8m
-{: .vid}
 
 ### Week 4 Duties
 
@@ -263,7 +263,7 @@ Please print Assignment 4 and Slide Set 5, before coming to class. The slide set
 - [Assignment 4: Repetition Structure Programs]({{site.baseurl}}/assets/cmis102/CMIS102A04d.pdf)
 {: .pdf}
 
-### Watch these videos before class. which cover how to write JavaScript code ewith a repitition structure:
+### Watch these videos before class. which cover how to write JavaScript code with a repitition structure:
 
 - [Beginner JavaScript Tutorial - 20 - while Loop](https://youtu.be/QPFW_0blw9w) 6m
 - [Beginner JavaScript Tutorial - 19 - for Loop](https://youtu.be/Coxgr66EwRk) 6m
@@ -275,7 +275,7 @@ Please print Assignment 4 and Slide Set 5, before coming to class. The slide set
 - Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) from JS-Loop For to JS-Loop While.  
 - [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 8.1-8.4, 8.6-8,8 covering JavaScript loops](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch08.html)
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
-    1. [Conditional Logic - If, Else, Comparators, Concatenate](https://gitbookio.gitbooks.io/javascript/content/conditional/)
+    1. [Loops - For, While, Do...While](https://gitbookio.gitbooks.io/javascript/content/loops/)
 {: .link}
 
 You should also validate the HTML code using <https://validator.w3.org/> and styles using <https://jigsaw.w3.org/css-validator/>.
