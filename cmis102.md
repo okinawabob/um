@@ -265,6 +265,8 @@ Please print Assignment 4 and Slide Set 5, before coming to class. The slide set
 
 ### Watch these videos before class. which cover how to write JavaScript code with a repitition structure:
 
+- [Things I wish I knew when I started Programming](https://youtu.be/GAgegNHVXxE) 12m
+- [7 Habits of Highly Effective Programmers](https://youtu.be/W8ykZNSLDqE) 12m
 - [Beginner JavaScript Tutorial - 20 - while Loop](https://youtu.be/QPFW_0blw9w) 6m
 - [Beginner JavaScript Tutorial - 19 - for Loop](https://youtu.be/Coxgr66EwRk) 6m
 - [Beginner JavaScript Tutorial - 21 - do while](https://youtu.be/7Eb7D_IOaog) 6m
