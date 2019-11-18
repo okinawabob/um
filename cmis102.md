@@ -122,7 +122,7 @@ I also recommend working through their HTML tutorial from HTML-Introduction to H
 
 #### [Visual Studio Code](https://code.visualstudio.com) Editor
 
-Visual Studio Code](https://code.visualstudio.com) is an open source editor project created by Microsoft and available for Windows, MacOS, or Linux. It can be utilized without being online when writing code and can be used for many computer programming languages. It also integrates well with GIT to synchronize code with GitHub pages.
+[Visual Studio Code](https://code.visualstudio.com) is an open source editor project created by Microsoft and available for Windows, MacOS, or Linux. It can be utilized without being online when writing code and can be used for many computer programming languages. It also integrates well with GIT to synchronize code with GitHub pages.
 
 - [Web Page with Visual Studio Code](https://youtu.be/o_qAFQslASM) 11m
 - [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs) 22m
