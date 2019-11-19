@@ -147,9 +147,11 @@ I also recommend working through their HTML tutorial from HTML-Introduction to H
 1. The first time you will need to Enter your github UserID followed by password.
 1. You can now edit files locall and then Push files to GitHub cloud storage.
 
-- [GitHub for Noobs (1/4) – A Short History](https://youtu.be/1h9_cB9mPT8)
-- [GitHub for Noobs (2/4) – Common Workflows](https://youtu.be/_ALeswWzpBo)
-- [GitHub for Noobs (4/4) Using the Command Line](https://youtu.be/JPKOESR1k04)
+### Interesting videos on GitHub and Git
+
+- [GitHub for Noobs (1/4) – A Short History](https://youtu.be/1h9_cB9mPT8) 5m
+- [GitHub for Noobs (2/4) – Common Workflows](https://youtu.be/_ALeswWzpBo) 7m
+- [GitHub for Noobs (4/4) Using the Command Line](https://youtu.be/JPKOESR1k04) 24m
 {: .vid}
 
 <!--
