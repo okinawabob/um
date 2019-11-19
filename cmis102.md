@@ -144,7 +144,7 @@ I also recommend working through their HTML tutorial from HTML-Introduction to H
     9. Select the Git icon and enter a commit message if desired and return or click check mark.
     10. Select Push from ... menu.
     11. The first time you will need to Enter your github UserID followed by password.
-    12. You can now edit files locall and then Push files to GitHub cloud storage.
+    12. You can now edit files locall and then Push files to GitHub cloud storage. 
 
 <!--
 #### Online cloud based editor [Repl.it](https://repl.it/)
