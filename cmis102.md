@@ -133,6 +133,18 @@ Visual Studio Code](https://code.visualstudio.com) is an open source editor proj
 - [Emmet Quick Reference HTML & CSS](http://islandman.org/umuc/cmst385/EmmetCheatSheet.pdf)
 - [Git download for your OS](https://git-scm.com/downloads)
 {: .link}
+    1. Download Git above and install
+    2. Restart Visual Studio Code
+    3. Go to Github.com open repository and click the green (Clone or download) button. 
+    4. Select Clone with HTTPS and copy provided link. 
+    5. Go to Visual Studio Code and select from menu View > Command Palette
+    6. Type Git: Clone   then paste URL when directed. Select any local drive folder or create a github folder in documents.
+    7. Your files will now be downloaded and available on local drive.
+    8. Change a file and save or create a new file.
+    9. Select the Git icon and enter a commit message if desired and return or click check mark.
+    10. Select Push from ... menu.
+    11. The first time you will need to Enter your github UserID followed by password.
+    12. You can now edit files locall and then Push files to GitHub cloud storage.
 
 <!--
 #### Online cloud based editor [Repl.it](https://repl.it/)
