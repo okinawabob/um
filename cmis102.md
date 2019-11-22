@@ -134,6 +134,26 @@ I also recommend working through their HTML tutorial from HTML-Introduction to H
 - [Git download for your OS](https://git-scm.com/downloads)
 {: .link}
 
+1. Download Git above and install
+1. Restart Visual Studio Code
+1. Go to Github.com open repository and click the green (Clone or download) button. 
+1. Select Clone with HTTPS and copy provided link. 
+1. Go to Visual Studio Code and select from menu View > Command Palette
+1. Type Git: Clone   then paste URL when directed. Select any local drive folder or create a github folder in documents.
+1. Your files will now be downloaded and available on local drive.
+1. Change a file and save or create a new file.
+1. Select the Git icon and enter a commit message if desired and return or click check mark.
+1. Select Push from ... menu.
+1. The first time you will need to Enter your github UserID followed by password.
+1. You can now edit files locall and then Push files to GitHub cloud storage.
+
+#### Interesting videos on GitHub and Git
+
+- [GitHub for Noobs (1/4) – A Short History](https://youtu.be/1h9_cB9mPT8) 5m
+- [GitHub for Noobs (2/4) – Common Workflows](https://youtu.be/_ALeswWzpBo) 7m
+- [GitHub for Noobs (4/4) Using the Command Line](https://youtu.be/JPKOESR1k04) 24m
+{: .vid}
+
 <!--
 #### Online cloud based editor [Repl.it](https://repl.it/)
 
