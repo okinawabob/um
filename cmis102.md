@@ -293,6 +293,8 @@ For this assignment, you write HTML and JavaScript code to make a web pages that
 ## Week 6: Functions and Code Reuse
 {: #Week6 .anchor}
 
+[Var vs Const vs Let (ES6)](https://youtu.be/1mgLWu69ijU)
+
 ## Week 7: Arrays
 {: #Week7 .anchor}
 
