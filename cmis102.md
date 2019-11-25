@@ -239,13 +239,13 @@ Use the browser Error Console throughout the implementation process to view erro
 
 Create links to your web pages that contain the JavaScript code for each part of this assignment. Make sure all links work for the program implementation files. If they do not you will receive a zero.
 
-### Print and examine Slide Set 4, and create the Program Design document for all parts of Assignment 3 described below:
+### Print and examine Slide Set 4, and create the Program Design document for all parts of Assignment 3 described below
 
 - [Slide Set 4: Selection Structure Programming]({{site.baseurl}}/assets/cmis102/04_SelectionStructureJS.pdf)
 - [Assignment 3: Selection Structure Programs]({{site.baseurl}}/assets/cmis102/CMIS102A03d.pdf)
 {: .pdf}
 
-### Watch these videos before class. which cover how to write JavaScript code encapsulated HTML code with a selection structure:
+### Watch these videos before class. which cover how to write JavaScript code encapsulated HTML code with a selection structure
 
 - [Beginner JavaScript Tutorial - 14 - if Statement](https://youtu.be/5gjr15aWp24) 8m
 - [Beginner JavaScript Tutorial - 15 - if/else Statement](https://youtu.be/FKyrQYkihGw) 7m
@@ -277,13 +277,13 @@ This week we will focus on Repetition Structures which allows your programs to l
 
 Please print Assignment 4 and Slide Set 5, before coming to class. The slide sets are posted as PDF documents with four slides per page in color.
 
-### Print and examine Slide Set 5, and create the Program Design document for all parts of Assignment 4 described below:
+### Print and examine Slide Set 5 and Assignment 4 described below before class
 
 - [Slide Set 5: Repetition Structure Programming]({{site.baseurl}}/assets/cmis102/05_RepetitionStructureJS3.pdf)
 - [Assignment 4: Repetition Structure Programs]({{site.baseurl}}/assets/cmis102/CMIS102A04d.pdf)
 {: .pdf}
 
-### Watch these videos before class. which cover how to write JavaScript code with a repitition structure:
+### Watch these videos before class, which cover JavaScript code with a repetition structure
 
 - [Things I wish I knew when I started Programming](https://youtu.be/GAgegNHVXxE) 12m
 - [7 Habits of Highly Effective Programmers](https://youtu.be/W8ykZNSLDqE) 12m
@@ -310,10 +310,52 @@ You should also validate the HTML code using <https://validator.w3.org/> and sty
 
 For this assignment, you write HTML and JavaScript code to make a web pages that satisfy Part A and B program requirements. After hosting two web pages on a web host then submit their URL's on LEO. Also create links to these two programs from you home page.
 
-## Week 6: Functions and Code Reuse
+## Week 6: Functions and Arrays
 {: #Week6 .anchor}
 
-[Var vs Const vs Let (ES6)](https://youtu.be/1mgLWu69ijU)
+This week we will focus on functions and arrays, which are the last two topics required for the course and described in Slide Set 6. Assignment 5 is our Final Project and has two parts. Part A is the conversion of the Temperature Converter program to utilize two functions. Part B is modification of the casino program to include an additional chip color and IRS taxes on winnings. Part B will also require the use of functions and arrays. Both parts require submission of design documents as well as code. For the final project I would like you to submit your Design documents and actual HTML and JavaScript files.
+
+Program Functions allows you to break up your code into modules. Functions are defined with a function definition, which specifies what code will be executed when the function is called. A function can be called from your main program, other functions, or GUI events. Functions in programming are really an adaptation of mathematical functions which are used to modularize components of a program. Hopefully, you have learned algebraic functions in the past.
+
+Please print Assignment 5 and Slide Set 6 in color, before coming to class. The slide sets are posted as PDF documents with four slides per page in color.
+
+### Print and examine Slide Set 6 and Assignment 5 described below before class
+
+- [Slide Set 6: Functions and Arrays]({{site.baseurl}}/assets/cmis102/06_Functions-ArraysJS3.pdf)
+- [Assignment 5: Final Project]({{site.baseurl}}/assets/cmis102/CMIS102A05d-Finalproject.pdf)
+{: .pdf}
+
+### Watch these videos before class, which cover JavaScript functions and arrays
+
+- [JavaScript Tutorial - 6 - Functions](https://youtu.be/5nuqALOHN1M) 7m
+- [JavaScript Tutorial - 7 - Using Parameters with Functions](https://youtu.be/7i1f23AVsn4) 5m
+- [JavaScript Tutorial - 8 - Functions with Multiple Parameters](https://youtu.be/BgtdojEoWFI) 5m
+- [JavaScript Tutorial - 9 - The return Statement](https://youtu.be/AdQcd3sKGC8k) 6m
+- [JavaScript Tutorial - 10 - Calling a Function From Another Function](https://youtu.be/95mIis5M-gU) 6m
+- [JavaScript Tutorial - 11 - Global & Local Variables](https://youtu.be/waF2Isf-phQ) 6m
+- [JavaScript Tutorial - 36 - Math Objects](https://youtu.be/F30jLIqGQpo) 6m
+- [JavaScript Tutorial - 28 - Arrays](https://youtu.be/nEvBcwlpkBQ) 7m
+- [JavaScript Tutorial - 29 - Other Ways to Create Arrays](https://youtu.be/CSL9A8j5cAY) 7m
+- [JavaScript Tutorial - 30 - Array Properties and Methods](https://youtu.be/PE5A0jLIxBg) 6m
+- [Var vs Const vs Let (ECMAScript 6 or ES6)](https://youtu.be/1mgLWu69ijU) 4m
+{: .vid}
+
+### JavaScript eBooks and links that maybe helpful for Week 5
+
+- Do [W3 Schools > JavaScript tutorial](<https://www.w3schools.com/js/default.asp>) JS-Functions, JS-Arrays, JS-Strings, JS-Math.  
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 9.1-9.8 about Functions](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch09.html)
+- [O'Reilly Safari - UMGC](https://libguides.umuc.edu/safari) > [World Wide Web: How to Program, Fifth Edition](https://learning.oreilly.com/library/view/internet-world/9780132990455/) - [Read Sections 10.1-10 about Arrays](https://learning.oreilly.com/library/view/internet-world/9780132990455/ch10.html)
+- [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
+    1. [Arrays](https://gitbookio.gitbooks.io/javascript/content/arrays/)
+    1. [Functions](https://gitbookio.gitbooks.io/javascript/content/functions/)
+{: .link}
+
+### Week 6 Duties
+
+- Complete Design Phases for Assignment 5
+
+Upload your design phases to LEO using Assignment 5 Link. Later you can upload the code.
+
 
 ## Week 7: Arrays
 {: #Week7 .anchor}
