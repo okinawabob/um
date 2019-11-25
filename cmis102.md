@@ -357,8 +357,10 @@ Please print Assignment 5 and Slide Set 6 in color, before coming to class. The 
 Upload your design phases to LEO using Assignment 5 Link. Later you can upload the code.
 
 
-## Week 7: Arrays
+## Week 7: Event Driven Programming using HTML Forms and Functions
 {: #Week7 .anchor}
+
+This week we will learn about Event Driven Programming paradigm using HTML Form events to call functions. It is a different way to program because multiple form events will call functions. It is not required for the final assignment, but if you have completed the procedural program you may think it is fun and create a GUI or the final assignment.
 
 ## Week 8: Final Project Presentations
 {: #Week8 .anchor}
