@@ -9,8 +9,6 @@ permalink: "/ifsm300/"
 ![UMUC Asia]({{site.baseurl}}{{page.image}}){: .logo}
 {: #Top .anchor}
 
-# IFSM300 is boring
-
 ![Week 0]({{site.baseurl}}/assets/Wk0.png)This is a hybrid class and we will meet for one class per week and you will need to work through the course material online each week and do the weekly quiz covering the online content. Most of the content provided covers computing from a business perspective to support the *strategic objectives* of the business. The goal of using information systems is to enable strategic outcomes to achieve competitive advantage.  
 
 If you have a question you can ask in class or email me at:  
