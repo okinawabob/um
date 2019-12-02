@@ -356,11 +356,21 @@ Please print Assignment 5 and Slide Set 6 in color, before coming to class. The 
 
 Upload your design phases to LEO using Assignment 5 Link. Later you can upload the code.
 
-
 ## Week 7: Event Driven Programming using HTML Forms and Functions
 {: #Week7 .anchor}
 
 This week we will learn about Event Driven Programming paradigm using HTML Form events to call functions. It is a different way to program because multiple form events will call functions. It is not required for the final assignment, but if you have completed the procedural program you may think it is fun and create a GUI or the final assignment.
+
+### Week 7 Duties
+
+- Convert your Design Phase for Assignment 5 to code and debug until it runs giving correct results for your known test data.
+- Upload your design phases and html code to LEO using Assignment 5 Link. Also provide a link to your html page on your homepage.
+
+### Print and examine Slide Set 7 below before class
+
+- [Slide Set 7: Event Driven Programming]({{site.baseurl}}/assets/cmis102/07-EventDrivenProg.pdf)
+- [Assignment 5: Final Project]({{site.baseurl}}/assets/cmis102/CMIS102A05d-Finalproject.pdf)
+{: .pdf}
 
 ## Week 8: Final Project Presentations
 {: #Week8 .anchor}
