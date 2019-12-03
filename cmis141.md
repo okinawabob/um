@@ -95,7 +95,7 @@ After the Java essentials we will then progress to Java input and output using c
 
 Please print Slide Sets 2 and 3, before coming to class this week. The slide sets are posted as PDF documents with four slides per page in color. 
 
-- [Slide Set 2: Java Essentials]({{site.baseurl}}/assets/assets/cmis141/02_JavaEssentials.pdf)
+- [Slide Set 2: Java Essentials]({{site.baseurl}}/assets/cmis141/02_JavaEssentials.pdf)
 - [Slide Set 3: Java Input/Output]({{site.baseurl}}/assets/cmis141/03_Input_Output.pdf)
 - [Homework #1 - Due week 3]({{site.baseurl}}/assets/cmis141/Homework1.pdf)
 {: .pdf}
