@@ -13,11 +13,9 @@ permalink: "/cmis102/"
 
 We will learn the [JavaScript language](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1) which is one of the most popular interpreted languages in use today. The JavaScript interpreter is contained within all modern browsers and easy to access within an HTML document. JavaScript is the primary scripting language used for website development and also the JS in many WebApp frameworks such as: Node.js, React.js, Backbone.js, Vue.js, Hexo, and Gatsby. It is a great choice for beginners because it is loosely data typed and utilizes an interpreter which will abort when it encounters a line of code it doesn't understand. Please utilize the [Google Chrome](https://www.google.com/chrome/) browser for the class.
 
-We will be utilizing [Scratch](https://scratch.mit.edu) to do the flowchart algorithm and you may implement the program solution using scratch.
+You can utilize [Scratch](https://scratch.mit.edu) to do the flowchart algorithm and you may implement the program solution using scratch. However, the final program should be coded using JavaScript.
 
-A great cloud based solution to utilize for the class is https://repl.it/ and I highly recommend you get an account with them. If you have a github.com account from IFSM201 you can link it as your login or sign up using an email address. 
-
-If you prefer to work offline then I recommend the [Visual Studio Code](https://code.visualstudio.com/) editor.
+I recommend the [Visual Studio Code](https://code.visualstudio.com/) editor for creating writing the code. It is an open-source editor created by MicroSoft and supports many different computer languages with many plugins available.
 
 If you have a question you can ask in class or email me at:  
 
