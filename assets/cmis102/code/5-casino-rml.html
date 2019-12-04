@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	   <title>Casino - HTML5</title>
+	   <link rel="stylesheet" href="5-casino-rml.css" type="text/css"/>
+	   <script src="5-casino-rml.js">
+		   
+	   </script>
+   </head>
+   <body>
+	   <h1>Tinian Dynasty Casino - Chip Counter</h1>
+	   <form id="frmCasino" action="">
+		   <fieldset id="fsDataEntry">
+			   <legend>
+				   Customer Data Input
+			   </legend>
+			   <p>
+				   Enter Receipt Value:
+				   <br/>
+				   <input id="hidReceiptNum" type="hidden" value="1"/>
+				   <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+				   The above is a global variable contained in the form.
+				   It is used to store the receipt number.
+				   It is hidden, but it still exists and a value can be assigned.
+				   -->
+				   <input id="txtReceipt" size="10" tabindex="1" type="text"/>
+				   <input id="btnReceipt" tabindex="2" type="button" value="Enter Receipt" onclick="AddReceipt()"/>
+			   </p>
+			   <hr/>
+			   <p>
+				   Enter Chip Quantities:
+			   </p>
+			   <p>
+				   <input id="txtChip5" size="3" tabindex="3" type="text" value="0" onchange="EnterChip()"/>
+				   Black = $5
+			   </p>
+			   <p>
+				   <input id="txtChip20" size="3" tabindex="4" type="text" value="0" onchange="EnterChip()"/>
+				   Blue = $20
+			   </p>
+			   <p>
+				   <input id="txtChip50" size="3" tabindex="5" type="text" value="0" onchange="EnterChip()"/>
+				   Red = $50
+			   </p>
+			   <p>
+				   <input id="txtChip100" size="3" tabindex="6" type="text" value="0" onchange="EnterChip()"/>
+				   Green = $100
+			   </p>
+			   <p>
+				   <input id="txtChip500" size="3" tabindex="7" type="text" value="0" onchange="EnterChip()"/>
+				   Gold = $500
+			   </p><hr/>
+			   <p>
+				   Residency:
+			   </p>
+			   <p>
+				   <input name="radResidency" id="radResCNMI" tabindex="8" type="radio" onclick="RadioSwitcher()"/>
+				   CNMI
+				   <br/>
+				   <input name="radResidency" id="radResUSA" tabindex="9" type="radio" onclick="RadioSwitcher()"/>
+				   USA (including Guam)
+				   <br/>
+				   <input name="radResidency" id="radResForeign" tabindex="10" type="radio" onclick="RadioSwitcher()"/>
+				   Foreign (international)
+			   </p>
+			   <p id="pSSN">
+				   Social Security Number:
+				   <br/>
+				   <input id="txtSSN" maxlength="9" size="9" tabindex="11" type="text" value="" disabled="disabled"/>
+			   </p>
+		   </fieldset>
+		   <fieldset id="fsResults">
+			   <legend>
+				   Gambling Results
+			   </legend>
+			   <p>
+				   Receipts Total:<input id="txtTotalReceipts" type="text" value="0" size="10" readonly="readonly"/>
+			   </p>
+			   <p id="txaLabel">
+				   Receipts Entered:
+			   </p>
+			   <p>
+				   <textarea id="txaReceiptsDisplay" cols="20" rows="8" readonly="readonly"></textarea>
+			   </p>
+			   <hr/>
+			   <p>
+				   Chip Quantity: <input readonly="readonly" id="txtChipQty" size="10" type="text"/>
+			   </p>
+			   <p>
+				   Winnings: <input readonly="readonly" id="txtWinnings" size="10" type="text"/>
+			   </p>
+			   <p>
+				   Chip Value: <input readonly="readonly" id="txtChipValue" size="10" type="text"/>
+			   </p>
+			   <p>
+				   Tax Withheld: <input readonly="readonly" id="txtTax" size="10" type="text"/>
+			   </p>
+			   <p>
+				   Cash Out: <input readonly="readonly" id="txtCashOut" size="10" type="text"/>
+			   </p>
+		   </fieldset>
+		   <p>
+			   <input id="btnCalculate" type="button" value="Calculate Cash Out" onclick="CalculateCashOut()"/>
+			   <input id="btnReset" type="reset" value="Clear"/>
+		   </p>
+	   </form>
+   </body>
+</html>

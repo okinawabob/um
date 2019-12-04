@@ -1,0 +1,36 @@
+
+<!DOCTYPE>
+<html lang="en">
+<head>
+  <meta charset="utf=8">
+  <title>Temperature Conversion Program FINAL</title>
+</head>
+<body>
+  <h1>Temperature Converter FINAL Program </h1>
+  <script>
+    var cTemp, fTemp, fResult;
+    cTemp = window.prompt("Is entry degrees C or F?", "0");
+    if (cTemp == "C" || cTemp == "c")
+    {
+      cTemp = parseFloat (window.prompt("Enter C degrees:", "0"));
+      document.write("<p>" + cTemp + "C =" + CtoF(cTemp) + " F ");
+    }
+    else
+    {
+      fTemp = parseFloat(window.prompt("Enter F degrees:", "0"));
+      document.write("<p>" + fTemp + "F =" + FtoC(fTemp) + " C ");
+    }
+   
+    function FtoC(fF)
+    {
+      var result = 5 / 9 * (fF - 32);
+      return result;
+    }
+
+    function CtoF(fC)
+    {
+      return 9 / 5 * fC + 32;
+    }
+  </script>
+</body>
+</html>
