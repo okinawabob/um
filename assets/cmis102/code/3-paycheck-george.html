@@ -1,0 +1,45 @@
+
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   <title>Pay Check</title>
+ </head>
+     <body style="background-color: #FFA500;;">
+     <h1>Pay Check Program</h1>
+     <p>George Mathis</p>
+     <script>
+         var fGross, fTax, fNet;
+         var sName = window.prompt("Enter your name", ""); 
+        
+         var sSocial = window.prompt("Enter your SSN", "");
+       
+         var fWage = parseFloat(prompt("Enter your wage", "0"));
+         var fHours = parseFloat(prompt("Enter your hours", "0"));
+
+         document.write(" Name: " + sName);
+         document.write(" Wage: " + fWage);
+         document.write(" Hours Worked: " + fHours);
+
+          
+         if(fHours < 40) {
+         fGross = fWage * fHours;
+         }
+         else {
+         fGross = fHours * fWage + (fHours - 40)*0.5*fWage;
+         }
+         document.write(" Gross =$ " + fGross );
+         
+         if(fGross < 1000) {
+         fTax = fGross * 0.15;
+         }
+         else {
+         fTax = 150 + (fGross - 1000) * 0.25;
+         }
+       
+         document.write(" Tax Withheld =$ " + fTax);
+         fNet = fGross -fTax;
+         document.write("NetPay:$ " + fNet);      
+     </script>
+     </body>
+     </html>

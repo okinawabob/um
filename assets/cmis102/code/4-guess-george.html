@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Guessing Game</title>
+  </head>
+  <body>
+     <h2>Pick a Number any Number</h2>
+    <script>
+     var sNumber, nAttempt, nCount=0;          
+     while(nCount < 4)
+     { 
+        sNumber =Math.floor(Math.random()*10);
+        nCount = nCount + 1;
+        nAttempt = parseInt(window.prompt("Please Guess any number between 0 and 9 !","")); 
+        if(nAttempt == sNumber){
+            document.writeIn("<p> Number Guessed = " + nAttempt + " is correct. You win!</p> ");
+            break;
+        }
+        else if(nAttempt > sNumber)
+        {
+            document.writeln("<p> Number Guessed = " + nAttempt + " is TOO HIGH.</p>");
+            alert("Oh My TOO HIGH Try Again");
+        }
+        else {
+            document.writeln("<p> Number Guessed = " + nAttempt + " is TOO LOW.</p>");
+            alert("Ohh Noo TOO LOW Don't give up");
+        }  
+        if(nAttempt == sNumber){
+            document.write("<p> Good Guess. Please Play Again! "); 
+        }
+        else{
+            document.write("<h2> You Snooze You lose.</h2>");
+        }
+     }
+    </script>   
+  </body>
+</html>
