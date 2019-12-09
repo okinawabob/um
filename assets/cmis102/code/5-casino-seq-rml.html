@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Casino Chip Counter - Procedural</title>
+	</head>
+    <body style="background-color: #CCFFCC; color: #006600; text-align: center;">
+        <script type="text/javascript">
+            var sChipColor = new Array("Black","Blue","Red","Green","Gold");
+            var nChipValue = new Array(5, 20, 50, 100, 500);
+            var nReceipts, nChipSum, nWinnings;
+            document.write("<h1>Welcome to the Casino Chip Counter</h1>");
+            alert("Welcome to the Casino Chip Counter")
+            nReceipts = getReceipts();
+            document.write("<h3>Total Receipts = $"+ nReceipts +"</h3><hr>");
+            nChipSum = getChips(sChipColor, nChipValue);
+            document.write("<h3>Total Value Chips = $"+ nChipSum +"</h3><hr>");
+            nWinnings = nChipSum - nReceipts;
+            displayResults(nChipSum, nWinnings);
+    
+            function getReceipts() {
+                var nSum = 0;
+                for(var nI = 1; nI < 100; nI++) {
+                    var nEntry = parseInt(window.prompt("Enter Receipt " + nI + " or Q to Quit",""));
+                    if(isNaN(nEntry))
+                        break;
+                    if(nEntry < 0) {
+                        alert("Receipts cannot be negative!\nTry again...");
+                        continue;
+                    }
+                    document.write("Receipt " + nI + " = $" + nEntry + "<br />");
+                    nSum = nSum + nEntry;
+                }
+                return nSum;
+            }
+    
+            function getChips(sColor, nValue) {
+                var nSum = 0;
+                for(var nI = 0; nI < sColor.length; nI++) {
+                    var nEntry = parseInt(window.prompt("How many " + sColor[nI]+" chips?","0"));
+                    document.write(sColor[nI] + " Chips: Quantity = " + nEntry
+                        + " and Value = $" + (nEntry * nValue[nI]) + "<br />");
+                    nSum += nEntry * nValue[nI];
+                }
+                return nSum;
+            }
+    
+            function displayResults(nValue, nWon) {
+                var fTax = 0.0, sSSN;
+                if(nWon < 0) {
+                document.write("<h2>Your Cash Out = $" + nValue + "</h2>");
+                document.write("Sorry you lost $" + (-nWon) + ", but we like your money.");
+                }
+                else if(nWon == 0) {
+                document.write("<h2>Your Cash Out = $" + nValue + "</h2>");
+                document.write("You broke even. Please come back for more.");
+                }
+                if(nWon > 0) {
+                alert("You are a Winner! US Federal Withholding Tax of 20%\n"
+                    + "is applied on winnings if US Resident/Citizen\n"
+                    + "Exemption: Residents of CNMI Withholding Tax of 10%");
+                if(confirm("Apply U.S. 20% Withholding Tax")) {
+                    fTax = nWon * 0.20;
+                    sSSN = prompt("Enter your Social Security Number","000-00-0000");
+                    document.write("<h2>Your Cash Out = $" + (nValue - fTax) + "</h2>");
+                    document.write("<h2>Tax Withheld = $" + fTax + " for SSN = " + sSSN + "</h2>");
+                }
+                else if(confirm("Apply CNMI 10% Withholding Tax")) {
+                    fTax = nWon * 0.10;
+                    sSSN = prompt("Enter your Social Security Number","000-00-0000");
+                    document.write("<h2>Your Cash Out = $" + (nValue - fTax) + "</h2>");
+                    document.write("<h2>Tax Withheld = $" + fTax + " for SSN = " + sSSN + "</h2>");
+                }
+                else 
+                {
+                    document.write("<h2>Your Cash Out = $" + (nValue) + "</h2>");
+                }
+                document.write("<p>Congratulations you won $" + nWon
+                    + ". Please come back! We want our money back.</p>");
+                }
+            }
+        </script>
+	</body>
+</html>
