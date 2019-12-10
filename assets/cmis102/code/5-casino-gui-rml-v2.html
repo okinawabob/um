@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casino GUI V2.0</title>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        h1 {
+            margin-top: 12px;
+            margin-bottom: 6px;
+            text-align: center;
+            font-size: 30px;
+            color: #009900;
+            font-family: "Comic Sans MS", Verdana, Arial, sans-serif;
+        }
+        #frmCasino {
+            background-color: #CCFFCC;
+            width: 580px;
+            height: 460px;
+            margin-left: auto;
+            margin-right: auto;
+            border: 6px outset #009900;
+        }
+        #fsDataEntry {
+            width: 230px;
+            height: 380px;
+            margin: 16px 0 16px 16px;
+            padding: 0 16px 16px 16px;
+            float: left;
+        }
+        fieldset#fsResults {
+            width: 230px;
+            height: 380px;
+            margin: 16px 16px 16px 0;
+            padding: 0 16px 16px 16px;
+            float: right;
+        }
+        #fsResults p {
+            text-align: right;
+        }
+        #fsResults p#txaLabel {
+            text-align: left;
+            margin-left: 48px;
+        }
+        #fsResults p input {
+            background-color: #EEFFEE;
+            text-align: right;
+        }
+        legend {
+            font: 700 18px "Comic Sans MS", Verdana, Arial, sans-serif;
+            color: #669966;
+        }
+        fieldset p {
+            font: 600 14px / 16px Arial, sans-serif;
+            color: #336633;
+            margin-top: 8px;
+            margin-bottom: 0;
+        }
+        #txaReceiptsDisplay {
+            background-color: #EEFFEE;
+            text-align: right;
+        }
+        #btnCalculate {
+            float: left;
+            margin-left: 16px;
+            width: 150px;
+            font-weight: 700;
+            color: #00CC00;
+        }
+        #btnReset {
+            float: right;
+            margin-right: 16px;
+            width: 76px;
+            font-weight: 700;
+            color: #990000;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Tinian Dynasty Casino - Chip Counter</h1>
+    <form id="frmCasino">
+        <fieldset id="fsDataEntry">
+            <legend>
+                Customer Data Input
+            </legend>
+            <p>
+                Enter Receipt Value:
+                <br/>
+                <input id="hidReceiptNum" type="hidden" value="1"/>
+                <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                The above is a global variable contained in the form.
+                It is used to store the receipt number.
+                It is hidden, but it still exists and a value can be assigned.
+                -->
+                <input id="txtReceipt" size="10" tabindex="1" type="text"/>
+                <input id="btnReceipt" tabindex="2" type="button" value="Enter Receipt" onclick="AddReceipt()"/>
+            </p>
+            <hr/>
+            <p>
+                Enter Chip Quantities:
+            </p>
+            <p>
+                <input id="txtChip5" size="3" tabindex="3" type="text" value="0" onchange="EnterChip()"/>
+                Black = $5
+            </p>
+            <p>
+                <input id="txtChip20" size="3" tabindex="4" type="text" value="0" onchange="EnterChip()"/>
+                Blue = $20
+            </p>
+            <p>
+                <input id="txtChip50" size="3" tabindex="5" type="text" value="0" onchange="EnterChip()"/>
+                Red = $50
+            </p>
+            <p>
+                <input id="txtChip100" size="3" tabindex="6" type="text" value="0" onchange="EnterChip()"/>
+                Green = $100
+            </p>
+            <p>
+                <input id="txtChip500" size="3" tabindex="7" type="text" value="0" onchange="EnterChip()"/>
+                Gold = $500
+            </p><hr/>
+            <p>
+                Residency:
+            </p>
+            <p>
+                <input name="radResidency" id="radResCNMI" tabindex="8" type="radio" onclick="RadioSwitcher()"/>
+                CNMI
+                <br/>
+                <input name="radResidency" id="radResUSA" tabindex="9" type="radio" onclick="RadioSwitcher()"/>
+                USA (including Guam)
+                <br/>
+                <input name="radResidency" id="radResForeign" tabindex="10" type="radio" onclick="RadioSwitcher()"/>
+                Foreign (international)
+            </p>
+            <p id="pSSN">
+                Social Security Number:
+                <br/>
+                <input id="txtSSN" maxlength="9" size="9" tabindex="11" type="text" value="" disabled="disabled"/>
+            </p>
+        </fieldset>
+
+        <fieldset id="fsResults">
+            <legend>
+                Gambling Results
+            </legend>
+            <p>
+                Receipts Total:<input id="txtTotalReceipts" type="text" value="0" size="10" readonly="readonly"/>
+            </p>
+            <p id="txaLabel">
+                Receipts Entered:
+            </p>
+            <p>
+                <textarea id="txaReceiptsDisplay" cols="20" rows="8" readonly="readonly"></textarea>
+            </p>
+            <hr/>
+            <p>
+                Chip Quantity: <input readonly="readonly" id="txtChipQty" size="10" type="text"/>
+            </p>
+            <p>
+                Winnings: <input readonly="readonly" id="txtWinnings" size="10" type="text"/>
+            </p>
+            <p>
+                Chip Value: <input readonly="readonly" id="txtChipValue" size="10" type="text"/>
+            </p>
+            <p>
+                Tax Withheld: <input readonly="readonly" id="txtTax" size="10" type="text"/>
+            </p>
+            <p>
+                Cash Out: <input readonly="readonly" id="txtCashOut" size="10" type="text"/>
+            </p>
+        </fieldset>
+        <p>
+            <input id="btnCalculate" type="button" value="Calculate Cash Out" onclick="CalculateCashOut()"/>
+            <input id="btnReset" type="reset" value="Clear"/>
+        </p>
+    </form>
+
+    <script>
+        // Form items mapping and Global variables
+        var ReceiptNum = 1; // Global variable
+        var Receipt = document.getElementById("txtReceipt");
+        var ReceiptsTotal = document.getElementById("txtTotalReceipts");
+        var ReceiptsDisplay = document.getElementById("txaReceiptsDisplay");
+        var Chip5 = document.getElementById("txtChip5");
+        var Chip20 = document.getElementById("txtChip20");
+        var Chip50 = document.getElementById("txtChip50");
+        var Chip100 = document.getElementById("txtChip100");
+        var Chip500 = document.getElementById("txtChip500");
+        var ChipQty = document.getElementById("txtChipQty");
+        var ChipValue = document.getElementById("txtChipValue");
+
+        var CNMI = document.getElementById("radResCNMI");
+        var USA = document.getElementById("radResUSA");
+        var Foreign = document.getElementById("radResForeign");
+        var SSN = document.getElementById("txtSSN");
+        
+        var Winnings = document.getElementById("txtWinnings");
+        var Tax = document.getElementById("txtTax");
+        var CashOut = document.getElementById("txtCashOut");
+
+        function AddReceipt() {
+            ReceiptsTotal.value = parseInt(ReceiptsTotal.value) + parseInt(Receipt.value);
+            ReceiptsDisplay.value = ReceiptsDisplay.value + "Receipt " + ReceiptNum + " = $" 
+                + Receipt.value + "\n";
+            ReceiptNum++;
+        }
+
+        function RadioSwitcher() {
+            if (CNMI.checked == true || USA.checked == true) {
+                SSN.disabled = false;
+            }
+            else {
+                SSN.value = "";
+                SSN.disabled = true;
+            }
+        }
+
+        function EnterChip() {
+            ChipQty.value = parseInt(Chip5.value) + parseInt(Chip20.value) +
+            parseInt(Chip50.value) + parseInt(Chip100.value) + parseInt(Chip500.value);
+            ChipValue.value = parseInt(Chip5.value) * 5 + parseInt(Chip20.value) * 20 +
+            parseInt(Chip50.value) * 50 + parseInt(Chip100.value) * 100 + parseInt(Chip500.value) * 500;
+        }
+
+        function CalculateCashOut() {
+            var TaxRate = 0;
+            EnterChip();
+            Winnings.value = parseInt(ChipValue.value) - parseInt(ReceiptsTotal.value)
+            if (parseInt(Winnings.value) > 0) {
+                if (CNMI.checked == true) {
+                    TaxRate = 0.10;
+                    if (SSN.value == "") {
+                        window.alert("You must enter a\nSocial Security Number");
+                        return;
+                    }
+                }
+                else 
+                    if (USA.checked == true) {
+                        TaxRate = 0.20;
+                        if (SSN.value == "") {
+                            window.alert("You must enter a\nSocial Security Number");
+                            return;
+                        }
+                    }
+                    else 
+                        if (Foreign.checked == true) {
+                            SSN.value = "";
+                            TaxRate = 0;
+                        }
+                        else {
+                            window.alert("You must select a residency");
+                            return;
+                        }
+                Tax.value = parseInt(Winnings.value) * TaxRate;
+                CashOut.value = parseInt(ChipValue.value) - parseInt(Tax.value);
+            }
+            else {
+                Tax.value = 0;
+                CashOut.value = parseInt(ChipValue.value);
+            }
+            return;
+        }   
+    </script>
+</body>
+</html>
