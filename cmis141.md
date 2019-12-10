@@ -13,7 +13,7 @@ permalink: "/cmis141/"
 
 We will utilize the [Java language](https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06) for this class. Java is a versatile general-purpose programming language that is used to create cross-platform applications. Regardless of the platform you want to use for deployment desktop, mobile, or web, Java can meet your needs. Java is an object oriented language with strict data typing. We will use the Java Development Kit (JDK) to compile our source code to byte-code which runs on any operating system with a Java Virtual Machine (JVM).  
 
-You can utilize [Scratch](https://scratch.mit.edu) to do the flowchart algorithm and you may implement the program solution using scratch. However, the final program must be coded using JavaS.
+You can utilize [Scratch](https://scratch.mit.edu) to do the flowchart algorithm and you may implement the program solution using scratch. However, the final program must be coded using Java.
 
 I recommend the [Visual Studio Code](https://code.visualstudio.com/) editor for creating writing the code. It is an open-source editor created by MicroSoft and supports many different computer languages with many plugins available.
 
