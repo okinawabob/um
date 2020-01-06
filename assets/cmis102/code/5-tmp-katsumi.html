@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="utf-8">
+      <title>Temperature Conversion Program F to C, C to F</title>
+</head>
+<body>
+    <h1>Tempereature Conversion Program F to C, C to F</h1>
+       <p>By Katsumi Noritomi</p>
+</body>
+   <script>
+        var temp =prompt("Please input C or F","0");
+
+        if(temp=='C'|| temp =='c') {
+            var entry = prompt("Enter dgree C=","0");
+            var ctemp = parseFloat(entry);
+            document.write(ctemp + "c=" + CtoF(ctemp) + "F"); 
+        }
+
+         if(temp == 'f' || temp =='F') {
+            var entry = prompt("Entry degree F=","0");
+            var ftemp = parseFloat(entry);
+            document.write(ftemp + "F=" + FtoC(ftemp) + "C");
+         }
+        
+         function FtoC(ftemp) {
+            var ctemp = 5 / 9 * (ftemp-32);
+           return ctemp;
+         }
+
+       function CtoF(ctemp)　{
+           var ftemp = 9/5 * ctemp + 32;
+           return ftemp;
+         }
+
+</script>        
+  </body>
+  </html>
