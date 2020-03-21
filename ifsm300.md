@@ -20,7 +20,7 @@ I will post handouts and hyperlinks to videos for the class on this web page whi
 
 I recommend you allocate approximately 15 hours per week to this course or approximately 120 hours over the next 8 weeks:
 
-- Lecture = 3 hours per week
+- Lecture = 2.5 hours per week
 - Reading study, video watching, and homework assignments = 12 hours
 {: .check}
   
