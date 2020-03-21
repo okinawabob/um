@@ -45,6 +45,7 @@ This week, you will learn how businesses develop their strategies for achieving 
 - [Globalization and the Digital Divide]({{site.baseurl}}/assets/ifsm300/1-6-Ch11-GlobalizationDigitalDivide.pdf)
 {: .read}
 
+<!-- 
 #### Optional former readings for week 1
 
 - [The Organizational Model]({{site.baseurl}}/assets/ifsm300/old/1-1-Organization-Model.pdf)
@@ -55,6 +56,8 @@ This week, you will learn how businesses develop their strategies for achieving 
 - [Heiarchical Levels of Strategy QMBA]({{site.baseurl}}/assets/ifsm300/old/1-6-Hierarchical-Levels-of-Strategy-QMBA.pdf)
 - [Productivity Paradox from 1991](http://ccs.mit.edu/papers/CCSWP130/ccswp130.html)
 {: .read}
+
+-->
 
 ### Print before class for week 1 notes
 
