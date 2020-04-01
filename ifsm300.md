@@ -237,6 +237,12 @@ Microsoft Access will be used to create a database for MIS. It will be consider
 
 Windows users have MS Access only in the Office Professional versions. MacOSX users will not have MS Access on any versions of MS Office, because Microsoft never ported the Access database application to MacOS. Therefore, you may want to use MS Access 2010 to do Assignment 2 in the UMUC Computer Lab/Testing Center.
 
+Due to the loss of computer lab access, you may consider doing the optional Khan Academy tutorial for those that cannot install Microsoft Access on your personal computers (i.e. MacOS or ChromeOS) in lieu of the posted Assignment 2. If you chose this option then simply upload the resulting SQL code created for this assignment folder.
+
+[SQL coding for a Simple Database - khanacademy.org](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pp/project-design-a-store-database)
+
+This interactive tutorial will introduce you to the basic structure of a database and the first set of SQL commands that are used to create and manipulate a database. You will not have to download any software - the tutorial and activities are completed totally online. You may work through the tutorial as many times as you wish.  You are encouraged to take notes or even print some of the screens that display the various SQL commands, how they are used, and the result of executing those commands. This will be your first experience with writing computer code and if you like it then I encourage you to enroll in CMIS102 or CMST385.
+
 ### Review [GCF Access Tutorials](https://edu.gcfglobal.org/en/)
 
 |  [Access 2010](https://edu.gcfglobal.org/en/access2010/) | [Access 2013](https://edu.gcfglobal.org/en/access2013/) | [Access 2016](https://edu.gcfglobal.org/en/access2016/)
