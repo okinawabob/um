@@ -289,6 +289,7 @@ This week you will have the opportunity to demonstrate your understanding of bus
 - [eBook Chapter 9 The People in Information Systems]({{site.baseurl}}/assets/ifsm300/4-2-Ch9-PeopleInformationSystems.pdf)
 {: .read}
 
+<!-- 
 #### Optional former readings for week 4
 
 - [Enterprise Applications]({{site.baseurl}}/assets/ifsm300/wk4/4-1-Enterprise_Applications.pdf) This short article covers the concepts involved with enterprise applications. These include: enterprise system, enterprise resource planning (ERP), supply chain management (SCM), and customer relationship management (CRM).
@@ -296,6 +297,8 @@ This week you will have the opportunity to demonstrate your understanding of bus
 - [Supply Chain Management As A Competitive Weapon](https://www.manufacturing.net/article/2007/11/supply-chain-management-competitive-weapon) Can supply chain management help your bottom line?
 - [CRM Projects Done Right Mean Business Process Changes](http://www.saleslogistix.com/company/press/BizProc.pdf) This article talks about the relationship between CRM (customer relationship management) system projects and the processes used for sales and marketing.
 {: .read}
+
+-->
 
 ### Print before class for week 4 notes
 
@@ -307,8 +310,6 @@ This week you will have the opportunity to demonstrate your understanding of bus
 1. [W. Edwards Deming - Part 1](https://youtu.be/GHvnIm9UEoQ "Right click this link and open in new tab") 10m
 1. [W. Edwards Deming - Part 2](https://youtu.be/mKFGj8sK5R8 "Right click this link and open in new tab") 9m
 1. [W. Edwards Deming - Part 3](https://youtu.be/6WeTaLRb-Bs) 10m
-1. [Dr. Deming - The 5 Deadly Diseases](https://youtu.be/ehMAwIHGN0Y "Right click this link and open in new tab") 16m
-1. [Deming - Fourteen Points](https://deming.org/explore/fourteen-points) 9m
 {: .vid}
 
 #### Week 4 Checklist
@@ -373,6 +374,8 @@ Please download and print the following before class if you wish to take notes:
 1. [Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI "Right click this link and open in new tab") 9m
 1. [LucidChart.com ERD Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk "Right click this link and open in new tab") 7m
 1. [LucidChart.com ERD Tutorial - Part 2](https://youtu.be/-CuY5ADwn24) 14m
+1. [Dr. Deming - The 5 Deadly Diseases](https://youtu.be/ehMAwIHGN0Y "Right click this link and open in new tab") 16m
+1. [Deming - Fourteen Points](https://deming.org/explore/fourteen-points) 9m
 {: .vid}
 
 ## Week 6: Project Planning
